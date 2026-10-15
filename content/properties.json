@@ -6,8 +6,12 @@
       "price": 222222,
       "city": "denia",
       "area": 233,
+      "description_es": "casa denia",
       "beds": 2,
-      "status": "available",
+      "gallery": [
+        "/images/properties/fyh_oro_horizontal.png"
+      ],
+      "status": "sold",
       "title": "villa denia",
       "type": "apartment",
       "id": "1"
