@@ -3,8 +3,8 @@ backend:
   name: github
   repo: melinedell/Fyhome
   branch: main
-  # base_url: https://YOUR-OAUTH-PROXY.example
-  # auth_endpoint: auth
+  base_url: https://fyhome-admin-auth.melinedell.workers.dev
+  auth_endpoint: auth
 
 media_folder: "images/properties"
 public_folder: "/images/properties"
