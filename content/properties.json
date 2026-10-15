@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "baths": 0,
+      "img": "/images/properties/normandy-house-img~eaa125170f8c5ab6_14-7494-1-edd1bb2.jpg",
+      "price": 222222,
+      "city": "denia",
+      "area": 233,
+      "beds": 2,
+      "status": "sold",
+      "title": "villa denia",
+      "type": "apartment",
+      "id": "1"
+    }
+  ]
 }
