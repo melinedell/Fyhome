@@ -1,0 +1,11 @@
+FYHOM – Admin-Vorbereitung (noch NICHT produktionsfertig)
+
+1. Entpacke das ZIP. Lade die Dateien in dein GitHub-Repository melinedell/Fyhome hoch.
+2. Netlify wird bei GitHub-Verbindung automatisch neu deployen.
+3. Die Startseite lädt Immobilien aus content/properties.json. Die Datei startet bewusst leer, damit keine fiktiven Angebote live erscheinen.
+4. Unter /admin/ ist Decap CMS vorbereitet. Die Anmeldung funktioniert NOCH NICHT: GitHub OAuth benötigt einen sicher konfigurierten OAuth-Proxy. GitHub-Benutzername/Passwort NICHT im Quellcode speichern.
+5. Nach sicherer Authentifizierung können Immobilien bearbeitet, Fotos hochgeladen, Status auf sold/hidden gesetzt werden. Derzeit werden als sold markierte Objekte weiterhin in der Liste angezeigt; für ein Verkaufs-Badge ist noch eine Anpassung nötig.
+6. Weitere Arbeiten vor echter Veröffentlichung: sichere Anmeldung, Bildergalerien, Detailseiten, Filter für zusätzliche Orte, vollständige Übersetzungen, Datenschutz/Impressum, Kontaktformulare, Tests.
+7. Nicht die bisherige Domain fyhom.es umstellen, bevor alles geprüft ist.
+
+Alternative mit weniger technischer Einrichtung: Pages CMS (pagescms.org) mit GitHub-Login, dessen Admin-Oberfläche aber auf der Anbieter-Domain liegt und nicht unter /admin/.

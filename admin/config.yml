@@ -1,0 +1,41 @@
+# GitHub OAuth proxy configuration is required before admin login works.
+backend:
+  name: github
+  repo: melinedell/Fyhome
+  branch: main
+  # base_url: https://YOUR-OAUTH-PROXY.example
+  # auth_endpoint: auth
+
+media_folder: "images/properties"
+public_folder: "/images/properties"
+publish: true
+collections:
+  - name: "immobilien"
+    label: "Immobilien"
+    files:
+      - label: "Immobilienübersicht"
+        name: "immobilienliste"
+        file: "content/properties.json"
+        format: "json"
+        fields:
+          - label: "Immobilien"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.title}} · {{fields.city}}"
+            fields:
+              - {label: "Referenznummer", name: "id", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Ort", name: "city", widget: "string"}
+              - {label: "Typ", name: "type", widget: "select", options: ["villa", "apartment", "house", "townhouse", "newbuild"]}
+              - {label: "Preis (€)", name: "price", widget: "number", value_type: "int", min: 0}
+              - {label: "Schlafzimmer", name: "beds", widget: "number", value_type: "int", min: 0}
+              - {label: "Badezimmer", name: "baths", widget: "number", value_type: "int", min: 0}
+              - {label: "Wohnfläche (m²)", name: "area", widget: "number", value_type: "int", min: 0}
+              - {label: "Status", name: "status", widget: "select", options: ["available", "sold", "hidden"]}
+              - {label: "Hauptbild", name: "img", widget: "image"}
+              - {label: "Weitere Bilder", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false}
+              - {label: "Beschreibung Spanisch", name: "description_es", widget: "text", required: false}
+              - {label: "Beschreibung Deutsch", name: "description_de", widget: "text", required: false}
+              - {label: "Beschreibung Englisch", name: "description_en", widget: "text", required: false}
+              - {label: "Beschreibung Französisch", name: "description_fr", widget: "text", required: false}
+              - {label: "Beschreibung Niederländisch", name: "description_nl", widget: "text", required: false}
