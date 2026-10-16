@@ -34,3 +34,5 @@
 [data-page="properties"] .filters{margin:0 0 28px}
 [data-page="properties"] .page-hero{padding-bottom:48px}
 @media(max-width:760px){[data-page="properties"] > .section{padding-top:20px}[data-page="properties"] .page-hero{padding-bottom:32px}}
+
+.fy-service .tiles{margin-top:36px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.fy-service .tile{min-width:0}@media(max-width:950px){.fy-service .tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:580px){.fy-service .tiles{grid-template-columns:1fr}}
