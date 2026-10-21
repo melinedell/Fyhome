@@ -23,7 +23,12 @@
     {
       "visible": true,
       "name": "Mark Von Gotenstein",
-      "role": "Immbolienmakler"
+      "role": "Immbolienmakler",
+      "role_de": "Immobilienmakler",
+      "role_es": "Agente inmobiliario",
+      "role_en": "Real Estate Agent",
+      "role_fr": "Agent immobilier",
+      "role_nl": "Makelaar"
     }
   ]
 }
