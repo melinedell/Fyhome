@@ -110,7 +110,12 @@ collections:
             required: false
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Position / Aufgabe", name: "role", widget: "string", required: false}
+              - {label: "Position Deutsch", name: "role_de", widget: "string", required: false}
+              - {label: "Position Spanisch", name: "role_es", widget: "string", required: false}
+              - {label: "Position Englisch", name: "role_en", widget: "string", required: false}
+              - {label: "Position Französisch", name: "role_fr", widget: "string", required: false}
+              - {label: "Position Niederländisch", name: "role_nl", widget: "string", required: false}
+              - {label: "Position (bisheriges Feld, nur als Ersatz)", name: "role", widget: "hidden", required: false}
               - {label: "Foto", name: "photo", widget: "image", required: false}
               - {label: "Biografie (Deutsch)", name: "bio_de", widget: "text", required: false}
               - {label: "Biografie (Spanisch)", name: "bio_es", widget: "text", required: false}
