@@ -48,3 +48,14 @@
 
 /* CMS-managed team portraits and expandable premium services */
 .fy-dynamic-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:26px;margin-top:38px}.fy-dynamic-card{background:#fff;box-shadow:0 15px 35px #172b2013;overflow:hidden}.fy-dynamic-card img{width:100%;height:290px;object-fit:cover;display:block}.fy-dynamic-body{padding:28px}.fy-dynamic-body h3{font:400 clamp(24px,2.5vw,32px) Georgia,serif;line-height:1.2;letter-spacing:-.03em;margin:0 0 10px}.fy-dynamic-body small{display:block;color:#ac9063;letter-spacing:.09em;text-transform:uppercase}.fy-dynamic-body p{line-height:1.75;color:#62716b}.fy-dynamic-team{background:#f4f2ed}.fy-dynamic-services .fy-dynamic-card{border-top:2px solid #bfa67d}.fy-dynamic-team[hidden],.fy-dynamic-services[hidden]{display:none!important}
+
+/* No-code presentation settings managed via the FYHOM admin */
+body[data-fy-theme="charcoal"]{--ink:#272d30;--cream:#f6f4f0}body[data-fy-theme="navy"]{--ink:#193047;--cream:#f5f6f7}body[data-fy-theme="forest"]{--ink:#1e302b}
+body[data-fy-accent="champagne"]{--gold:#b49a75}body[data-fy-accent="sand"]{--gold:#ad8f72}body[data-fy-accent="copper"]{--gold:#bf8867}
+body[data-fy-theme="charcoal"] .nav,body[data-fy-theme="charcoal"] .fy-concierge,body[data-fy-theme="charcoal"] .fy-reviews{background:#252b2b}
+body[data-fy-theme="navy"] .nav,body[data-fy-theme="navy"] .fy-concierge,body[data-fy-theme="navy"] .fy-reviews{background:#182f45}
+body[data-fy-accent="sand"] .eyebrow,body[data-fy-accent="sand"] .fy-step,body[data-fy-accent="sand"] .fy-journey-step>span{color:#dec4a2}
+body[data-fy-accent="copper"] .eyebrow,body[data-fy-accent="copper"] .fy-step,body[data-fy-accent="copper"] .fy-journey-step>span{color:#dca989}
+body[data-hero-align="center"] [data-page="home"] .hero .wrap{text-align:center;margin-left:auto;margin-right:auto}
+body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto;margin-right:auto}
+[data-page="home"] .section[hidden]{display:none!important}
