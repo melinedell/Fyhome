@@ -124,6 +124,20 @@ def download(url,dest):
     except Exception as e:
         print("WARN image",url,str(e)[:130],flush=True);return False
 def main():
+    # Imported listing data is already in GitHub; never crawl and overwrite
+    # the original review report when the workflow is run a second time.
+    previous=ROOT/"content/import-review.json"
+    if previous.exists():
+        try:
+            report=json.loads(previous.read_text(encoding="utf-8"))
+            items=json.loads((ROOT/"content/properties.json").read_text(encoding="utf-8")).get("items",[])
+            imported=[x for x in report.get("offers",[]) if x.get("status")=="hidden_for_review"]
+            existing={str(x.get("id")) for x in items}
+            if imported and all(str(x["id"]) in existing for x in imported):
+                print(f"IMPORT ALREADY SAVED: {len(imported)} property drafts in GitHub; no changes needed.",flush=True)
+                return
+        except (OSError,ValueError,KeyError) as error:
+            print("Previous report could not be verified:",error,flush=True)
     urls=find_urls()[:100]
     print("Discovered",len(urls),"property pages",flush=True)
     if not urls:sys.exit("No listings found: existing data unchanged")
