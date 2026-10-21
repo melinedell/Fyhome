@@ -1,0 +1,47 @@
+name: FYHOM - fehlende Immobilienbeschreibungen nachtragen
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/fyhom-enrich.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fyhom-description-enrichment
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out current FYHOM properties
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install requirements
+        run: python -m pip install 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5'
+      - name: Restore missing descriptions from source listings
+        run: python scripts/enrich_imported_fyhom.py
+      - name: Save hidden drafts and review report
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/properties.json content/enrichment-review.json
+          if git diff --cached --quiet; then
+            echo 'No changes to save.'
+          else
+            git commit -m 'Enrich hidden FYHOM listings with original descriptions'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
