@@ -3,12 +3,22 @@
     {
       "visible": true,
       "name": "Bart Blok",
-      "role": "Immobilienmakler"
+      "role": "Immobilienmakler",
+      "role_de": "Immobilienmakler",
+      "role_es": "Agente inmobiliario",
+      "role_en": "Real Estate Agent",
+      "role_fr": "Agent immobilier",
+      "role_nl": "Makelaar"
     },
     {
       "visible": true,
       "name": "Américo Gregorio",
-      "role": "Immoblienmakler"
+      "role": "Immoblienmakler",
+      "role_de": "Immobilienmakler",
+      "role_es": "Agente inmobiliario",
+      "role_en": "Real Estate Agent",
+      "role_fr": "Agent immobilier",
+      "role_nl": "Makelaar"
     },
     {
       "visible": true,
