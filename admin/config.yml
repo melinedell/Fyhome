@@ -42,6 +42,7 @@ collections:
               - {label: "Beschreibung Englisch", name: "description_en", widget: "text", required: false}
               - {label: "Beschreibung Französisch", name: "description_fr", widget: "text", required: false}
               - {label: "Beschreibung Niederländisch", name: "description_nl", widget: "text", required: false}
+              - {label: "Beschreibung Russisch", name: "description_ru", widget: "text", required: false}
 
   - name: "website-texte"
     label: "Website-Texte"
@@ -95,6 +96,13 @@ collections:
           - {label: "Niederländisch – Unser Service: Einleitung", name: "serviceIntro_nl", widget: "text", required: false}
           - {label: "Niederländisch – A-Z-Begleitung: Einleitung", name: "journeyIntro_nl", widget: "text", required: false}
           - {label: "Niederländisch – Kontakt: Einleitung", name: "contactP_nl", widget: "text", required: false}
+          - {label: "Russisch – Startseite: Überschrift", name: "hero_ru", widget: "text", required: false}
+          - {label: "Russisch – Startseite: Unterüberschrift", name: "heroSub_ru", widget: "text", required: false}
+          - {label: "Russisch – Immobilien: Einleitung", name: "featuredSub_ru", widget: "text", required: false}
+          - {label: "Russisch – Über uns: Einleitung", name: "aboutP_ru", widget: "text", required: false}
+          - {label: "Russisch – Unser Service: Einleitung", name: "serviceIntro_ru", widget: "text", required: false}
+          - {label: "Russisch – A-Z-Begleitung: Einleitung", name: "journeyIntro_ru", widget: "text", required: false}
+          - {label: "Russisch – Kontakt: Einleitung", name: "contactP_ru", widget: "text", required: false}
 
   - name: "team"
     label: "Teammitglieder"
@@ -115,6 +123,7 @@ collections:
               - {label: "Position Englisch", name: "role_en", widget: "string", required: false}
               - {label: "Position Französisch", name: "role_fr", widget: "string", required: false}
               - {label: "Position Niederländisch", name: "role_nl", widget: "string", required: false}
+              - {label: "Position Russisch", name: "role_ru", widget: "string", required: false}
               - {label: "Position (bisheriges Feld, nur als Ersatz)", name: "role", widget: "hidden", required: false}
               - {label: "Foto", name: "photo", widget: "image", required: false}
               - {label: "Biografie (Deutsch)", name: "bio_de", widget: "text", required: false}
@@ -122,6 +131,7 @@ collections:
               - {label: "Biografie (Englisch)", name: "bio_en", widget: "text", required: false}
               - {label: "Biografie (Französisch)", name: "bio_fr", widget: "text", required: false}
               - {label: "Biografie (Niederländisch)", name: "bio_nl", widget: "text", required: false}
+              - {label: "Biografie (Russisch)", name: "bio_ru", widget: "text", required: false}
               - {label: "Auf Website anzeigen", name: "visible", widget: "boolean", default: true}
   - name: "leistungen"
     label: "Zusätzliche Leistungen & Ideen"
@@ -146,5 +156,7 @@ collections:
               - {label: "Text Französisch", name: "text_fr", widget: "text", required: false}
               - {label: "Titel Niederländisch", name: "title_nl", widget: "string", required: false}
               - {label: "Text Niederländisch", name: "text_nl", widget: "text", required: false}
+              - {label: "Titel Russisch", name: "title_ru", widget: "string", required: false}
+              - {label: "Text Russisch", name: "text_ru", widget: "text", required: false}
               - {label: "Foto", name: "image", widget: "image", required: false}
               - {label: "Anzeigen", name: "visible", widget: "boolean", default: true}
