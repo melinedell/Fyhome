@@ -38,7 +38,7 @@ function showResult({token="",error=""}={}) {
 }
 export async function onRequestGet({request,env}) {
   const url=new URL(request.url);
-  const expected=/(?:^|;\\s*)fyhom_oauth_state=([a-f0-9]{48})(?:;|$)/.exec(request.headers.get("Cookie")||"")?.[1];
+  const expected=/(?:^|;\s*)fyhom_oauth_state=([a-f0-9]{48})(?:;|$)/.exec(request.headers.get("Cookie")||"")?.[1];
   const state=url.searchParams.get("state");
   if(!state || !expected || state!==expected) return showResult({error:"Anmeldesitzung abgelaufen oder ungültig. Bitte erneut anmelden."});
   if(url.searchParams.get("error")) return showResult({error:"GitHub-Zugriff wurde nicht bestätigt."});
@@ -59,7 +59,7 @@ export async function onRequestGet({request,env}) {
     if(!res.ok) return showResult({error:"GitHub konnte die Anmeldung nicht abschließen."});
     const data=await res.json();
     const token=typeof data.access_token==="string"?data.access_token:"";
-    if(!/^[A-Za-z0-9_\\-]{12,}$/.test(token)) return showResult({error:"GitHub hat kein gültiges Zugriffstoken geliefert. Bitte Callback-URL und OAuth-App prüfen."});
+    if(!/^[A-Za-z0-9_\-]{12,}$/.test(token)) return showResult({error:"GitHub hat kein gültiges Zugriffstoken geliefert. Bitte Callback-URL und OAuth-App prüfen."});
     return showResult({token});
   }catch(e){
     console.error("FYHOM OAuth exchange failed:",String(e).slice(0,120));
