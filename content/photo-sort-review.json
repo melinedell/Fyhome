@@ -1,0 +1,5854 @@
+{
+  "review_required": true,
+  "method": "Pillow/NumPy image characteristics; not human verified",
+  "analyzed": 39,
+  "changed": 22,
+  "hero_replaced": 21,
+  "possible_documents_moved": 29,
+  "offers": [
+    {
+      "id": "20032",
+      "title": "Blaue Gärten Javea",
+      "old_hero": "/images/properties/imported/20032/01.jpg",
+      "new_hero": "/images/properties/imported/20032/13.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20032/01.jpg",
+          "score": 37.79,
+          "likely_plan_or_document": false,
+          "width": 1286,
+          "height": 736,
+          "white_ratio": 0.75,
+          "color_ratio": 0.15
+        },
+        {
+          "image": "/images/properties/imported/20032/02.jpg",
+          "score": 70.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 663,
+          "white_ratio": 0.14,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/20032/03.jpg",
+          "score": 53.26,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 622,
+          "white_ratio": 0.32,
+          "color_ratio": 0.1
+        },
+        {
+          "image": "/images/properties/imported/20032/04.jpg",
+          "score": 55.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 620,
+          "white_ratio": 0.34,
+          "color_ratio": 0.17
+        },
+        {
+          "image": "/images/properties/imported/20032/05.jpg",
+          "score": 54.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 614,
+          "white_ratio": 0.34,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20032/06.jpg",
+          "score": 59.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 621,
+          "white_ratio": 0.39,
+          "color_ratio": 0.25
+        },
+        {
+          "image": "/images/properties/imported/20032/07.jpg",
+          "score": 63.26,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 623,
+          "white_ratio": 0.37,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20032/08.jpg",
+          "score": 65.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 617,
+          "white_ratio": 0.3,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20032/09.jpg",
+          "score": 73.54,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 618,
+          "white_ratio": 0.34,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/20032/10.jpg",
+          "score": 71.47,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 622,
+          "white_ratio": 0.36,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/20032/11.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20032/12.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20032/13.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20032/14.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20032/15.jpg",
+          "score": 73.23,
+          "likely_plan_or_document": false,
+          "width": 928,
+          "height": 663,
+          "white_ratio": 0.13,
+          "color_ratio": 0.32
+        },
+        {
+          "image": "/images/properties/imported/20032/16.jpg",
+          "score": 61.75,
+          "likely_plan_or_document": false,
+          "width": 1108,
+          "height": 622,
+          "white_ratio": 0.36,
+          "color_ratio": 0.22
+        }
+      ]
+    },
+    {
+      "id": "19955",
+      "title": "Haus im Zentrum von Pego",
+      "old_hero": "/images/properties/imported/19955/01.jpg",
+      "new_hero": "/images/properties/imported/19955/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/19955/01.jpg",
+          "score": 81.56,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.06,
+          "color_ratio": 0.49
+        },
+        {
+          "image": "/images/properties/imported/19955/02.jpg",
+          "score": 76.36,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/19955/03.jpg",
+          "score": 61.55,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/19955/04.jpg",
+          "score": 81.79,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.65
+        },
+        {
+          "image": "/images/properties/imported/19955/05.jpg",
+          "score": 53.32,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.04
+        },
+        {
+          "image": "/images/properties/imported/19955/06.jpg",
+          "score": 66.99,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/19955/07.jpg",
+          "score": 77.29,
+          "likely_plan_or_document": false,
+          "width": 640,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/19955/08.jpg",
+          "score": 62.55,
+          "likely_plan_or_document": false,
+          "width": 640,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.27
+        },
+        {
+          "image": "/images/properties/imported/19955/09.jpg",
+          "score": 82.86,
+          "likely_plan_or_document": false,
+          "width": 640,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/19955/10.jpg",
+          "score": 55.37,
+          "likely_plan_or_document": false,
+          "width": 640,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/19955/11.jpg",
+          "score": 69.09,
+          "likely_plan_or_document": false,
+          "width": 640,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.31
+        },
+        {
+          "image": "/images/properties/imported/19955/12.jpg",
+          "score": 71.45,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 600,
+          "white_ratio": 0.01,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/19955/13.jpg",
+          "score": 58.7,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 600,
+          "white_ratio": 0.03,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/19955/14.jpg",
+          "score": 69.25,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 600,
+          "white_ratio": 0.0,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/19955/15.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/19955/16.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        }
+      ]
+    },
+    {
+      "id": "20134",
+      "title": "Haus oder Chalet zu verkaufen in Ondara",
+      "old_hero": "/images/properties/imported/20134/01.jpg",
+      "new_hero": "/images/properties/imported/20134/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20134/01.jpg",
+          "score": 91.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.66
+        },
+        {
+          "image": "/images/properties/imported/20134/02.jpg",
+          "score": 94.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20134/03.jpg",
+          "score": 76.11,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20134/04.jpg",
+          "score": 80.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.5
+        },
+        {
+          "image": "/images/properties/imported/20134/05.jpg",
+          "score": 81.52,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20134/06.jpg",
+          "score": 72.16,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.31
+        },
+        {
+          "image": "/images/properties/imported/20134/07.jpg",
+          "score": 76.33,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20134/08.jpg",
+          "score": 88.84,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.69
+        },
+        {
+          "image": "/images/properties/imported/20134/09.jpg",
+          "score": 105.74,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.91
+        },
+        {
+          "image": "/images/properties/imported/20134/10.jpg",
+          "score": 84.7,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20134/11.jpg",
+          "score": 97.04,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/20134/12.jpg",
+          "score": 88.56,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/20134/13.jpg",
+          "score": 81.14,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20134/14.jpg",
+          "score": 83.0,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20134/15.jpg",
+          "score": 69.14,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.18,
+          "color_ratio": 0.4
+        },
+        {
+          "image": "/images/properties/imported/20134/16.jpg",
+          "score": 85.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.73
+        }
+      ]
+    },
+    {
+      "id": "19769",
+      "title": "Freistehendes Einfamilienhaus zu verkaufen in der Urbanisation Tossal Gross, 43",
+      "old_hero": "/images/properties/imported/19769/01.jpg",
+      "new_hero": "/images/properties/imported/19769/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/19769/01.jpg",
+          "score": 82.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/19769/02.jpg",
+          "score": 80.94,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 638,
+          "white_ratio": 0.02,
+          "color_ratio": 0.62
+        },
+        {
+          "image": "/images/properties/imported/19769/03.jpg",
+          "score": 79.84,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.53
+        },
+        {
+          "image": "/images/properties/imported/19769/04.jpg",
+          "score": 90.59,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.73
+        },
+        {
+          "image": "/images/properties/imported/19769/05.jpg",
+          "score": 89.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.73
+        },
+        {
+          "image": "/images/properties/imported/19769/06.jpg",
+          "score": 67.22,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.15,
+          "color_ratio": 0.34
+        },
+        {
+          "image": "/images/properties/imported/19769/07.jpg",
+          "score": 63.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.25
+        },
+        {
+          "image": "/images/properties/imported/19769/08.jpg",
+          "score": 65.58,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.17,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/19769/09.jpg",
+          "score": 74.36,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/19769/10.jpg",
+          "score": 56.54,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.28,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/19769/11.jpg",
+          "score": 57.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.22,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/19769/12.jpg",
+          "score": 61.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.23,
+          "color_ratio": 0.35
+        },
+        {
+          "image": "/images/properties/imported/19769/13.jpg",
+          "score": 93.73,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.84
+        },
+        {
+          "image": "/images/properties/imported/19769/14.jpg",
+          "score": 67.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/19769/15.jpg",
+          "score": 76.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/19769/16.jpg",
+          "score": 90.93,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 638,
+          "white_ratio": 0.0,
+          "color_ratio": 0.7
+        }
+      ]
+    },
+    {
+      "id": "19845",
+      "title": "Javea Centro – Av. del Rei Juan Carlos I",
+      "old_hero": "/images/properties/imported/19845/01.jpg",
+      "new_hero": "/images/properties/imported/19845/15.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/19845/01.jpg",
+          "score": 81.63,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/19845/02.jpg",
+          "score": 98.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.7
+        },
+        {
+          "image": "/images/properties/imported/19845/03.jpg",
+          "score": 103.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/19845/04.jpg",
+          "score": 103.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/19845/05.jpg",
+          "score": 74.3,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.16,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/19845/06.jpg",
+          "score": 78.41,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.15,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/19845/07.jpg",
+          "score": 80.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.14,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/19845/08.jpg",
+          "score": 57.4,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.16,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/19845/09.jpg",
+          "score": 85.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.24,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/19845/10.jpg",
+          "score": 99.77,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.73
+        },
+        {
+          "image": "/images/properties/imported/19845/11.jpg",
+          "score": 73.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/19845/12.jpg",
+          "score": 99.41,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.06,
+          "color_ratio": 0.7
+        },
+        {
+          "image": "/images/properties/imported/19845/13.jpg",
+          "score": 94.73,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/19845/14.jpg",
+          "score": 68.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.31
+        },
+        {
+          "image": "/images/properties/imported/19845/15.jpg",
+          "score": 105.18,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.94
+        },
+        {
+          "image": "/images/properties/imported/19845/16.jpg",
+          "score": 92.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.77
+        }
+      ]
+    },
+    {
+      "id": "19839",
+      "title": "Ladenlokal zu verkaufen in Rap-Straße 5",
+      "old_hero": "/images/properties/imported/19839/01.jpg",
+      "new_hero": "/images/properties/imported/19839/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/19839/01.jpg",
+          "score": 101.77,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/19839/02.jpg",
+          "score": 110.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.91
+        },
+        {
+          "image": "/images/properties/imported/19839/03.jpg",
+          "score": 105.58,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.86
+        },
+        {
+          "image": "/images/properties/imported/19839/04.jpg",
+          "score": 107.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.95
+        },
+        {
+          "image": "/images/properties/imported/19839/05.jpg",
+          "score": 115.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.92
+        },
+        {
+          "image": "/images/properties/imported/19839/06.jpg",
+          "score": 94.99,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/19839/07.jpg",
+          "score": 113.45,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.97
+        },
+        {
+          "image": "/images/properties/imported/19839/08.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/19839/09.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/19839/10.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/19839/11.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/19839/12.jpg",
+          "score": 103.51,
+          "likely_plan_or_document": false,
+          "width": 1500,
+          "height": 1089,
+          "white_ratio": 0.01,
+          "color_ratio": 0.85
+        },
+        {
+          "image": "/images/properties/imported/19839/13.jpg",
+          "score": 111.38,
+          "likely_plan_or_document": false,
+          "width": 1500,
+          "height": 1118,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/19839/14.jpg",
+          "score": 106.91,
+          "likely_plan_or_document": false,
+          "width": 1500,
+          "height": 877,
+          "white_ratio": 0.01,
+          "color_ratio": 0.89
+        },
+        {
+          "image": "/images/properties/imported/19839/15.jpg",
+          "score": 108.07,
+          "likely_plan_or_document": false,
+          "width": 1500,
+          "height": 1125,
+          "white_ratio": 0.0,
+          "color_ratio": 0.96
+        },
+        {
+          "image": "/images/properties/imported/19839/16.jpg",
+          "score": 114.9,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1251,
+          "white_ratio": 0.01,
+          "color_ratio": 0.91
+        }
+      ]
+    },
+    {
+      "id": "20086",
+      "title": "Orangengärten",
+      "old_hero": "/images/properties/imported/20086/01.jpg",
+      "new_hero": "/images/properties/imported/20086/10.jpg",
+      "hero_changed": true,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20086/01.jpg",
+          "score": -74.65,
+          "likely_plan_or_document": true,
+          "width": 734,
+          "height": 660,
+          "white_ratio": 0.79,
+          "color_ratio": 0.0
+        },
+        {
+          "image": "/images/properties/imported/20086/02.jpg",
+          "score": 83.04,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 580,
+          "white_ratio": 0.0,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/20086/03.jpg",
+          "score": 83.57,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.08,
+          "color_ratio": 0.53
+        },
+        {
+          "image": "/images/properties/imported/20086/04.jpg",
+          "score": 74.87,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 587,
+          "white_ratio": 0.09,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20086/05.jpg",
+          "score": 83.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 580,
+          "white_ratio": 0.09,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/20086/06.jpg",
+          "score": 86.86,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 585,
+          "white_ratio": 0.0,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20086/07.jpg",
+          "score": 63.56,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 772,
+          "white_ratio": 0.05,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/20086/08.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20086/09.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20086/10.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20086/11.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20086/12.jpg",
+          "score": 81.84,
+          "likely_plan_or_document": false,
+          "width": 1040,
+          "height": 580,
+          "white_ratio": 0.0,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/20086/13.jpg",
+          "score": 84.07,
+          "likely_plan_or_document": false,
+          "width": 1020,
+          "height": 572,
+          "white_ratio": 0.08,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/20086/14.jpg",
+          "score": 74.17,
+          "likely_plan_or_document": false,
+          "width": 1047,
+          "height": 587,
+          "white_ratio": 0.08,
+          "color_ratio": 0.4
+        },
+        {
+          "image": "/images/properties/imported/20086/15.jpg",
+          "score": 82.95,
+          "likely_plan_or_document": false,
+          "width": 1037,
+          "height": 580,
+          "white_ratio": 0.08,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/20086/16.jpg",
+          "score": 87.33,
+          "likely_plan_or_document": false,
+          "width": 1045,
+          "height": 585,
+          "white_ratio": 0.01,
+          "color_ratio": 0.5
+        }
+      ]
+    },
+    {
+      "id": "20018",
+      "title": "Wohnung zum Verkauf in Denia, Marina Real III",
+      "old_hero": "/images/properties/imported/20018/01.jpg",
+      "new_hero": "/images/properties/imported/20018/12.jpg",
+      "hero_changed": true,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20018/01.jpg",
+          "score": -69.22,
+          "likely_plan_or_document": true,
+          "width": 1500,
+          "height": 1061,
+          "white_ratio": 0.82,
+          "color_ratio": 0.0
+        },
+        {
+          "image": "/images/properties/imported/20018/02.jpg",
+          "score": 72.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/20018/03.jpg",
+          "score": 51.59,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.28,
+          "color_ratio": 0.2
+        },
+        {
+          "image": "/images/properties/imported/20018/04.jpg",
+          "score": 63.63,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20018/05.jpg",
+          "score": 56.21,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.11
+        },
+        {
+          "image": "/images/properties/imported/20018/06.jpg",
+          "score": 56.19,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.11,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/20018/07.jpg",
+          "score": 52.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.12
+        },
+        {
+          "image": "/images/properties/imported/20018/08.jpg",
+          "score": 55.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/20018/09.jpg",
+          "score": 61.49,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.11,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20018/10.jpg",
+          "score": 55.52,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.12
+        },
+        {
+          "image": "/images/properties/imported/20018/11.jpg",
+          "score": 75.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.54
+        },
+        {
+          "image": "/images/properties/imported/20018/12.jpg",
+          "score": 81.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/20018/13.jpg",
+          "score": 56.3,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/20018/14.jpg",
+          "score": 50.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/20018/15.jpg",
+          "score": 57.6,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20018/16.jpg",
+          "score": 53.79,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.06,
+          "color_ratio": 0.18
+        }
+      ]
+    },
+    {
+      "id": "20092",
+      "title": "Zen Castellet von Murla",
+      "old_hero": "/images/properties/imported/20092/01.jpg",
+      "new_hero": "/images/properties/imported/20092/04.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20092/01.jpg",
+          "score": -89.04,
+          "likely_plan_or_document": true,
+          "width": 392,
+          "height": 571,
+          "white_ratio": 0.78,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20092/02.jpg",
+          "score": 84.0,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.05,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/20092/03.jpg",
+          "score": 86.05,
+          "likely_plan_or_document": false,
+          "width": 781,
+          "height": 586,
+          "white_ratio": 0.0,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20092/04.jpg",
+          "score": 92.98,
+          "likely_plan_or_document": false,
+          "width": 779,
+          "height": 580,
+          "white_ratio": 0.01,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/20092/05.jpg",
+          "score": 66.87,
+          "likely_plan_or_document": false,
+          "width": 778,
+          "height": 584,
+          "white_ratio": 0.0,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20092/06.jpg",
+          "score": 71.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 585,
+          "white_ratio": 0.02,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20092/07.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20092/08.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20092/09.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20092/10.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20092/11.jpg",
+          "score": 85.09,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 768,
+          "white_ratio": 0.04,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/20092/12.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "20372",
+      "title": "Casa de pueblo auténtica con terrazas y vistas al Montgó en El Verger",
+      "old_hero": "/images/properties/imported/20372/01.jpg",
+      "new_hero": "/images/properties/imported/20372/15.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20372/01.jpg",
+          "score": 83.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20372/02.jpg",
+          "score": 87.2,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/20372/03.jpg",
+          "score": 78.11,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20372/04.jpg",
+          "score": 64.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.29
+        },
+        {
+          "image": "/images/properties/imported/20372/05.jpg",
+          "score": 64.64,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/20372/06.jpg",
+          "score": 57.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/20372/07.jpg",
+          "score": 71.3,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.35
+        },
+        {
+          "image": "/images/properties/imported/20372/08.jpg",
+          "score": 94.87,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.65
+        },
+        {
+          "image": "/images/properties/imported/20372/09.jpg",
+          "score": 83.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20372/10.jpg",
+          "score": 98.02,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20372/11.jpg",
+          "score": 60.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.17
+        },
+        {
+          "image": "/images/properties/imported/20372/12.jpg",
+          "score": 97.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.88
+        },
+        {
+          "image": "/images/properties/imported/20372/13.jpg",
+          "score": 93.56,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.81
+        },
+        {
+          "image": "/images/properties/imported/20372/14.jpg",
+          "score": 90.24,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/20372/15.jpg",
+          "score": 106.41,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.9
+        },
+        {
+          "image": "/images/properties/imported/20372/16.jpg",
+          "score": 93.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.82
+        }
+      ]
+    },
+    {
+      "id": "20655",
+      "title": "Apartamento en primera línea de playa en Denia – Les Marines",
+      "old_hero": "/images/properties/imported/20655/01.jpg",
+      "new_hero": "/images/properties/imported/20655/14.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20655/01.jpg",
+          "score": 41.66,
+          "likely_plan_or_document": false,
+          "width": 841,
+          "height": 631,
+          "white_ratio": 0.51,
+          "color_ratio": 0.21
+        },
+        {
+          "image": "/images/properties/imported/20655/02.jpg",
+          "score": 77.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/20655/03.jpg",
+          "score": 67.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20655/04.jpg",
+          "score": 80.95,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.61
+        },
+        {
+          "image": "/images/properties/imported/20655/05.jpg",
+          "score": 66.49,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20655/06.jpg",
+          "score": 63.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20655/07.jpg",
+          "score": 68.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.21
+        },
+        {
+          "image": "/images/properties/imported/20655/08.jpg",
+          "score": 70.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20655/09.jpg",
+          "score": 56.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.26,
+          "color_ratio": 0.19
+        },
+        {
+          "image": "/images/properties/imported/20655/10.jpg",
+          "score": 73.64,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20655/11.jpg",
+          "score": 79.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/20655/12.jpg",
+          "score": 76.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.18,
+          "color_ratio": 0.53
+        },
+        {
+          "image": "/images/properties/imported/20655/13.jpg",
+          "score": 78.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.16,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20655/14.jpg",
+          "score": 81.27,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.15,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20655/15.jpg",
+          "score": 68.14,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20655/16.jpg",
+          "score": 68.4,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.27
+        }
+      ]
+    },
+    {
+      "id": "20256",
+      "title": "Apartamento en primera linea de playa",
+      "old_hero": "/images/properties/imported/20256/01.jpg",
+      "new_hero": "/images/properties/imported/20256/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20256/01.jpg",
+          "score": 102.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.04,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/20256/02.jpg",
+          "score": 97.33,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20256/03.jpg",
+          "score": 65.4,
+          "likely_plan_or_document": false,
+          "width": 471,
+          "height": 537,
+          "white_ratio": 0.04,
+          "color_ratio": 0.35
+        },
+        {
+          "image": "/images/properties/imported/20256/04.jpg",
+          "score": 76.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20256/05.jpg",
+          "score": 80.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 539,
+          "white_ratio": 0.01,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/20256/06.jpg",
+          "score": 66.73,
+          "likely_plan_or_document": false,
+          "width": 579,
+          "height": 547,
+          "white_ratio": 0.05,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/20256/07.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20256/08.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20256/09.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20256/10.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20256/11.jpg",
+          "score": 103.18,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 768,
+          "white_ratio": 0.04,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/20256/12.jpg",
+          "score": 90.14,
+          "likely_plan_or_document": false,
+          "width": 1086,
+          "height": 1448,
+          "white_ratio": 0.01,
+          "color_ratio": 0.73
+        },
+        {
+          "image": "/images/properties/imported/20256/13.jpg",
+          "score": 79.94,
+          "likely_plan_or_document": false,
+          "width": 1449,
+          "height": 1086,
+          "white_ratio": 0.03,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20256/14.jpg",
+          "score": 79.6,
+          "likely_plan_or_document": false,
+          "width": 977,
+          "height": 539,
+          "white_ratio": 0.01,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20256/15.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "20593",
+      "title": "Chalet independiente de obra nueva con piscina privada en Els poblets",
+      "old_hero": "/images/properties/imported/20593/01.jpg",
+      "new_hero": "/images/properties/imported/20593/14.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20593/01.jpg",
+          "score": -54.18,
+          "likely_plan_or_document": true,
+          "width": 772,
+          "height": 664,
+          "white_ratio": 0.6,
+          "color_ratio": 0.13
+        },
+        {
+          "image": "/images/properties/imported/20593/02.jpg",
+          "score": -62.34,
+          "likely_plan_or_document": true,
+          "width": 1026,
+          "height": 736,
+          "white_ratio": 0.7,
+          "color_ratio": 0.11
+        },
+        {
+          "image": "/images/properties/imported/20593/03.jpg",
+          "score": 68.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.14,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/20593/04.jpg",
+          "score": 52.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/20593/05.jpg",
+          "score": 79.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20593/06.jpg",
+          "score": 53.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.06
+        },
+        {
+          "image": "/images/properties/imported/20593/07.jpg",
+          "score": 60.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.12,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20593/08.jpg",
+          "score": 71.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/20593/09.jpg",
+          "score": 60.32,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/20593/10.jpg",
+          "score": 56.67,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20593/11.jpg",
+          "score": 68.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20593/12.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20593/13.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20593/14.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20593/15.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20593/16.jpg",
+          "score": 70.06,
+          "likely_plan_or_document": false,
+          "width": 1396,
+          "height": 768,
+          "white_ratio": 0.13,
+          "color_ratio": 0.42
+        }
+      ]
+    },
+    {
+      "id": "20597",
+      "title": "Chalet pareado en Els Poblets con piscina privada",
+      "old_hero": "/images/properties/imported/20597/01.jpg",
+      "new_hero": "/images/properties/imported/20597/14.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20597/01.jpg",
+          "score": -54.18,
+          "likely_plan_or_document": true,
+          "width": 772,
+          "height": 664,
+          "white_ratio": 0.6,
+          "color_ratio": 0.13
+        },
+        {
+          "image": "/images/properties/imported/20597/02.jpg",
+          "score": -62.49,
+          "likely_plan_or_document": true,
+          "width": 814,
+          "height": 688,
+          "white_ratio": 0.68,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/20597/03.jpg",
+          "score": 72.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.4
+        },
+        {
+          "image": "/images/properties/imported/20597/04.jpg",
+          "score": 71.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/20597/05.jpg",
+          "score": 60.32,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/20597/06.jpg",
+          "score": 60.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.12,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20597/07.jpg",
+          "score": 52.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/20597/08.jpg",
+          "score": 79.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20597/09.jpg",
+          "score": 53.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.06
+        },
+        {
+          "image": "/images/properties/imported/20597/10.jpg",
+          "score": 68.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20597/11.jpg",
+          "score": 56.67,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20597/12.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20597/13.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20597/14.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20597/15.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20597/16.jpg",
+          "score": 73.65,
+          "likely_plan_or_document": false,
+          "width": 1195,
+          "height": 896,
+          "white_ratio": 0.03,
+          "color_ratio": 0.42
+        }
+      ]
+    },
+    {
+      "id": "20276",
+      "title": "Chalet Adosado a pocos minutos de la Playa",
+      "old_hero": "/images/properties/imported/20276/01.jpg",
+      "new_hero": "/images/properties/imported/20276/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20276/01.jpg",
+          "score": 86.47,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/20276/02.jpg",
+          "score": 68.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20276/03.jpg",
+          "score": 95.91,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20276/04.jpg",
+          "score": 68.98,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20276/05.jpg",
+          "score": 66.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.39
+        },
+        {
+          "image": "/images/properties/imported/20276/06.jpg",
+          "score": 79.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/20276/07.jpg",
+          "score": 80.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20276/08.jpg",
+          "score": 70.36,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20276/09.jpg",
+          "score": 82.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/20276/10.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20276/11.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20276/12.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20276/13.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20276/14.jpg",
+          "score": 86.12,
+          "likely_plan_or_document": false,
+          "width": 1504,
+          "height": 1046,
+          "white_ratio": 0.03,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/20276/15.jpg",
+          "score": 60.82,
+          "likely_plan_or_document": false,
+          "width": 1086,
+          "height": 1448,
+          "white_ratio": 0.11,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20276/16.jpg",
+          "score": 86.76,
+          "likely_plan_or_document": false,
+          "width": 1086,
+          "height": 1448,
+          "white_ratio": 0.07,
+          "color_ratio": 0.6
+        }
+      ]
+    },
+    {
+      "id": "20301",
+      "title": "ESPACIOSA VILLA FAMILIAR",
+      "old_hero": "/images/properties/imported/20301/01.jpg",
+      "new_hero": "/images/properties/imported/20301/13.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20301/01.jpg",
+          "score": 86.25,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/20301/02.jpg",
+          "score": 81.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/20301/03.jpg",
+          "score": 86.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/20301/04.jpg",
+          "score": 96.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/20301/05.jpg",
+          "score": 80.08,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/20301/06.jpg",
+          "score": 77.55,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/20301/07.jpg",
+          "score": 100.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/20301/08.jpg",
+          "score": 84.54,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20301/09.jpg",
+          "score": 97.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/20301/10.jpg",
+          "score": 109.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.94
+        },
+        {
+          "image": "/images/properties/imported/20301/11.jpg",
+          "score": 90.67,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20301/12.jpg",
+          "score": 80.11,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.54
+        },
+        {
+          "image": "/images/properties/imported/20301/13.jpg",
+          "score": 109.84,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/20301/14.jpg",
+          "score": 94.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.73
+        },
+        {
+          "image": "/images/properties/imported/20301/15.jpg",
+          "score": 105.99,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.89
+        },
+        {
+          "image": "/images/properties/imported/20301/16.jpg",
+          "score": 83.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.12,
+          "color_ratio": 0.61
+        }
+      ]
+    },
+    {
+      "id": "20678",
+      "title": "Terreno urbano en la Marina Alta con vistas despejadas",
+      "old_hero": "/images/properties/imported/20678/01.jpg",
+      "new_hero": "/images/properties/imported/20678/02.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20678/01.jpg",
+          "score": -73.54,
+          "likely_plan_or_document": true,
+          "width": 1024,
+          "height": 1536,
+          "white_ratio": 0.71,
+          "color_ratio": 0.04
+        },
+        {
+          "image": "/images/properties/imported/20678/02.jpg",
+          "score": 97.85,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 700,
+          "white_ratio": 0.0,
+          "color_ratio": 0.88
+        },
+        {
+          "image": "/images/properties/imported/20678/03.jpg",
+          "score": 79.31,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.4
+        },
+        {
+          "image": "/images/properties/imported/20678/04.jpg",
+          "score": 74.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.29
+        },
+        {
+          "image": "/images/properties/imported/20678/05.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20678/06.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20678/07.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20678/08.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20678/09.jpg",
+          "score": 96.32,
+          "likely_plan_or_document": false,
+          "width": 1220,
+          "height": 700,
+          "white_ratio": 0.0,
+          "color_ratio": 0.88
+        },
+        {
+          "image": "/images/properties/imported/20678/10.jpg",
+          "score": 79.79,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1200,
+          "white_ratio": 0.02,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20678/11.jpg",
+          "score": 76.72,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 898,
+          "white_ratio": 0.03,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20678/12.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "20736",
+      "title": "Adosado de lujo en La Nucía con gran parcela, piscina y terrazas privadas",
+      "old_hero": "/images/properties/imported/20736/01.jpg",
+      "new_hero": "/images/properties/imported/20736/12.jpg",
+      "hero_changed": true,
+      "possible_documents": 4,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20736/01.jpg",
+          "score": -74.69,
+          "likely_plan_or_document": true,
+          "width": 739,
+          "height": 613,
+          "white_ratio": 0.85,
+          "color_ratio": 0.03
+        },
+        {
+          "image": "/images/properties/imported/20736/02.jpg",
+          "score": -81.08,
+          "likely_plan_or_document": true,
+          "width": 741,
+          "height": 529,
+          "white_ratio": 0.94,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20736/03.jpg",
+          "score": -77.39,
+          "likely_plan_or_document": true,
+          "width": 721,
+          "height": 541,
+          "white_ratio": 0.88,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20736/04.jpg",
+          "score": 93.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20736/05.jpg",
+          "score": 81.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20736/06.jpg",
+          "score": 79.24,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20736/07.jpg",
+          "score": 84.08,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20736/08.jpg",
+          "score": 95.21,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20736/09.jpg",
+          "score": 93.95,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20736/10.jpg",
+          "score": 84.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20736/11.jpg",
+          "score": 86.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/20736/12.jpg",
+          "score": 95.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/20736/13.jpg",
+          "score": 91.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20736/14.jpg",
+          "score": 77.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/20736/15.jpg",
+          "score": 85.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20736/16.jpg",
+          "score": -62.07,
+          "likely_plan_or_document": true,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.66,
+          "color_ratio": 0.06
+        }
+      ]
+    },
+    {
+      "id": "20697",
+      "title": "Adosado de obra nueva en El Verger con gran solárium y parcela privada",
+      "old_hero": "/images/properties/imported/20697/01.jpg",
+      "new_hero": "/images/properties/imported/20697/03.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20697/01.jpg",
+          "score": 32.3,
+          "likely_plan_or_document": false,
+          "width": 922,
+          "height": 793,
+          "white_ratio": 0.56,
+          "color_ratio": 0.11
+        },
+        {
+          "image": "/images/properties/imported/20697/02.jpg",
+          "score": -74.7,
+          "likely_plan_or_document": true,
+          "width": 870,
+          "height": 709,
+          "white_ratio": 0.86,
+          "color_ratio": 0.04
+        },
+        {
+          "image": "/images/properties/imported/20697/03.jpg",
+          "score": 94.63,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 640,
+          "white_ratio": 0.03,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20697/04.jpg",
+          "score": 75.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 725,
+          "white_ratio": 0.18,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20697/05.jpg",
+          "score": 89.31,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 725,
+          "white_ratio": 0.1,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/20697/06.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20697/07.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20697/08.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20697/09.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20697/10.jpg",
+          "score": 93.69,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 640,
+          "white_ratio": 0.02,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20697/11.jpg",
+          "score": 75.94,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 725,
+          "white_ratio": 0.18,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20697/12.jpg",
+          "score": 89.25,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 725,
+          "white_ratio": 0.1,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/20697/13.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "21029",
+      "title": "Amplia casa tradicional con 3 viviendas independientes en Pego",
+      "old_hero": "/images/properties/imported/21029/01.jpg",
+      "new_hero": "/images/properties/imported/21029/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21029/01.jpg",
+          "score": 90.42,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.03,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/21029/02.jpg",
+          "score": 90.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21029/03.jpg",
+          "score": 91.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/21029/04.jpg",
+          "score": 82.77,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.53
+        },
+        {
+          "image": "/images/properties/imported/21029/05.jpg",
+          "score": 76.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.39
+        },
+        {
+          "image": "/images/properties/imported/21029/06.jpg",
+          "score": 78.95,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.06,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/21029/07.jpg",
+          "score": 77.4,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.5
+        },
+        {
+          "image": "/images/properties/imported/21029/08.jpg",
+          "score": 96.09,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.87
+        },
+        {
+          "image": "/images/properties/imported/21029/09.jpg",
+          "score": 103.31,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/21029/10.jpg",
+          "score": 86.22,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/21029/11.jpg",
+          "score": 67.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.27
+        },
+        {
+          "image": "/images/properties/imported/21029/12.jpg",
+          "score": 69.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/21029/13.jpg",
+          "score": 76.1,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/21029/14.jpg",
+          "score": 87.46,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.49
+        },
+        {
+          "image": "/images/properties/imported/21029/15.jpg",
+          "score": 75.91,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/21029/16.jpg",
+          "score": 71.98,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.37
+        }
+      ]
+    },
+    {
+      "id": "20831",
+      "title": "Apartamento de obra nueva en Pego con terraza soleada y piscina",
+      "old_hero": "/images/properties/imported/20831/01.jpg",
+      "new_hero": "/images/properties/imported/20831/08.jpg",
+      "hero_changed": true,
+      "possible_documents": 2,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20831/01.jpg",
+          "score": -69.26,
+          "likely_plan_or_document": true,
+          "width": 1138,
+          "height": 738,
+          "white_ratio": 0.7,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20831/02.jpg",
+          "score": -69.39,
+          "likely_plan_or_document": true,
+          "width": 1123,
+          "height": 727,
+          "white_ratio": 0.71,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20831/03.jpg",
+          "score": 74.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 709,
+          "white_ratio": 0.23,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20831/04.jpg",
+          "score": 71.84,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.24,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/20831/05.jpg",
+          "score": 88.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 707,
+          "white_ratio": 0.1,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20831/06.jpg",
+          "score": 56.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.21,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20831/07.jpg",
+          "score": 78.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20831/08.jpg",
+          "score": 101.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.9
+        },
+        {
+          "image": "/images/properties/imported/20831/09.jpg",
+          "score": 69.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20831/10.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20831/11.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20831/12.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20831/13.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20831/14.jpg",
+          "score": 77.46,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 709,
+          "white_ratio": 0.2,
+          "color_ratio": 0.5
+        },
+        {
+          "image": "/images/properties/imported/20831/15.jpg",
+          "score": 72.3,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 977,
+          "white_ratio": 0.23,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/20831/16.jpg",
+          "score": 86.82,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 707,
+          "white_ratio": 0.11,
+          "color_ratio": 0.69
+        }
+      ]
+    },
+    {
+      "id": "20835",
+      "title": "Ático de obra nueva en Pego con terraza privada y espacio ampliable",
+      "old_hero": "/images/properties/imported/20835/01.jpg",
+      "new_hero": "/images/properties/imported/20835/08.jpg",
+      "hero_changed": true,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20835/01.jpg",
+          "score": -69.21,
+          "likely_plan_or_document": true,
+          "width": 1125,
+          "height": 780,
+          "white_ratio": 0.7,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20835/02.jpg",
+          "score": 88.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 707,
+          "white_ratio": 0.1,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20835/03.jpg",
+          "score": 71.84,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.24,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/20835/04.jpg",
+          "score": 78.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20835/05.jpg",
+          "score": 74.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 709,
+          "white_ratio": 0.23,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20835/06.jpg",
+          "score": 56.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.21,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20835/07.jpg",
+          "score": 69.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20835/08.jpg",
+          "score": 101.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.9
+        },
+        {
+          "image": "/images/properties/imported/20835/09.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20835/10.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20835/11.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20835/12.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20835/13.jpg",
+          "score": 86.82,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 707,
+          "white_ratio": 0.11,
+          "color_ratio": 0.69
+        },
+        {
+          "image": "/images/properties/imported/20835/14.jpg",
+          "score": 72.3,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 977,
+          "white_ratio": 0.23,
+          "color_ratio": 0.45
+        },
+        {
+          "image": "/images/properties/imported/20835/15.jpg",
+          "score": 78.6,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 977,
+          "white_ratio": 0.03,
+          "color_ratio": 0.39
+        },
+        {
+          "image": "/images/properties/imported/20835/16.jpg",
+          "score": 77.46,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 709,
+          "white_ratio": 0.2,
+          "color_ratio": 0.5
+        }
+      ]
+    },
+    {
+      "id": "20949",
+      "title": "Casa de pueblo tradicional con gran potencial para reformar en Pego",
+      "old_hero": "/images/properties/imported/20949/01.jpg",
+      "new_hero": "/images/properties/imported/20949/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20949/01.jpg",
+          "score": 94.31,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.05,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20949/02.jpg",
+          "score": 93.43,
+          "likely_plan_or_document": false,
+          "width": 768,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/20949/03.jpg",
+          "score": 77.64,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.03,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/20949/04.jpg",
+          "score": 65.06,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.08,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20949/05.jpg",
+          "score": 75.58,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 768,
+          "white_ratio": 0.01,
+          "color_ratio": 0.35
+        },
+        {
+          "image": "/images/properties/imported/20949/06.jpg",
+          "score": 76.82,
+          "likely_plan_or_document": false,
+          "width": 768,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.5
+        },
+        {
+          "image": "/images/properties/imported/20949/07.jpg",
+          "score": 103.67,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/20949/08.jpg",
+          "score": 62.73,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.15
+        },
+        {
+          "image": "/images/properties/imported/20949/09.jpg",
+          "score": 73.16,
+          "likely_plan_or_document": false,
+          "width": 768,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.3
+        },
+        {
+          "image": "/images/properties/imported/20949/10.jpg",
+          "score": 64.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.02,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20949/11.jpg",
+          "score": 96.91,
+          "likely_plan_or_document": false,
+          "width": 768,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20949/12.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20949/13.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20949/14.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20949/15.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20949/16.jpg",
+          "score": 90.7,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 572,
+          "white_ratio": 0.04,
+          "color_ratio": 0.5
+        }
+      ]
+    },
+    {
+      "id": "20758",
+      "title": "Chalet adosado de obra nueva en La Nucía con gran espacio extra y piscina privada",
+      "old_hero": "/images/properties/imported/20758/01.jpg",
+      "new_hero": "/images/properties/imported/20758/10.jpg",
+      "hero_changed": true,
+      "possible_documents": 3,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20758/01.jpg",
+          "score": -73.97,
+          "likely_plan_or_document": true,
+          "width": 865,
+          "height": 628,
+          "white_ratio": 0.83,
+          "color_ratio": 0.03
+        },
+        {
+          "image": "/images/properties/imported/20758/02.jpg",
+          "score": -79.63,
+          "likely_plan_or_document": true,
+          "width": 835,
+          "height": 568,
+          "white_ratio": 0.89,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20758/03.jpg",
+          "score": -79.99,
+          "likely_plan_or_document": true,
+          "width": 853,
+          "height": 492,
+          "white_ratio": 0.91,
+          "color_ratio": 0.01
+        },
+        {
+          "image": "/images/properties/imported/20758/04.jpg",
+          "score": 84.08,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20758/05.jpg",
+          "score": 93.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20758/06.jpg",
+          "score": 79.24,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20758/07.jpg",
+          "score": 81.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20758/08.jpg",
+          "score": 93.95,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20758/09.jpg",
+          "score": 91.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20758/10.jpg",
+          "score": 95.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/20758/11.jpg",
+          "score": 86.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/20758/12.jpg",
+          "score": 84.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20758/13.jpg",
+          "score": 95.21,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20758/14.jpg",
+          "score": 77.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/20758/15.jpg",
+          "score": 85.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20758/16.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        }
+      ]
+    },
+    {
+      "id": "20756",
+      "title": "Chalet adosado de obra nueva en La Nucía con solárium y vistas al mar",
+      "old_hero": "/images/properties/imported/20756/01.jpg",
+      "new_hero": "/images/properties/imported/20756/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20756/01.jpg",
+          "score": 79.24,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.48
+        },
+        {
+          "image": "/images/properties/imported/20756/02.jpg",
+          "score": 81.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/20756/03.jpg",
+          "score": 93.95,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20756/04.jpg",
+          "score": 95.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/20756/05.jpg",
+          "score": 86.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/20756/06.jpg",
+          "score": 84.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.58
+        },
+        {
+          "image": "/images/properties/imported/20756/07.jpg",
+          "score": 93.51,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20756/08.jpg",
+          "score": 95.21,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/20756/09.jpg",
+          "score": 84.08,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20756/10.jpg",
+          "score": 91.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/20756/11.jpg",
+          "score": -62.07,
+          "likely_plan_or_document": true,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.66,
+          "color_ratio": 0.06
+        },
+        {
+          "image": "/images/properties/imported/20756/12.jpg",
+          "score": 85.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20756/13.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20756/14.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20756/15.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20756/16.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        }
+      ]
+    },
+    {
+      "id": "21215",
+      "title": "Elegante Piso Completamente Reformado con Ascensor en el Centro de Dénia",
+      "old_hero": "/images/properties/imported/21215/01.jpg",
+      "new_hero": "/images/properties/imported/21215/04.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21215/01.jpg",
+          "score": 87.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/21215/02.jpg",
+          "score": 88.2,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/21215/03.jpg",
+          "score": 96.89,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.85
+        },
+        {
+          "image": "/images/properties/imported/21215/04.jpg",
+          "score": 105.15,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.92
+        },
+        {
+          "image": "/images/properties/imported/21215/05.jpg",
+          "score": 98.47,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21215/06.jpg",
+          "score": 98.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21215/07.jpg",
+          "score": 94.92,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.9
+        },
+        {
+          "image": "/images/properties/imported/21215/08.jpg",
+          "score": 91.39,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21215/09.jpg",
+          "score": 93.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21215/10.jpg",
+          "score": 85.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.59
+        },
+        {
+          "image": "/images/properties/imported/21215/11.jpg",
+          "score": 92.4,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.85
+        },
+        {
+          "image": "/images/properties/imported/21215/12.jpg",
+          "score": 90.33,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.81
+        },
+        {
+          "image": "/images/properties/imported/21215/13.jpg",
+          "score": 90.37,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21215/14.jpg",
+          "score": 74.39,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.32
+        },
+        {
+          "image": "/images/properties/imported/21215/15.jpg",
+          "score": 69.37,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.25
+        },
+        {
+          "image": "/images/properties/imported/21215/16.jpg",
+          "score": 79.3,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.48
+        }
+      ]
+    },
+    {
+      "id": "21128",
+      "title": "Encantadora Villa Mediterránea con Apartamento Independiente a 900 Metros de la Playa en Els Poblets",
+      "old_hero": "/images/properties/imported/21128/01.jpg",
+      "new_hero": "/images/properties/imported/21128/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21128/01.jpg",
+          "score": 106.19,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.84
+        },
+        {
+          "image": "/images/properties/imported/21128/02.jpg",
+          "score": 73.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.39
+        },
+        {
+          "image": "/images/properties/imported/21128/03.jpg",
+          "score": 62.23,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/21128/04.jpg",
+          "score": 68.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/21128/05.jpg",
+          "score": 63.62,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/21128/06.jpg",
+          "score": 57.58,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.1
+        },
+        {
+          "image": "/images/properties/imported/21128/07.jpg",
+          "score": 94.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.66
+        },
+        {
+          "image": "/images/properties/imported/21128/08.jpg",
+          "score": 113.71,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.91
+        },
+        {
+          "image": "/images/properties/imported/21128/09.jpg",
+          "score": 108.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.84
+        },
+        {
+          "image": "/images/properties/imported/21128/10.jpg",
+          "score": 107.53,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.84
+        },
+        {
+          "image": "/images/properties/imported/21128/11.jpg",
+          "score": 100.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21128/12.jpg",
+          "score": 104.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.86
+        },
+        {
+          "image": "/images/properties/imported/21128/13.jpg",
+          "score": 90.57,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.66
+        },
+        {
+          "image": "/images/properties/imported/21128/14.jpg",
+          "score": 97.27,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/21128/15.jpg",
+          "score": 96.04,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/21128/16.jpg",
+          "score": 97.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.7
+        }
+      ]
+    },
+    {
+      "id": "20994",
+      "title": "Espectacular ático dúplex con terraza panorámica, garaje y vistas al mar en Jávea",
+      "old_hero": "/images/properties/imported/20994/01.jpg",
+      "new_hero": "/images/properties/imported/20994/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20994/01.jpg",
+          "score": 96.2,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/20994/02.jpg",
+          "score": 87.24,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.02,
+          "color_ratio": 0.71
+        },
+        {
+          "image": "/images/properties/imported/20994/03.jpg",
+          "score": 100.18,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.91
+        },
+        {
+          "image": "/images/properties/imported/20994/04.jpg",
+          "score": 62.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.14,
+          "color_ratio": 0.31
+        },
+        {
+          "image": "/images/properties/imported/20994/05.jpg",
+          "score": 62.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.05,
+          "color_ratio": 0.2
+        },
+        {
+          "image": "/images/properties/imported/20994/06.jpg",
+          "score": 65.85,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.05,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20994/07.jpg",
+          "score": 83.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/20994/08.jpg",
+          "score": 89.22,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.59
+        },
+        {
+          "image": "/images/properties/imported/20994/09.jpg",
+          "score": 67.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.2,
+          "color_ratio": 0.54
+        },
+        {
+          "image": "/images/properties/imported/20994/10.jpg",
+          "score": 99.98,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.04,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/20994/11.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/20994/12.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20994/13.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/20994/14.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/20994/15.jpg",
+          "score": 94.85,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.81
+        },
+        {
+          "image": "/images/properties/imported/20994/16.jpg",
+          "score": 89.45,
+          "likely_plan_or_document": false,
+          "width": 1024,
+          "height": 572,
+          "white_ratio": 0.02,
+          "color_ratio": 0.74
+        }
+      ]
+    },
+    {
+      "id": "21169",
+      "title": "Exclusiva Villa de Alta Gama en Monte Corona (Beniarbeig)",
+      "old_hero": "/images/properties/imported/21169/01.jpg",
+      "new_hero": "/images/properties/imported/21169/12.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21169/01.jpg",
+          "score": 74.22,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/21169/02.jpg",
+          "score": 69.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/21169/03.jpg",
+          "score": 76.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/21169/04.jpg",
+          "score": 88.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21169/05.jpg",
+          "score": 94.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.87
+        },
+        {
+          "image": "/images/properties/imported/21169/06.jpg",
+          "score": 95.0,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21169/07.jpg",
+          "score": 77.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.49
+        },
+        {
+          "image": "/images/properties/imported/21169/08.jpg",
+          "score": 104.71,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.95
+        },
+        {
+          "image": "/images/properties/imported/21169/09.jpg",
+          "score": 74.02,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/21169/10.jpg",
+          "score": 69.36,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/21169/11.jpg",
+          "score": 69.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.39
+        },
+        {
+          "image": "/images/properties/imported/21169/12.jpg",
+          "score": 104.77,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/21169/13.jpg",
+          "score": 90.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.59
+        },
+        {
+          "image": "/images/properties/imported/21169/14.jpg",
+          "score": 93.64,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/21169/15.jpg",
+          "score": 78.38,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.44
+        },
+        {
+          "image": "/images/properties/imported/21169/16.jpg",
+          "score": 102.94,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.74
+        }
+      ]
+    },
+    {
+      "id": "21056",
+      "title": "Exclusiva Villa de Autor con 2 Unidades Independientes y Licencia Turística en Jávea",
+      "old_hero": "/images/properties/imported/21056/01.jpg",
+      "new_hero": "/images/properties/imported/21056/04.jpg",
+      "hero_changed": true,
+      "possible_documents": 3,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21056/01.jpg",
+          "score": -84.17,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 1131,
+          "white_ratio": 0.95,
+          "color_ratio": 0.0
+        },
+        {
+          "image": "/images/properties/imported/21056/02.jpg",
+          "score": -86.1,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 1131,
+          "white_ratio": 0.98,
+          "color_ratio": 0.0
+        },
+        {
+          "image": "/images/properties/imported/21056/03.jpg",
+          "score": -84.99,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 1131,
+          "white_ratio": 0.96,
+          "color_ratio": 0.0
+        },
+        {
+          "image": "/images/properties/imported/21056/04.jpg",
+          "score": 83.4,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.53
+        },
+        {
+          "image": "/images/properties/imported/21056/05.jpg",
+          "score": 82.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.61
+        },
+        {
+          "image": "/images/properties/imported/21056/06.jpg",
+          "score": 55.77,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/21056/07.jpg",
+          "score": 46.2,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.23,
+          "color_ratio": 0.1
+        },
+        {
+          "image": "/images/properties/imported/21056/08.jpg",
+          "score": 57.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.11,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/21056/09.jpg",
+          "score": 50.04,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.02
+        },
+        {
+          "image": "/images/properties/imported/21056/10.jpg",
+          "score": 57.5,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/21056/11.jpg",
+          "score": 59.05,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/21056/12.jpg",
+          "score": 62.69,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.06,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/21056/13.jpg",
+          "score": 72.34,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.34
+        },
+        {
+          "image": "/images/properties/imported/21056/14.jpg",
+          "score": 51.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.1,
+          "color_ratio": 0.09
+        },
+        {
+          "image": "/images/properties/imported/21056/15.jpg",
+          "score": 48.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.13,
+          "color_ratio": 0.07
+        },
+        {
+          "image": "/images/properties/imported/21056/16.jpg",
+          "score": 50.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.1
+        }
+      ]
+    },
+    {
+      "id": "20876",
+      "title": "Exclusiva Villa Reformada con Vistas Panorámicas a la Montaña en La Vall de Gallinera",
+      "old_hero": "/images/properties/imported/20876/01.jpg",
+      "new_hero": "/images/properties/imported/20876/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20876/01.jpg",
+          "score": 78.05,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.57
+        },
+        {
+          "image": "/images/properties/imported/20876/02.jpg",
+          "score": 74.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.47
+        },
+        {
+          "image": "/images/properties/imported/20876/03.jpg",
+          "score": 73.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20876/04.jpg",
+          "score": 94.87,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.66
+        },
+        {
+          "image": "/images/properties/imported/20876/05.jpg",
+          "score": 78.48,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20876/06.jpg",
+          "score": 62.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.21
+        },
+        {
+          "image": "/images/properties/imported/20876/07.jpg",
+          "score": 65.18,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.35
+        },
+        {
+          "image": "/images/properties/imported/20876/08.jpg",
+          "score": 69.81,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20876/09.jpg",
+          "score": 73.49,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/20876/10.jpg",
+          "score": 64.74,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.22
+        },
+        {
+          "image": "/images/properties/imported/20876/11.jpg",
+          "score": 61.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20876/12.jpg",
+          "score": 62.27,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.06,
+          "color_ratio": 0.12
+        },
+        {
+          "image": "/images/properties/imported/20876/13.jpg",
+          "score": 49.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.02
+        },
+        {
+          "image": "/images/properties/imported/20876/14.jpg",
+          "score": 95.0,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/20876/15.jpg",
+          "score": 50.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.03
+        },
+        {
+          "image": "/images/properties/imported/20876/16.jpg",
+          "score": 42.16,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.28,
+          "color_ratio": 0.04
+        }
+      ]
+    },
+    {
+      "id": "20965",
+      "title": "Exclusivo Bajo con Terraza, Garaje y Zonas Resort en Oliva Nova",
+      "old_hero": "/images/properties/imported/20965/01.jpg",
+      "new_hero": "/images/properties/imported/20965/16.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/20965/01.jpg",
+          "score": 67.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.34
+        },
+        {
+          "image": "/images/properties/imported/20965/02.jpg",
+          "score": 72.1,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.42
+        },
+        {
+          "image": "/images/properties/imported/20965/03.jpg",
+          "score": 66.63,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.27
+        },
+        {
+          "image": "/images/properties/imported/20965/04.jpg",
+          "score": 72.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.04,
+          "color_ratio": 0.33
+        },
+        {
+          "image": "/images/properties/imported/20965/05.jpg",
+          "score": 66.02,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.03,
+          "color_ratio": 0.26
+        },
+        {
+          "image": "/images/properties/imported/20965/06.jpg",
+          "score": 77.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20965/07.jpg",
+          "score": 62.19,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.21
+        },
+        {
+          "image": "/images/properties/imported/20965/08.jpg",
+          "score": 66.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.34
+        },
+        {
+          "image": "/images/properties/imported/20965/09.jpg",
+          "score": 61.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.08,
+          "color_ratio": 0.18
+        },
+        {
+          "image": "/images/properties/imported/20965/10.jpg",
+          "score": 71.35,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.09,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/20965/11.jpg",
+          "score": 77.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 689,
+          "white_ratio": 0.03,
+          "color_ratio": 0.38
+        },
+        {
+          "image": "/images/properties/imported/20965/12.jpg",
+          "score": 71.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.03,
+          "color_ratio": 0.37
+        },
+        {
+          "image": "/images/properties/imported/20965/13.jpg",
+          "score": 51.44,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 695,
+          "white_ratio": 0.11,
+          "color_ratio": 0.09
+        },
+        {
+          "image": "/images/properties/imported/20965/14.jpg",
+          "score": 62.36,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.07,
+          "color_ratio": 0.17
+        },
+        {
+          "image": "/images/properties/imported/20965/15.jpg",
+          "score": 71.9,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.02,
+          "color_ratio": 0.36
+        },
+        {
+          "image": "/images/properties/imported/20965/16.jpg",
+          "score": 92.08,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.69
+        }
+      ]
+    },
+    {
+      "id": "21097",
+      "title": "Exclusivo Chalet Pareado de Diseño Mediterráneo-Nórdico en Pego",
+      "old_hero": "/images/properties/imported/21097/01.jpg",
+      "new_hero": "/images/properties/imported/21097/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21097/01.jpg",
+          "score": 63.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.25
+        },
+        {
+          "image": "/images/properties/imported/21097/02.jpg",
+          "score": 51.18,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.08
+        },
+        {
+          "image": "/images/properties/imported/21097/03.jpg",
+          "score": 49.75,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.04
+        },
+        {
+          "image": "/images/properties/imported/21097/04.jpg",
+          "score": 56.82,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.2
+        },
+        {
+          "image": "/images/properties/imported/21097/05.jpg",
+          "score": 62.61,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.27
+        },
+        {
+          "image": "/images/properties/imported/21097/06.jpg",
+          "score": 50.28,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.08,
+          "color_ratio": 0.05
+        },
+        {
+          "image": "/images/properties/imported/21097/07.jpg",
+          "score": 56.26,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.2
+        },
+        {
+          "image": "/images/properties/imported/21097/08.jpg",
+          "score": 49.97,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.07
+        },
+        {
+          "image": "/images/properties/imported/21097/09.jpg",
+          "score": 66.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/21097/10.jpg",
+          "score": 60.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.16
+        },
+        {
+          "image": "/images/properties/imported/21097/11.jpg",
+          "score": 63.25,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.09,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/21097/12.jpg",
+          "score": 57.59,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/21097/13.jpg",
+          "score": 54.45,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/21097/14.jpg",
+          "score": 57.45,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.15
+        },
+        {
+          "image": "/images/properties/imported/21097/15.jpg",
+          "score": 76.52,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.07,
+          "color_ratio": 0.46
+        },
+        {
+          "image": "/images/properties/imported/21097/16.jpg",
+          "score": 64.12,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.05,
+          "color_ratio": 0.28
+        }
+      ]
+    },
+    {
+      "id": "21006",
+      "title": "Magnífico dúplex de diseño inverso con terraza, garaje y trastero en Pego",
+      "old_hero": "/images/properties/imported/21006/01.jpg",
+      "new_hero": "/images/properties/imported/21006/09.jpg",
+      "hero_changed": true,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21006/01.jpg",
+          "score": 66.76,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 755,
+          "white_ratio": 0.03,
+          "color_ratio": 0.14
+        },
+        {
+          "image": "/images/properties/imported/21006/02.jpg",
+          "score": 54.58,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 351,
+          "white_ratio": 0.03,
+          "color_ratio": 0.19
+        },
+        {
+          "image": "/images/properties/imported/21006/03.jpg",
+          "score": 76.38,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 465,
+          "white_ratio": 0.0,
+          "color_ratio": 0.5
+        },
+        {
+          "image": "/images/properties/imported/21006/04.jpg",
+          "score": 79.62,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.55
+        },
+        {
+          "image": "/images/properties/imported/21006/05.jpg",
+          "score": 87.49,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.07,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/21006/06.jpg",
+          "score": 63.13,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 753,
+          "white_ratio": 0.06,
+          "color_ratio": 0.19
+        },
+        {
+          "image": "/images/properties/imported/21006/07.jpg",
+          "score": 54.45,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.12,
+          "color_ratio": 0.15
+        },
+        {
+          "image": "/images/properties/imported/21006/08.jpg",
+          "score": 98.19,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.04,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/21006/09.jpg",
+          "score": 99.33,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.04,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/21006/10.jpg",
+          "score": 66.99,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 525,
+          "white_ratio": 0.01,
+          "color_ratio": 0.28
+        },
+        {
+          "image": "/images/properties/imported/21006/11.jpg",
+          "score": 73.52,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.41
+        },
+        {
+          "image": "/images/properties/imported/21006/12.jpg",
+          "score": 69.91,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.01,
+          "color_ratio": 0.43
+        },
+        {
+          "image": "/images/properties/imported/21006/13.jpg",
+          "score": 85.27,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.78
+        },
+        {
+          "image": "/images/properties/imported/21006/14.jpg",
+          "score": 87.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.06,
+          "color_ratio": 0.65
+        },
+        {
+          "image": "/images/properties/imported/21006/15.jpg",
+          "score": 91.17,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.03,
+          "color_ratio": 0.74
+        },
+        {
+          "image": "/images/properties/imported/21006/16.jpg",
+          "score": 98.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 572,
+          "white_ratio": 0.0,
+          "color_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "id": "21191",
+      "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
+      "old_hero": "/images/properties/imported/21191/01.jpg",
+      "new_hero": "/images/properties/imported/21191/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21191/01.jpg",
+          "score": 96.62,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21191/02.jpg",
+          "score": 89.53,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21191/03.jpg",
+          "score": 92.29,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21191/04.jpg",
+          "score": 95.1,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.85
+        },
+        {
+          "image": "/images/properties/imported/21191/05.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/21191/06.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21191/07.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21191/08.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21191/09.jpg",
+          "score": 96.23,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1073,
+          "white_ratio": 0.06,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21191/10.jpg",
+          "score": 89.33,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1195,
+          "white_ratio": 0.0,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21191/11.jpg",
+          "score": 91.05,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 893,
+          "white_ratio": 0.02,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21191/12.jpg",
+          "score": 96.48,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 893,
+          "white_ratio": 0.0,
+          "color_ratio": 0.86
+        },
+        {
+          "image": "/images/properties/imported/21191/13.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "21185",
+      "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
+      "old_hero": "/images/properties/imported/21185/01.jpg",
+      "new_hero": "/images/properties/imported/21185/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 1,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21185/01.jpg",
+          "score": 106.01,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21185/02.jpg",
+          "score": 103.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.94
+        },
+        {
+          "image": "/images/properties/imported/21185/03.jpg",
+          "score": 93.33,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.76
+        },
+        {
+          "image": "/images/properties/imported/21185/04.jpg",
+          "score": 86.68,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.04,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/21185/05.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/21185/06.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21185/07.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21185/08.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21185/09.jpg",
+          "score": 104.71,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 893,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21185/10.jpg",
+          "score": 103.4,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 893,
+          "white_ratio": 0.0,
+          "color_ratio": 0.92
+        },
+        {
+          "image": "/images/properties/imported/21185/11.jpg",
+          "score": 93.15,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1073,
+          "white_ratio": 0.04,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21185/12.jpg",
+          "score": 87.21,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1073,
+          "white_ratio": 0.03,
+          "color_ratio": 0.69
+        },
+        {
+          "image": "/images/properties/imported/21185/13.jpg",
+          "score": -89.0,
+          "likely_plan_or_document": true,
+          "width": 1600,
+          "height": 425,
+          "white_ratio": 1.0,
+          "color_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "id": "21261",
+      "title": "Talasa Caelus II: viviendas de obra nueva en El Verger",
+      "old_hero": "/images/properties/imported/21261/01.jpg",
+      "new_hero": "/images/properties/imported/21261/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21261/01.jpg",
+          "score": 86.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21261/02.jpg",
+          "score": 86.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/21261/03.jpg",
+          "score": 89.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21261/04.jpg",
+          "score": 92.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.81
+        },
+        {
+          "image": "/images/properties/imported/21261/05.jpg",
+          "score": 97.05,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.97
+        },
+        {
+          "image": "/images/properties/imported/21261/06.jpg",
+          "score": 84.91,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21261/07.jpg",
+          "score": 90.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21261/08.jpg",
+          "score": 100.26,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/21261/09.jpg",
+          "score": 99.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21261/10.jpg",
+          "score": 92.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.69
+        },
+        {
+          "image": "/images/properties/imported/21261/11.jpg",
+          "score": 89.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21261/12.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/21261/13.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21261/14.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21261/15.jpg",
+          "score": 96.38,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.05,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21261/16.jpg",
+          "score": 88.0,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1134,
+          "white_ratio": 0.02,
+          "color_ratio": 0.78
+        }
+      ]
+    },
+    {
+      "id": "21264",
+      "title": "Talasa Terra: viviendas de obra nueva en El Verger",
+      "old_hero": "/images/properties/imported/21264/01.jpg",
+      "new_hero": "/images/properties/imported/21264/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21264/01.jpg",
+          "score": 83.14,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.68
+        },
+        {
+          "image": "/images/properties/imported/21264/02.jpg",
+          "score": 93.43,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.96
+        },
+        {
+          "image": "/images/properties/imported/21264/03.jpg",
+          "score": 90.04,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.86
+        },
+        {
+          "image": "/images/properties/imported/21264/04.jpg",
+          "score": 78.19,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.52
+        },
+        {
+          "image": "/images/properties/imported/21264/05.jpg",
+          "score": 49.87,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.55,
+          "color_ratio": 0.23
+        },
+        {
+          "image": "/images/properties/imported/21264/06.jpg",
+          "score": 75.55,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.16,
+          "color_ratio": 0.56
+        },
+        {
+          "image": "/images/properties/imported/21264/07.jpg",
+          "score": 91.63,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.72
+        },
+        {
+          "image": "/images/properties/imported/21264/08.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.7
+        },
+        {
+          "image": "/images/properties/imported/21264/09.jpg",
+          "score": 80.88,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.54
+        },
+        {
+          "image": "/images/properties/imported/21264/10.jpg",
+          "score": 87.32,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.03,
+          "color_ratio": 0.75
+        },
+        {
+          "image": "/images/properties/imported/21264/11.jpg",
+          "score": 90.85,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.9
+        },
+        {
+          "image": "/images/properties/imported/21264/12.jpg",
+          "score": 96.38,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21264/13.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21264/14.jpg",
+          "score": 89.01,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21264/15.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21264/16.jpg",
+          "score": 96.38,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.05,
+          "color_ratio": 0.79
+        }
+      ]
+    },
+    {
+      "id": "21243",
+      "title": "Viviendas de obra nueva en El Verger: descubre Talasa Caelus",
+      "old_hero": "/images/properties/imported/21243/01.jpg",
+      "new_hero": "/images/properties/imported/21243/01.jpg",
+      "hero_changed": false,
+      "possible_documents": 0,
+      "heuristic_scores": [
+        {
+          "image": "/images/properties/imported/21243/01.jpg",
+          "score": 89.78,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.8
+        },
+        {
+          "image": "/images/properties/imported/21243/02.jpg",
+          "score": 92.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.69
+        },
+        {
+          "image": "/images/properties/imported/21243/03.jpg",
+          "score": 86.07,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21243/04.jpg",
+          "score": 89.03,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21243/05.jpg",
+          "score": 84.91,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21243/06.jpg",
+          "score": 97.05,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.97
+        },
+        {
+          "image": "/images/properties/imported/21243/07.jpg",
+          "score": 90.96,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.0,
+          "color_ratio": 0.93
+        },
+        {
+          "image": "/images/properties/imported/21243/08.jpg",
+          "score": 92.65,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.81
+        },
+        {
+          "image": "/images/properties/imported/21243/09.jpg",
+          "score": 86.8,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.67
+        },
+        {
+          "image": "/images/properties/imported/21243/10.jpg",
+          "score": 99.72,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.01,
+          "color_ratio": 0.82
+        },
+        {
+          "image": "/images/properties/imported/21243/11.jpg",
+          "score": 100.26,
+          "likely_plan_or_document": false,
+          "width": 780,
+          "height": 780,
+          "white_ratio": 0.02,
+          "color_ratio": 0.83
+        },
+        {
+          "image": "/images/properties/imported/21243/12.jpg",
+          "score": 82.85,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.03,
+          "color_ratio": 0.63
+        },
+        {
+          "image": "/images/properties/imported/21243/13.jpg",
+          "score": 87.27,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.02,
+          "color_ratio": 0.77
+        },
+        {
+          "image": "/images/properties/imported/21243/14.jpg",
+          "score": 85.99,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.01,
+          "color_ratio": 0.64
+        },
+        {
+          "image": "/images/properties/imported/21243/15.jpg",
+          "score": 96.38,
+          "likely_plan_or_document": false,
+          "width": 584,
+          "height": 438,
+          "white_ratio": 0.05,
+          "color_ratio": 0.79
+        },
+        {
+          "image": "/images/properties/imported/21243/16.jpg",
+          "score": 88.42,
+          "likely_plan_or_document": false,
+          "width": 1600,
+          "height": 1067,
+          "white_ratio": 0.01,
+          "color_ratio": 0.75
+        }
+      ]
+    }
+  ]
+}
