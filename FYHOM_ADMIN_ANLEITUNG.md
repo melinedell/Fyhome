@@ -19,3 +19,15 @@ Der neue Entwurf liegt auf der Branch `fyhom-final-oktober-2026`. Das Admin-CMS 
 Bitte echten Formularversand mit einer Testanfrage prüfen. 
 Impressum/Datenschutz an Netlify-Hosting, externe Bilder/Schriften, Cookies/Local Storage und die tatsächlichen Aufbewahrungszeiten anpassen; vor dem öffentlichen Launch rechtlich prüfen.
 Die bisherige Testimmobilie ist ausgeblendet. Es erscheinen erst nach Anlage echte verfügbare Objekte.
+
+## 6. Neue Mitarbeiter oder Partner hinzufügen
+Im Admin-Bereich **Teammitglieder → Team verwalten** wählen. Über **Mitarbeiter hinzufügen** Name, Rolle, optional Foto und Beschreibung(en) eintragen und **Auf Website anzeigen** aktiv lassen. Nach dem Speichern werden die neuen Teamkarten automatisch auf der Seite „Über uns“ angezeigt. Bestehende Einträge können dort bearbeitet oder deaktiviert werden. Es wurden bewusst keine erfundenen Personen angelegt.
+
+## 7. Neue Leistungen und Verkaufsideen ohne Code
+Unter **Zusätzliche Leistungen & Ideen → Leistungen verwalten** neue Karten mit Titel, Beschreibung und optionalem Bild eintragen. Bei „Anzeigen“ lassen sich Karten gezielt verbergen. Die Bereiche erscheinen automatisch unter „Über uns“, sobald mindestens eine Leistung eingetragen wurde.
+
+## 8. Gewerbe und privater Suchauftrag
+In **Immobilien entdecken** sind Ladenlokale, Büro-/Praxisflächen und Gewerbeobjekte auswählbar. Für das **private Suchauftragsformular** wurden Gewerbeoptionen auf Basis der FYHOM-Anforderungen bewusst entfernt; dort werden nur Wohnimmobilien und „offen für Vorschläge“ angeboten. Für Gewerbekunden kann das Verkaufs- oder Kontaktformular genutzt werden.
+
+## 9. Hinweis zur Freischaltung
+Der Admin-Bereich arbeitet mit GitHub `main`. Die hier beschriebenen neuen Felder erscheinen erst nach Übernahme der aktuellen Vorschauversion nach `main`. Vorher nicht mit der Live-Seite verwechseln.
