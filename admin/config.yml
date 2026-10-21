@@ -51,6 +51,9 @@ collections:
         file: "content/site-settings.json"
         format: "json"
         fields:
+          - {label: "Startseite: Großes Titelbild", name: "heroImage", widget: "image", required: false}
+          - {label: "Startseite: Bild Über uns", name: "aboutImage", widget: "image", required: false}
+          - {label: "Startseite: Bild Bewertung", name: "valuationImage", widget: "image", required: false}
           - {label: "Deutsch – Startseite: Überschrift", name: "hero_de", widget: "text", required: false}
           - {label: "Deutsch – Startseite: Unterüberschrift", name: "heroSub_de", widget: "text", required: false}
           - {label: "Deutsch – Immobilien: Einleitung", name: "featuredSub_de", widget: "text", required: false}
