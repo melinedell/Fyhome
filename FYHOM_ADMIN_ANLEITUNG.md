@@ -31,3 +31,14 @@ In **Immobilien entdecken** sind Ladenlokale, Büro-/Praxisflächen und Gewerbeo
 
 ## 9. Hinweis zur Freischaltung
 Der Admin-Bereich arbeitet mit GitHub `main`. Die hier beschriebenen neuen Felder erscheinen erst nach Übernahme der aktuellen Vorschauversion nach `main`. Vorher nicht mit der Live-Seite verwechseln.
+
+## 10. Layout-Einstellungen ohne Programmieren
+Nach dem Merge zur Live-Version: Website-Adresse mit `/admin/` öffnen, mit GitHub anmelden, **Website-Texte → Texte in allen Sprachen bearbeiten** aufrufen. Am Anfang dieses Editors lassen sich auswählen:
+- **Design: Grundfarbe** – Dunkelgrün, Anthrazit oder Marineblau
+- **Design: Akzentfarbe** – Champagnergold, Sandbeige oder Kupfer
+- **Startseite: Ausrichtung des Titels** – links oder mittig
+- **Startseite: Service / Warum Costa Blanca / Immobilienbewertung anzeigen** – jeweilige Abschnitte aus-/einblenden
+
+Darunter können Fotos und Seitentexte bearbeitet werden. **Speichern / Veröffentlichen** löst ein GitHub-Update und einen Netlify-Neubau aus. Nach kurzer Wartezeit Browser neu laden.
+
+Wichtig: Das ist eine Auswahl vordefinierter Layout-/Designvarianten, kein frei bedienbarer Drag-and-drop-Baukasten. Für neue Reiter, freie Verschiebung von Bereichen, neue Animationen und Umbau des HTML-Layouts bleiben GitHub/Code-Änderungen nötig. Solche Arbeiten zuerst auf einem Vorschau-Branch prüfen.
