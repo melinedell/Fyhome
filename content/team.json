@@ -8,7 +8,8 @@
       "role_es": "Agente inmobiliario",
       "role_en": "Real Estate Agent",
       "role_fr": "Agent immobilier",
-      "role_nl": "Makelaar"
+      "role_nl": "Makelaar",
+      "role_ru": "Агент по недвижимости"
     },
     {
       "visible": true,
@@ -18,7 +19,8 @@
       "role_es": "Agente inmobiliario",
       "role_en": "Real Estate Agent",
       "role_fr": "Agent immobilier",
-      "role_nl": "Makelaar"
+      "role_nl": "Makelaar",
+      "role_ru": "Агент по недвижимости"
     },
     {
       "visible": true,
@@ -28,7 +30,8 @@
       "role_es": "Agente inmobiliario",
       "role_en": "Real Estate Agent",
       "role_fr": "Agent immobilier",
-      "role_nl": "Makelaar"
+      "role_nl": "Makelaar",
+      "role_ru": "Агент по недвижимости"
     }
   ]
 }
