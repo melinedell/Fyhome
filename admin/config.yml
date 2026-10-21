@@ -1,10 +1,12 @@
-# GitHub OAuth proxy configuration is required before admin login works.
+# FYHOM GitHub OAuth runs on the same Cloudflare Pages origin as /admin/.
+# Configure GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET as encrypted Pages variables.
 backend:
   name: github
   repo: melinedell/Fyhome
   branch: main
-  base_url: https://fyhome-admin-auth.melinedell.workers.dev
-  auth_endpoint: auth
+  site_domain: fyhome-e0f.pages.dev
+  base_url: https://fyhome-e0f.pages.dev
+  auth_endpoint: api/auth
 
 media_folder: "images/properties"
 public_folder: "/images/properties"
