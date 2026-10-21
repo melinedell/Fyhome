@@ -1,3 +1,11 @@
 {
-  "items": []
+  "items": [
+    {
+      "visible": false,
+      "name": "Meline Dell",
+      "role": "Webseite Admin",
+      "photo": "/images/properties/fyh_oro_horizontal.png",
+      "bio_de": "kokols"
+    }
+  ]
 }
