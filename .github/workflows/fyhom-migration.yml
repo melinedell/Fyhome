@@ -1,11 +1,10 @@
 name: FYHOM - Immobilien einmalig importieren
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/fyhom-migration.yml
+
+concurrency:
+  group: fyhom-import-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -15,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 55
     steps:
-      - name: Check out migration branch
+      - name: Check out main
         uses: actions/checkout@v4
         with:
           persist-credentials: true
@@ -27,7 +26,7 @@ jobs:
         run: python -m pip install 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5' 'Pillow>=10,<13'
       - name: Copy old property listings and photos into hidden drafts
         run: python scripts/import_old_fyhom.py
-      - name: Save drafts and images on migration branch only
+      - name: Save imported drafts to GitHub only if not already present
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
@@ -38,5 +37,8 @@ jobs:
             echo 'No new listings found.'
           else
             git commit -m 'Import FYHOM property drafts and self-hosted photographs'
-            git push
+            # Prevent rejected pushes if a parallel admin save advanced main.
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
