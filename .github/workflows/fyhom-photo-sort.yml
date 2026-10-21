@@ -1,0 +1,47 @@
+name: FYHOM - Importierte Immobilienbilder sortieren
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/fyhom-photo-sort.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fyhom-photo-sort
+  cancel-in-progress: false
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out property photos
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image tools
+        run: python -m pip install 'numpy>=1.26,<3' 'Pillow>=10,<13'
+      - name: Rank main photos and move plans to the back
+        run: python scripts/sort_imported_fyhom_photos.py
+      - name: Save image sequence, leaving all property offers hidden
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/properties.json content/photo-sort-review.json
+          if git diff --cached --quiet; then
+            echo 'No image sorting changes.'
+          else
+            git commit -m 'Reorder FYHOM imported property pictures; keep all hidden'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
