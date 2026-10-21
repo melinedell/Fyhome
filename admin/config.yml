@@ -26,12 +26,15 @@ collections:
               - {label: "Referenznummer", name: "id", widget: "string"}
               - {label: "Titel", name: "title", widget: "string"}
               - {label: "Ort", name: "city", widget: "string"}
-              - {label: "Typ", name: "type", widget: "select", options: ["villa", "apartment", "house", "townhouse", "newbuild"]}
+              - {label: "Region", name: "region", widget: "select", options: ["Oliva und Umgebung", "Dénia und Umgebung", "Jávea bis Altea"], required: false}
+              - {label: "Typ", name: "type", widget: "select", options: ["villa", "apartment", "house", "townhouse", "newbuild", "retail", "office", "commercial", "warehouse"]}
               - {label: "Preis (€)", name: "price", widget: "number", value_type: "int", min: 0}
-              - {label: "Schlafzimmer", name: "beds", widget: "number", value_type: "int", min: 0}
-              - {label: "Badezimmer", name: "baths", widget: "number", value_type: "int", min: 0}
-              - {label: "Wohnfläche (m²)", name: "area", widget: "number", value_type: "int", min: 0}
-              - {label: "Status", name: "status", widget: "select", options: ["available", "sold", "hidden"]}
+              - {label: "Schlafzimmer", name: "beds", widget: "number", value_type: "int", min: 0, required: false}
+              - {label: "Badezimmer", name: "baths", widget: "number", value_type: "int", min: 0, required: false}
+              - {label: "Fläche (m²)", name: "area", widget: "number", value_type: "int", min: 0}
+              - {label: "Grundstücksfläche (m²)", name: "plot_area", widget: "number", value_type: "int", min: 0, required: false}
+              - {label: "Als Topangebot zeigen", name: "featured", widget: "boolean", default: false, required: false}
+              - {label: "Status", name: "status", widget: "select", options: ["available", "reserved", "sold", "hidden"]}
               - {label: "Hauptbild", name: "img", widget: "image"}
               - {label: "Weitere Bilder", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false}
               - {label: "Beschreibung Spanisch", name: "description_es", widget: "text", required: false}
