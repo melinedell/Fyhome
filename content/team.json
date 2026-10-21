@@ -2,7 +2,18 @@
   "items": [
     {
       "visible": true,
-      "name": "Bart Blok"
+      "name": "Bart Blok",
+      "role": "Immobilienmakler"
+    },
+    {
+      "visible": true,
+      "name": "Américo Gregorio",
+      "role": "Immoblienmakler"
+    },
+    {
+      "visible": true,
+      "name": "Mark Von Gotenstein",
+      "role": "Immbolienmakler"
     }
   ]
 }
