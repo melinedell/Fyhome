@@ -29,11 +29,6 @@
       "role_en": "Real Estate Agent",
       "role_fr": "Agent immobilier",
       "role_nl": "Makelaar"
-    },
-    {
-      "visible": true,
-      "name": "Elena Dell",
-      "role_de": "Immobilienmakler"
     }
   ]
 }
