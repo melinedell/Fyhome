@@ -51,6 +51,12 @@ collections:
         file: "content/site-settings.json"
         format: "json"
         fields:
+          - {label: "Design: Grundfarbe", name: "themeColor", widget: "select", options: [{label: "Dunkelgrün (FYHOM)", value: "forest"}, {label: "Anthrazit", value: "charcoal"}, {label: "Tiefes Marineblau", value: "navy"}], default: "forest"}
+          - {label: "Design: Akzentfarbe", name: "accentColor", widget: "select", options: [{label: "Champagnergold", value: "champagne"}, {label: "Sandbeige", value: "sand"}, {label: "Kupfer", value: "copper"}], default: "champagne"}
+          - {label: "Startseite: Ausrichtung des Titels", name: "heroAlignment", widget: "select", options: [{label: "Links", value: "left"}, {label: "Mittig", value: "center"}], default: "left"}
+          - {label: "Startseite: Service anzeigen", name: "showHomeServices", widget: "boolean", default: true}
+          - {label: "Startseite: Warum Costa Blanca anzeigen", name: "showHomeWhy", widget: "boolean", default: true}
+          - {label: "Startseite: Immobilienbewertung anzeigen", name: "showHomeValuation", widget: "boolean", default: true}
           - {label: "Startseite: Großes Titelbild", name: "heroImage", widget: "image", required: false}
           - {label: "Startseite: Bild Über uns", name: "aboutImage", widget: "image", required: false}
           - {label: "Startseite: Bild Bewertung", name: "valuationImage", widget: "image", required: false}
