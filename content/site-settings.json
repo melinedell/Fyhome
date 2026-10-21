@@ -36,5 +36,11 @@
   "contactP_nl": "Neem contact op voor bezichtigingen en persoonlijk advies.",
   "heroImage": "",
   "aboutImage": "",
-  "valuationImage": ""
+  "valuationImage": "",
+  "themeColor": "forest",
+  "accentColor": "champagne",
+  "heroAlignment": "left",
+  "showHomeServices": true,
+  "showHomeValuation": true,
+  "showHomeWhy": true
 }
