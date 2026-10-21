@@ -89,3 +89,51 @@ collections:
           - {label: "Niederländisch – Unser Service: Einleitung", name: "serviceIntro_nl", widget: "text", required: false}
           - {label: "Niederländisch – A-Z-Begleitung: Einleitung", name: "journeyIntro_nl", widget: "text", required: false}
           - {label: "Niederländisch – Kontakt: Einleitung", name: "contactP_nl", widget: "text", required: false}
+
+  - name: "team"
+    label: "Teammitglieder"
+    files:
+      - label: "Team verwalten"
+        name: "team-list"
+        file: "content/team.json"
+        format: "json"
+        fields:
+          - label: "Mitarbeiter"
+            name: "items"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Position / Aufgabe", name: "role", widget: "string", required: false}
+              - {label: "Foto", name: "photo", widget: "image", required: false}
+              - {label: "Biografie (Deutsch)", name: "bio_de", widget: "text", required: false}
+              - {label: "Biografie (Spanisch)", name: "bio_es", widget: "text", required: false}
+              - {label: "Biografie (Englisch)", name: "bio_en", widget: "text", required: false}
+              - {label: "Biografie (Französisch)", name: "bio_fr", widget: "text", required: false}
+              - {label: "Biografie (Niederländisch)", name: "bio_nl", widget: "text", required: false}
+              - {label: "Auf Website anzeigen", name: "visible", widget: "boolean", default: true}
+  - name: "leistungen"
+    label: "Zusätzliche Leistungen & Ideen"
+    files:
+      - label: "Leistungen verwalten"
+        name: "service-list"
+        file: "content/additional-services.json"
+        format: "json"
+        fields:
+          - label: "Weitere Leistungen"
+            name: "items"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Titel Deutsch", name: "title_de", widget: "string"}
+              - {label: "Text Deutsch", name: "text_de", widget: "text", required: false}
+              - {label: "Titel Spanisch", name: "title_es", widget: "string", required: false}
+              - {label: "Text Spanisch", name: "text_es", widget: "text", required: false}
+              - {label: "Titel Englisch", name: "title_en", widget: "string", required: false}
+              - {label: "Text Englisch", name: "text_en", widget: "text", required: false}
+              - {label: "Titel Französisch", name: "title_fr", widget: "string", required: false}
+              - {label: "Text Französisch", name: "text_fr", widget: "text", required: false}
+              - {label: "Titel Niederländisch", name: "title_nl", widget: "string", required: false}
+              - {label: "Text Niederländisch", name: "text_nl", widget: "text", required: false}
+              - {label: "Foto", name: "image", widget: "image", required: false}
+              - {label: "Anzeigen", name: "visible", widget: "boolean", default: true}
