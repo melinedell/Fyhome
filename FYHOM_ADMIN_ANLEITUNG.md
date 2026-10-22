@@ -15,7 +15,7 @@ Unter **Immobilien → Immobilienübersicht** können Angebote verändert werden
 - `reserved`: derzeit nicht in den öffentlich angezeigten Ergebnissen.
 - Hauptbild und weitere Bilder sind über die Bildfelder bearbeitbar.
 - Der einmalige Import aus dem alten System liegt unter `content/properties.json`; Bilder liegen lokal unter `images/properties/imported/`. Die neue Website lädt diese Fotos **nicht** von der alten Website.
-- Stand 22. Oktober 2026: 25 `available`, 3 `sold`, 12 `hidden` (inklusive Testimmobilie). Das ist kein Ersatz für eine aktuelle interne Bestandskontrolle.
+- Stand 22. Oktober 2026: 36 `available`, 4 `sold`, 1 `hidden` (Testimmobilie). Alle 40 importierten Objekte werden öffentlich angezeigt. Zwei verfügbaren Angeboten fehlt derzeit ein bestätigter Preis (dort erscheint „Preis auf Anfrage“). Bei neun verfügbaren Angeboten ist keine verifizierte Wohn-/Nutzfläche hinterlegt. Diese Werte müssen noch überprüft und ergänzt werden.
 - Einige importierte Flächen, Preise, Städte, Objektarten und Bildzuordnungen brauchen noch eine abschließende Prüfung. Grundrisse wurden bei einer automatischen Sortierung soweit erkennbar nach hinten geschoben. Bilder im Admin vor Freischaltung stichprobenartig prüfen.
 - Das Veröffentlichen im Admin schreibt nach GitHub und löst den Cloudflare-Deploy automatisch aus.
 
@@ -25,6 +25,14 @@ Unter **Immobilien → Immobilienübersicht** können Angebote verändert werden
 - **Zusätzliche Leistungen & Ideen**: weitere Servicekarten anlegen, bearbeiten oder verstecken.
 - Immobilienbeschreibungen lassen sich in den sechs Sprachen einzeln bearbeiten; automatisch importierte Beschreibungen wurden nicht pauschal in alle Sprachen übersetzt.
 - Änderungen an Seitenstruktur und freiem Layout erfordern weiterhin Codebearbeitung.
+
+## Rechtstexte selbst bearbeiten
+In **Rechtstexte · Impressum / AGB / Datenschutz / Cookies** gibt es eigenständige Dateien für Deutsch, Spanisch, Englisch, Französisch, Niederländisch und Russisch. Für jede Sprache stehen drei bearbeitbare Listen zur Verfügung:
+1. Impressum und allgemeine Website-Nutzungsbedingungen
+2. Datenschutzerklärung
+3. Cookie-Richtlinie
+
+Texte über **Publish** im Admin speichern; sie werden über `content/legal/<sprache>.json` auf der entsprechenden Website-Seite ausgegeben. Das öffentliche Menü enthält keine Links zur alten FYHOM-WordPress-Seite. Wichtig: Die Dokumente sind **ausführliche Entwürfe**, keine rechtsanwaltliche Endprüfung. Prüfen: RAICV-Registrierungsnummer und Versicherungsnachweise, konkrete Auftragsverarbeitungsvereinbarungen, Drittländer, technische Log- und E-Mail-Aufbewahrungsfristen, Cookie-/Tracking-Bestand sowie vollständige Unternehmensdaten.
 
 ## Kontaktformulare: wichtige offene Einrichtung
 Die vier Formulare (Suchauftrag, Verkaufen, Bewertung, Kontakt) senden POST an die eigene Cloudflare-Pages-Funktion `/api/contact`. **Automatischer Versand ist erst aktiv, wenn der E-Mail-Dienst eingerichtet und ein echter Eingangstest erfolgreich war.**
