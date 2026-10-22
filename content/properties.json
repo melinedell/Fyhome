@@ -1300,6 +1300,38 @@
       "new_build": true,
       "title_de": "Talasa Caelus – Neubauprojekt mit Gemeinschaftspool in El Verger",
       "description_de": "Das Wohnprojekt Talasa Caelus in El Verger verbindet moderne Architektur mit unterschiedlich geschnittenen Neubauwohnungen und Außenflächen. Zum Angebot gehören Gartenbereiche, ein Gemeinschaftspool, ein Gesellschaftsraum sowie Freizeit- und Fahrradabstellflächen. Bewohner des Talasa Village haben laut Beschreibung Zugang zum Puerto de Talasa an der Playa de la Almadrava in Dénia, mit Pool, Duschen und weiteren Einrichtungen. Die Bauweise soll auf Komfort, Isolierung und Energieeffizienz ausgelegt sein. Konkrete Grundrisse und Verfügbarkeit sind je Wohneinheit zu klären."
+    },
+    {
+      "id": "20861",
+      "title": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
+      "city": "Pego",
+      "type": "house",
+      "price": 182000,
+      "beds": 2,
+      "baths": 2,
+      "area": 116,
+      "status": "hidden",
+      "featured": false,
+      "description_es": "Descubre el lujo urbano en esta excepcional propiedad ubicada en el corazón de Pego, Alicante. Esta vivienda de 116 m², totalmente renovada, te ofrece una combinación perfecta de estilo contemporáneo, funcionalidad y confort de alta gama. Desde el momento en que cruzas la puerta, el diseño abierto y sus acabados de lujo revelan una atención al detalle inigualable.\n\nEl corazón de la casa es un amplio y luminoso espacio diáfano que integra el salón, el comedor y una fantástica cocina de diseño totalmente equipada. Un entorno perfecto para disfrutar del día a día con total comodidad. Además, una elegante escalera conecta con estilo las distintas alturas de la vivienda.\n\nLa propiedad cuenta con dos dormitorios amplios y dos baños completos , distribuidos para ofrecerte el máximo confort y privacidad.\n\nUbicada en una calle muy tranquila, estarás a pocos pasos de todos los servicios, comercios y restaurantes que ofrece Pego, manteniendo una total tranquilidad en el interior. Una oportunidad única de adquirir una propiedad, lista para que entres a vivir y disfrutes de tu nuevo hogar desde el primer día.",
+      "new_build": false,
+      "img": "/images/properties/imported/20861/01.jpg",
+      "gallery": [
+        "/images/properties/imported/20861/02.jpg",
+        "/images/properties/imported/20861/03.jpg",
+        "/images/properties/imported/20861/04.jpg",
+        "/images/properties/imported/20861/05.jpg",
+        "/images/properties/imported/20861/06.jpg",
+        "/images/properties/imported/20861/07.jpg",
+        "/images/properties/imported/20861/08.jpg",
+        "/images/properties/imported/20861/09.jpg",
+        "/images/properties/imported/20861/10.jpg",
+        "/images/properties/imported/20861/11.jpg",
+        "/images/properties/imported/20861/12.jpg",
+        "/images/properties/imported/20861/13.jpg",
+        "/images/properties/imported/20861/14.jpg",
+        "/images/properties/imported/20861/15.jpg",
+        "/images/properties/imported/20861/16.jpg"
+      ]
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "checked_urls": 93,
+  "new_offers": 1,
+  "all_hidden": true,
+  "offers": [
+    {
+      "id": "20861",
+      "title": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
+      "source": "https://fyhom.es/en/property/espectacular-vivienda-de-116m%C2%B2-en-pego-con-acabados-de-lujo/",
+      "status": "hidden",
+      "photo_count": 16,
+      "check": [
+        "check_description",
+        "was_sold_on_old_site"
+      ]
+    }
+  ]
+}
