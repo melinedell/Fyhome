@@ -10,7 +10,7 @@ Die Benutzerin kann sagen: **„Wir machen mit der FYHOM-Website aus GitHub meli
 - E-Mail-Formularfunktion `functions/api/contact.js` benötigt noch Resend-Einrichtung (eigene Mail-Domain, Secret, Testversand). Bis dahin nur explizit manuelles Mailto als Fallback, keine Erfolgsmeldung ohne Zustellung.
 
 ## Immobilien
-- `content/properties.json` enthält aktuell **40 importierte echte Objekte (36 available, 4 sold)** plus eine **hidden Testimmobilie**, sofern die Benutzerin keine späteren Änderungen im Admin vorgenommen hat.
+- `content/properties.json` enthält nach dem erfolgreichen Fotoabgleich **40 importierte echte Objekte (36 available, 4 sold)**. In der letzten Datenprüfung war kein versteckter Testeintrag mehr vorhanden. Änderungen im Admin können diesen Status später verändern.
 - Die Startseite zeigt nur verfügbare Angebote. In `#properties` erscheinen die verkauften am Ende, mit einem dunklen champagnerfarbenen „Verkauft“-Schild und ohne Kaufanfrage.
 - Immobilienart, Ort, Preise und Fläche müssen bei einzelnen importierten Angeboten noch kontrolliert werden. Bei fehlendem Preis wird „Preis auf Anfrage“ angezeigt.
 - Jede Immobilie verfügt über individuelle Titel und Beschreibungstexte in **DE/ES/EN/FR/NL/RU**. Alle sechs Sprachfelder wurden auf Vollständigkeit geprüft. Keine automatische Wort-für-Wort-Ersetzung verwenden: `solárium` meint im Immobilienkontext oft eine **Sonnen-/Dachterrasse**, niemals ein deutsches Sonnenstudio. Für die Doppelhaushälfte `20597` wurde `title_de` bereits auf „Moderne Doppelhaushälfte mit privatem Pool und Sonnenterrasse in Els Poblets“ korrigiert, und entsprechend in den übrigen Sprachen.
@@ -19,8 +19,9 @@ Die Benutzerin kann sagen: **„Wir machen mit der FYHOM-Website aus GitHub meli
 
 ## Fotos – geprüfte Reparatur
 - **ID 20678**, „Terreno urbano en la Marina Alta con vistas despejadas“, war mit 12 Fotos einschließlich fremder Wohnanlagen und Balkonfotos gespeichert. Die ursprüngliche WordPress-Galerie zeigt genau drei Grundstücksfotos. Am 22.10.2026 wurden nur die geprüften `02.jpg`, `03.jpg`, `04.jpg` als Hauptbild/Galerie belassen; neun falsche Zuordnungen wurden aus `content/properties.json` entfernt (Dateien selbst aus Sicherheitsgründen nicht gelöscht).
+- **Abgeschlossen und erfolgreich am 22. Oktober 2026:** 40 von 40 Originalgalerien über Referenznummern verifiziert; 623 Fotos ausschließlich aus diesen Galerien geladen; null fehlgeschlagene Angebote. Bericht: `content/verified-property-photos-review.json`. Für `20678` sind es genau drei Fotos, für `20597` genau neun Original-Galeriefotos.
 - Ein GitHub-Actions-Workflow **`FYHOM - Verify and Repair Every Property Photo Gallery`** liegt in `.github/workflows/fyhom-rebuild-verified-galleries.yml`, zugehöriges Skript `scripts/rebuild_verified_fyhom_galleries.py`. Er durchläuft alle 40 Immobilien, prüft die tatsächliche WordPress-Referenznummer und verwendet **ausschließlich Bilder aus `.lightbox-gallery #lightbox-slider-js img`** statt der gesamten alten Seite. Er lädt lokale geprüfte Bilder nach `images/properties/verified/<ID>/` und setzt Hauptbild/Galerie um. Status, Preise, Titel und Übersetzungen sollen dabei unverändert bleiben. 
-- **Ergebnis/Abweichungen unbedingt prüfen**: nach Abschluss `content/verified-property-photos-review.json` lesen (Anzahl geprüfter/fehlgeschlagener Galerien, pro Objekt).
+- Der Workflow-Bericht hat `total=40`, `updated=40`, `failed=0`, `saved_images=623`. Im Repository verweisen alle 40 Angebote auf ihren eigenen `/images/properties/verified/<ID>/`-Ordner. Die neue Cloudflare-Produktionsbereitstellung war erfolgreich. Eine visuelle Stichprobe, besonders nach späteren Änderungen des alten Katalogs, bleibt sinnvoll.
 - Quell-Diagnose `content/source-gallery-diagnostic.json`: WordPress-`.lightbox-gallery` enthält für 20678 genau 3, für 20597 9 und für 21191 4 Bilder. In Seitenabschnitten darunter tauchen fremde Immobilienfotos auf.
 
 ## Rechtliches
