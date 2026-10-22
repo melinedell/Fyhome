@@ -27,9 +27,16 @@ collections:
             fields:
               - {label: "Referenznummer", name: "id", widget: "string"}
               - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Titel Deutsch", name: "title_de", widget: "string", required: false}
+              - {label: "Título Español", name: "title_es", widget: "string", required: false}
+              - {label: "Title English", name: "title_en", widget: "string", required: false}
+              - {label: "Titre Français", name: "title_fr", widget: "string", required: false}
+              - {label: "Titel Nederlands", name: "title_nl", widget: "string", required: false}
+              - {label: "Заголовок Русский", name: "title_ru", widget: "string", required: false}
               - {label: "Ort", name: "city", widget: "string"}
               - {label: "Region", name: "region", widget: "select", options: ["Oliva und Umgebung", "Dénia und Umgebung", "Jávea bis Altea"], required: false}
-              - {label: "Typ", name: "type", widget: "select", options: ["villa", "apartment", "house", "townhouse", "newbuild", "retail", "office", "commercial", "warehouse"]}
+              - {label: "Immobilienart", name: "type", widget: "select", options: [{label: "Haus / Villa", value: "villa"}, {label: "Einfamilienhaus / Landhaus", value: "house"}, {label: "Wohnung / Apartment / Penthouse", value: "apartment"}, {label: "Reihenhaus / Doppelhaus", value: "townhouse"}, {label: "Neubauprojekt mit verschiedenen Wohnungstypen", value: "newbuild"}, {label: "Ladenlokal / Restaurant / Einzelhandel", value: "retail"}, {label: "Büro / Praxis", value: "office"}, {label: "Sonstige Gewerbeimmobilie", value: "commercial"}, {label: "Lagerhalle / Industrie", value: "warehouse"}, {label: "Grundstück / Bauland", value: "land"}]}
+              - {label: "Neubau (zusätzlich zur Immobilienart)", name: "new_build", widget: "boolean", required: false, default: false}
               - {label: "Preis (€)", name: "price", widget: "number", value_type: "int", min: 0}
               - {label: "Schlafzimmer", name: "beds", widget: "number", value_type: "int", min: 0, required: false}
               - {label: "Badezimmer", name: "baths", widget: "number", value_type: "int", min: 0, required: false}
