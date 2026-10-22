@@ -1305,12 +1305,12 @@
       "id": "20861",
       "title": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
       "city": "Pego",
-      "type": "house",
+      "type": "apartment",
       "price": 182000,
       "beds": 2,
       "baths": 2,
       "area": 116,
-      "status": "hidden",
+      "status": "sold",
       "featured": false,
       "description_es": "Descubre el lujo urbano en esta excepcional propiedad ubicada en el corazón de Pego, Alicante. Esta vivienda de 116 m², totalmente renovada, te ofrece una combinación perfecta de estilo contemporáneo, funcionalidad y confort de alta gama. Desde el momento en que cruzas la puerta, el diseño abierto y sus acabados de lujo revelan una atención al detalle inigualable.\n\nEl corazón de la casa es un amplio y luminoso espacio diáfano que integra el salón, el comedor y una fantástica cocina de diseño totalmente equipada. Un entorno perfecto para disfrutar del día a día con total comodidad. Además, una elegante escalera conecta con estilo las distintas alturas de la vivienda.\n\nLa propiedad cuenta con dos dormitorios amplios y dos baños completos , distribuidos para ofrecerte el máximo confort y privacidad.\n\nUbicada en una calle muy tranquila, estarás a pocos pasos de todos los servicios, comercios y restaurantes que ofrece Pego, manteniendo una total tranquilidad en el interior. Una oportunidad única de adquirir una propiedad, lista para que entres a vivir y disfrutes de tu nuevo hogar desde el primer día.",
       "new_build": false,
@@ -1331,7 +1331,10 @@
         "/images/properties/imported/20861/14.jpg",
         "/images/properties/imported/20861/15.jpg",
         "/images/properties/imported/20861/16.jpg"
-      ]
+      ],
+      "title_de": "Verkauft: Hochwertig renovierte 116-m²-Wohnung in Pego",
+      "description_de": "Diese hochwertige, vollständig renovierte Wohnung liegt im Zentrum von Pego und bietet rund 116 m² Fläche. Das offene Raumkonzept verbindet einen hellen Wohn- und Essbereich mit einer modernen, ausgestatteten Küche. Das Angebot hebt insbesondere die zeitgemäße Gestaltung, hochwertige Oberflächen und den Wohnkomfort hervor. Die Wohnung verfügt laut ursprünglichem Angebot über zwei Schlafzimmer und zwei Badezimmer. Das Objekt wurde bereits verkauft und steht nicht mehr zum Kauf zur Verfügung.",
+      "title_es": "Espectacular vivienda de 116m² en Pego con acabados de lujo"
     }
   ]
 }
