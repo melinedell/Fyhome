@@ -1,0 +1,45 @@
+name: FYHOM - Fehlende alte Immobilien prüfen
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/fyhom-scan-missing.yml
+permissions:
+  contents: write
+concurrency:
+  group: fyhom-extra-import
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Check out current FYHOM
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5' 'Pillow>=10,<13'
+      - name: Scan archives and import only missing HIDDEN property drafts
+        run: python scripts/scan_missing_fyhom.py
+      - name: Save photo files and review report
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/properties.json content/missing-import-review.json
+          if [ -d images/properties/imported ]; then git add images/properties/imported; fi
+          if git diff --cached --quiet; then
+            echo 'No new records to save.'
+          else
+            git commit -m 'Record newly discovered FYHOM drafts; all hidden'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
