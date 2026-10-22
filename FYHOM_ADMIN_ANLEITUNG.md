@@ -1,44 +1,47 @@
-# FYHOM – Website selbst bearbeiten
+# FYHOM – Website verwalten (Cloudflare Pages)
 
-## 1. Immobilien ergänzen oder ändern
-Nach Veröffentlichung: https://starlit-starburst-dd7d19.netlify.app/admin/
-Mit dem berechtigten GitHub-Konto anmelden (über den bestehenden Cloudflare-OAuth-Dienst).
-**Immobilien → Immobilienübersicht** öffnen, ein Objekt hinzufügen und die Felder ausfüllen. Die Typen umfassen Haus/Villa, Wohnung, Reihenhaus, Neubau, Ladenlokal (retail), Büro/Praxis (office), Gewerbeobjekt (commercial) und Lager/Industrie (warehouse). Bilder über die Bildfelder hochladen. Status „available“ sichtbar, „sold“ verkauft, „hidden“ ausblenden; „reserved“ bleibt derzeit außerhalb der öffentlichen Trefferliste. Mit **Veröffentlichen/Speichern** übertragen. Änderungen werden auf der `main`-Branch gespeichert und lösen einen Netlify-Build aus.
+## Website und Login
+- Website: https://fyhome-e0f.pages.dev/
+- Adminbereich: https://fyhome-e0f.pages.dev/admin/
+- Hosting: Cloudflare Pages, automatisches Deployment aus GitHub `melinedell/Fyhome`, Branch `main`.
+- Der Admin verwendet GitHub-OAuth über die Cloudflare-Pages-Funktionen `/api/auth` und `/api/callback`.
+- GitHub-OAuth-Werte `GITHUB_CLIENT_ID` und `GITHUB_CLIENT_SECRET` gehören **nur** in die Cloudflare-Secrets, nie in den Repository-Code.
 
-## 2. Texte auf der Website ändern
-**Website-Texte → Texte in allen Sprachen bearbeiten** aufrufen. Dort lassen sich die Hauptüberschrift, die einleitenden Texte der Immobilienübersicht, Über uns, Kontakt und der FYHOM-Service in Deutsch, Spanisch, Englisch, Französisch und Niederländisch ändern. Änderungen speichern/veröffentlichen und einige Augenblicke auf Netlify warten.
+## Immobilien
+Unter **Immobilien → Immobilienübersicht** können Angebote verändert werden.
+- `available`: online und regulär zu verkaufen.
+- `sold`: online und deutlich als verkauft gekennzeichnet; Anfrage nach ähnlichen Immobilien.
+- `hidden`: nicht öffentlich sichtbar.
+- `reserved`: derzeit nicht in den öffentlich angezeigten Ergebnissen.
+- Hauptbild und weitere Bilder sind über die Bildfelder bearbeitbar.
+- Der einmalige Import aus dem alten System liegt unter `content/properties.json`; Bilder liegen lokal unter `images/properties/imported/`. Die neue Website lädt diese Fotos **nicht** von der alten Website.
+- Stand 22. Oktober 2026: 25 `available`, 3 `sold`, 12 `hidden` (inklusive Testimmobilie). Das ist kein Ersatz für eine aktuelle interne Bestandskontrolle.
+- Einige importierte Flächen, Preise, Städte, Objektarten und Bildzuordnungen brauchen noch eine abschließende Prüfung. Grundrisse wurden bei einer automatischen Sortierung soweit erkennbar nach hinten geschoben. Bilder im Admin vor Freischaltung stichprobenartig prüfen.
+- Das Veröffentlichen im Admin schreibt nach GitHub und löst den Cloudflare-Deploy automatisch aus.
 
-## 3. Startseitenbilder ersetzen
-Im Bereich Website-Texte gibt es Bildfelder für Hauptbild, Über-uns-Bild und Immobilienbewertungs-Bild. Neue passende Bilder hochladen und speichern. Die Bilder dienen als Darstellung und dürfen nur mit entsprechenden Nutzungsrechten hochgeladen werden.
+## Website-Texte, Design, Team
+- **Website-Texte**: Seitentexte, Titelbilder, vorbereitete Farbvarianten und Sichtbarkeit einzelner Abschnitte bearbeiten.
+- **Teammitglieder**: Name, Foto, Sichtbarkeit, Berufsbezeichnung und Biografie in **DE, ES, EN, FR, NL, RU** bearbeiten.
+- **Zusätzliche Leistungen & Ideen**: weitere Servicekarten anlegen, bearbeiten oder verstecken.
+- Immobilienbeschreibungen lassen sich in den sechs Sprachen einzeln bearbeiten; automatisch importierte Beschreibungen wurden nicht pauschal in alle Sprachen übersetzt.
+- Änderungen an Seitenstruktur und freiem Layout erfordern weiterhin Codebearbeitung.
 
-## 4. Was nur im Code geändert werden kann
-Navigation, komplette Seitenstruktur, Farben, Animationen, Layout und neue Funktionen lassen sich im aktuellen Decap CMS noch **nicht** per Drag-and-drop bearbeiten. Dafür GitHub (Repository melinedell/Fyhome) oder einen Webentwickler nutzen. Vor Änderungen am Design am besten einen Branch und eine Netlify-Deploy-Preview erstellen.
+## Kontaktformulare: wichtige offene Einrichtung
+Die vier Formulare (Suchauftrag, Verkaufen, Bewertung, Kontakt) senden POST an die eigene Cloudflare-Pages-Funktion `/api/contact`. **Automatischer Versand ist erst aktiv, wenn der E-Mail-Dienst eingerichtet und ein echter Eingangstest erfolgreich war.**
 
-## 5. Sicherheits- und Veröffentlichungshinweise
-Der neue Entwurf liegt auf der Branch `fyhom-final-oktober-2026`. Das Admin-CMS schreibt auf `main`, also zunächst die geprüfte Website veröffentlichen/mergen, bevor darüber die neuen Felder bearbeitet werden. 
-Bitte echten Formularversand mit einer Testanfrage prüfen. 
-Impressum/Datenschutz an Netlify-Hosting, externe Bilder/Schriften, Cookies/Local Storage und die tatsächlichen Aufbewahrungszeiten anpassen; vor dem öffentlichen Launch rechtlich prüfen.
-Die bisherige Testimmobilie ist ausgeblendet. Es erscheinen erst nach Anlage echte verfügbare Objekte.
+Für den vorbereiteten Resend-Versand:
+1. Bestehende E-Mail-Adresse `info@fyhom.es` **bei IONOS** behalten; Gmail kann weiterhin als Oberfläche für dieses Postfach verwendet werden.
+2. Bei Resend eine **eigene Versand-Subdomain**, beispielsweise `mailer.fyhom.es`, verifizieren. Die dafür angegebenen DNS-Einträge genau übernehmen, aber **keine bestehenden IONOS-MX-Records, SPF-/DKIM-Records für `fyhom.es` löschen oder überschreiben**. Nameserver-Zustand vor der Umstellung prüfen.
+3. In Cloudflare Pages → `fyhome` → Settings → Variables and Secrets (Production) hinterlegen:
+   - `RESEND_API_KEY` als verschlüsseltes Secret
+   - `FYHOM_FROM_EMAIL` als Text, z. B. `FYHOM Website <anfragen@mailer.fyhom.es>` (nur mit verifizierter Subdomain)
+4. Cloudflare neu deployen, **eine echte Testanfrage** mit eigener E-Mail-Adresse schicken und Eingang bei `info@fyhom.es` prüfen.
+5. Solange die Versand-Variablen fehlen oder der Dienst eine Anfrage ablehnt, zeigt das Formular ausdrücklich an, dass es **nicht gesendet** wurde und bietet stattdessen eine vorausgefüllte `mailto:`-Nachricht an. Diese muss ein Besucher selbst absenden.
 
-## 6. Neue Mitarbeiter oder Partner hinzufügen
-Im Admin-Bereich **Teammitglieder → Team verwalten** wählen. Über **Mitarbeiter hinzufügen** Name, Rolle, optional Foto und Beschreibung(en) eintragen und **Auf Website anzeigen** aktiv lassen. Nach dem Speichern werden die neuen Teamkarten automatisch auf der Seite „Über uns“ angezeigt. Bestehende Einträge können dort bearbeitet oder deaktiviert werden. Es wurden bewusst keine erfundenen Personen angelegt.
+**Keine IONOS-, Gmail-, GitHub- oder Resend-Passwörter in Chats oder den Repository-Code kopieren.**
 
-## 7. Neue Leistungen und Verkaufsideen ohne Code
-Unter **Zusätzliche Leistungen & Ideen → Leistungen verwalten** neue Karten mit Titel, Beschreibung und optionalem Bild eintragen. Bei „Anzeigen“ lassen sich Karten gezielt verbergen. Die Bereiche erscheinen automatisch unter „Über uns“, sobald mindestens eine Leistung eingetragen wurde.
-
-## 8. Gewerbe und privater Suchauftrag
-In **Immobilien entdecken** sind Ladenlokale, Büro-/Praxisflächen und Gewerbeobjekte auswählbar. Für das **private Suchauftragsformular** wurden Gewerbeoptionen auf Basis der FYHOM-Anforderungen bewusst entfernt; dort werden nur Wohnimmobilien und „offen für Vorschläge“ angeboten. Für Gewerbekunden kann das Verkaufs- oder Kontaktformular genutzt werden.
-
-## 9. Hinweis zur Freischaltung
-Der Admin-Bereich arbeitet mit GitHub `main`. Die hier beschriebenen neuen Felder erscheinen erst nach Übernahme der aktuellen Vorschauversion nach `main`. Vorher nicht mit der Live-Seite verwechseln.
-
-## 10. Layout-Einstellungen ohne Programmieren
-Nach dem Merge zur Live-Version: Website-Adresse mit `/admin/` öffnen, mit GitHub anmelden, **Website-Texte → Texte in allen Sprachen bearbeiten** aufrufen. Am Anfang dieses Editors lassen sich auswählen:
-- **Design: Grundfarbe** – Dunkelgrün, Anthrazit oder Marineblau
-- **Design: Akzentfarbe** – Champagnergold, Sandbeige oder Kupfer
-- **Startseite: Ausrichtung des Titels** – links oder mittig
-- **Startseite: Service / Warum Costa Blanca / Immobilienbewertung anzeigen** – jeweilige Abschnitte aus-/einblenden
-
-Darunter können Fotos und Seitentexte bearbeitet werden. **Speichern / Veröffentlichen** löst ein GitHub-Update und einen Netlify-Neubau aus. Nach kurzer Wartezeit Browser neu laden.
-
-Wichtig: Das ist eine Auswahl vordefinierter Layout-/Designvarianten, kein frei bedienbarer Drag-and-drop-Baukasten. Für neue Reiter, freie Verschiebung von Bereichen, neue Animationen und Umbau des HTML-Layouts bleiben GitHub/Code-Änderungen nötig. Solche Arbeiten zuerst auf einem Vorschau-Branch prüfen.
+## Rechtliches und Domain
+- Eigenständige Seiten unter `#legal`, `#privacy` und `#cookies` – keine Links zur bisherigen Website.
+- Rechtliche Inhalte vor endgültiger Nutzung von Unternehmensunterlagen und einem fachkundigen Prüfer abgleichen (insbesondere spanisches Recht, DSGVO, Auftragsverarbeitung, Drittinhalte, Löschfristen, Cookies).
+- Wenn `fyhom.es` zu Cloudflare umgestellt wird, müssen die bestehenden IONOS-E-Mail-DNS-Einträge unverändert korrekt bestehen bleiben. Vor Änderungen an Nameservern/MX vorher prüfen.
+- Solange die eigene Domain nicht auf Cloudflare Pages zeigt, die `pages.dev`-Adresse verwenden.
