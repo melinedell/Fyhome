@@ -194,10 +194,11 @@ collections:
           - label: "Immobilien"
             name: "items"
             widget: "list"
+            hint: "Vor Status available: Titel und Beschreibung in DE, ES, EN, FR, NL und RU ausfüllen. Fehlende Sprachen zeigen sonst einen Hinweis in der gewählten Sprache."
             summary: "{{fields.title}} · {{fields.city}}"
             fields:
               - {label: "Referenznummer", name: "id", widget: "string"}
-              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Interner Standardtitel (Admin)", name: "title", widget: "string"}
               - {label: "Titel Deutsch", name: "title_de", widget: "string", required: false}
               - {label: "Título Español", name: "title_es", widget: "string", required: false}
               - {label: "Title English", name: "title_en", widget: "string", required: false}
