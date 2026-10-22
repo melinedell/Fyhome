@@ -76,3 +76,20 @@ body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto
 .fy-modal-sold #modal-meta{color:#8b754e;font-weight:700;letter-spacing:.06em}
 #modal-inquiry[hidden]{display:none!important}
 @media(max-width:600px){.fy-sold-ribbon{top:12px;right:12px;font-size:10px;letter-spacing:.13em;padding:9px 12px}}
+
+/* Standalone six-language legal content maintained in FYHOM CMS */
+.fy-legal-page{max-width:990px;margin:0 auto}
+.fy-legal-intro{padding:25px 32px 24px;border-left:3px solid var(--gold);background:var(--cream);margin-bottom:45px}
+.fy-legal-intro p{margin:0 0 12px;line-height:1.85;color:var(--ink)}
+.fy-legal-date{font-size:12px;letter-spacing:.04em;color:var(--muted)!important;margin-bottom:0!important}
+.fy-legal-sections{display:grid;gap:0}
+.fy-legal-topic{padding:26px 4px 30px;border-bottom:1px solid var(--line)}
+.fy-legal-topic:first-child{padding-top:0}
+.fy-legal-topic h2{font-family:'Manrope',sans-serif;font-size:clamp(19px,2.1vw,23px);font-weight:650;letter-spacing:-.015em;line-height:1.35;margin:0 0 15px;color:var(--ink)}
+.fy-legal-topic p{color:#586660;white-space:pre-line;line-height:1.9;font-size:15px;margin:0;overflow-wrap:anywhere}
+.fy-legal-contact{margin-top:43px;padding:28px 32px;border:1px solid #dbc7a6;background:#fbf9f5;line-height:1.65}
+.fy-legal-contact strong{color:var(--ink)}
+.fy-legal-contact p{margin:8px 0;color:#5a6862}
+.fy-legal-contact a{text-decoration:underline;text-underline-offset:3px;color:#806a46}
+.fy-legal-loading{padding:28px 0;color:var(--muted)}
+@media(max-width:600px){.fy-legal-intro,.fy-legal-contact{padding:22px}.fy-legal-topic{padding:22px 0}.fy-legal-topic p{font-size:14px}}
