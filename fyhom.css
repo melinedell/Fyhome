@@ -65,17 +65,17 @@ body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto
 
 /* Refined FYHOM sold-property treatment: champagne typography on dark olive glass */
 .property .photo{overflow:hidden}
-.property .photo:has(.fy-sold-ribbon) img{filter:saturate(.88);transition:transform .35s ease}
-.property:hover .photo:has(.fy-sold-ribbon) img{transform:scale(1.035)}
-.fy-sold-ribbon{position:absolute;right:16px;top:16px;z-index:2;display:inline-flex;align-items:center;padding:9px 15px;background:#f5f0e7;color:#34433d;border:1px solid #dfd6c7;border-radius:4px;box-shadow:0 2px 8px #14251d14;font-family:inherit;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;line-height:1.4}
 
 
-.property:has(.fy-sold-ribbon){border-color:#d7c6a9}
+
+
+
+
 
 .fy-modal-sold .modal-box:before{content:'';height:5px;position:absolute;top:0;left:0;right:0;z-index:3;background:linear-gradient(90deg,#b1925b,#e8d7b8,#b1925b)}
 .fy-modal-sold #modal-meta{color:#8b754e;font-weight:700;letter-spacing:.06em}
 #modal-inquiry[hidden]{display:none!important}
-@media(max-width:600px){.fy-sold-ribbon{position:absolute;right:16px;top:16px;z-index:2;display:inline-flex;align-items:center;padding:9px 15px;background:#f5f0e7;color:#34433d;border:1px solid #dfd6c7;border-radius:4px;box-shadow:0 2px 8px #14251d14;font-family:inherit;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;line-height:1.4}}
+@media(max-width:600px){}
 
 /* Standalone six-language legal content maintained in FYHOM CMS */
 .fy-legal-page{max-width:990px;margin:0 auto}
@@ -93,3 +93,6 @@ body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto
 .fy-legal-contact a{text-decoration:underline;text-underline-offset:3px;color:#806a46}
 .fy-legal-loading{padding:28px 0;color:var(--muted)}
 @media(max-width:600px){.fy-legal-intro,.fy-legal-contact{padding:22px}.fy-legal-topic{padding:22px 0}.fy-legal-topic p{font-size:14px}}
+
+/* Sold status belongs below the property details, never over the photo. */
+.property .details .fy-sold-status{position:static;margin:16px 0 0;padding:12px 0 0;border-top:1px solid #e6e1d8;background:none;color:#77746d;font:500 13px/1.5 inherit;letter-spacing:.02em;text-transform:none;box-shadow:none}
