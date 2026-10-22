@@ -62,3 +62,17 @@ body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto
 
 /* Never allow an inquiry CTA for property listings marked sold. */
 #modal-inquiry[hidden]{display:none!important}
+
+/* Refined FYHOM sold-property treatment: champagne typography on dark olive glass */
+.property .photo{overflow:hidden}
+.property .photo:has(.fy-sold-ribbon) img{filter:saturate(.88);transition:transform .35s ease}
+.property:hover .photo:has(.fy-sold-ribbon) img{transform:scale(1.035)}
+.fy-sold-ribbon{position:absolute;right:14px;top:15px;z-index:2;display:inline-flex;align-items:center;gap:10px;padding:10px 17px 10px 14px;background:rgba(24,43,39,.92);color:#f4e1be;border:1px solid rgba(238,210,159,.75);border-radius:2px;box-shadow:0 8px 28px #0e231c44, inset 0 0 0 3px rgba(23,43,39,.75);font-family:'DM Sans',sans-serif;font-size:11px;font-weight:750;letter-spacing:.22em;text-transform:uppercase;line-height:1.25;backdrop-filter:blur(8px)}
+.fy-sold-ribbon:after{content:'';position:absolute;left:14px;right:14px;bottom:5px;height:1px;background:linear-gradient(90deg,transparent,#e3cda5,transparent);opacity:.6}
+.fy-sold-sparkle{color:#d9b97e;font-size:15px;line-height:1}
+.property:has(.fy-sold-ribbon){border-color:#d7c6a9}
+.property:has(.fy-sold-ribbon) .details:after{content:'';display:block;height:1px;width:54px;margin-top:19px;background:#bba47b}
+.fy-modal-sold .modal-box:before{content:'';height:5px;position:absolute;top:0;left:0;right:0;z-index:3;background:linear-gradient(90deg,#b1925b,#e8d7b8,#b1925b)}
+.fy-modal-sold #modal-meta{color:#8b754e;font-weight:700;letter-spacing:.06em}
+#modal-inquiry[hidden]{display:none!important}
+@media(max-width:600px){.fy-sold-ribbon{top:12px;right:12px;font-size:10px;letter-spacing:.13em;padding:9px 12px}}
