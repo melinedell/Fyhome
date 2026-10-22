@@ -1,0 +1,410 @@
+{
+  "timestamp": "2026-10-22",
+  "method": "Original WordPress lightbox only; reference ID matched",
+  "total": 40,
+  "updated": 40,
+  "failed": 0,
+  "saved_images": 623,
+  "listings": [
+    {
+      "id": "20032",
+      "title": "Blaue Gärten Javea",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/blue-gardens-javea/",
+      "original_gallery_count": 9,
+      "result": "verified",
+      "new_count": 9
+    },
+    {
+      "id": "19955",
+      "title": "Haus im Zentrum von Pego",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/casa-en-el-centro-de-pego/",
+      "original_gallery_count": 14,
+      "result": "verified",
+      "new_count": 14
+    },
+    {
+      "id": "20134",
+      "title": "Haus oder Chalet zu verkaufen in Ondara",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/casa-o-chalet-en-venta-en-ondara/",
+      "original_gallery_count": 16,
+      "result": "verified",
+      "new_count": 16
+    },
+    {
+      "id": "19769",
+      "title": "Freistehendes Einfamilienhaus zu verkaufen in der Urbanisation Tossal Gross, 43",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/casa-o-chalet-independiente-en-venta-en-urbanitzacio-tossal-gross-43/",
+      "original_gallery_count": 40,
+      "result": "verified",
+      "new_count": 40
+    },
+    {
+      "id": "19845",
+      "title": "Javea Centro – Av. del Rei Juan Carlos I",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/javea-centro-av-del-rei-juan-carlos-i/",
+      "original_gallery_count": 16,
+      "result": "verified",
+      "new_count": 16
+    },
+    {
+      "id": "19839",
+      "title": "Ladenlokal zu verkaufen in Rap-Straße 5",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/local-en-venta-en-calle-rap-5/",
+      "original_gallery_count": 7,
+      "result": "verified",
+      "new_count": 7
+    },
+    {
+      "id": "20086",
+      "title": "Orangengärten",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/orange-gardens/",
+      "original_gallery_count": 6,
+      "result": "verified",
+      "new_count": 6
+    },
+    {
+      "id": "20018",
+      "title": "Wohnung zum Verkauf in Denia, Marina Real III",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/piso-en-venta-en-calle-de-castor/",
+      "original_gallery_count": 30,
+      "result": "verified",
+      "new_count": 30
+    },
+    {
+      "id": "20092",
+      "title": "Zen Castellet von Murla",
+      "original_status": "sold",
+      "old_count": 12,
+      "source": "https://fyhom.es/property/zen-castellet-de-murla/",
+      "original_gallery_count": 5,
+      "result": "verified",
+      "new_count": 5
+    },
+    {
+      "id": "20372",
+      "title": "Casa de pueblo auténtica con terrazas y vistas al Montgó en El Verger",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/casa-de-pueblo-autentica-con-terrazas-y-vistas-al-montgo-en-el-verger/",
+      "original_gallery_count": 21,
+      "result": "verified",
+      "new_count": 21
+    },
+    {
+      "id": "20655",
+      "title": "Apartamento en primera línea de playa en Denia – Les Marines",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/apartamento-primera-linea-playa-les-marines-denia/",
+      "original_gallery_count": 15,
+      "result": "verified",
+      "new_count": 15
+    },
+    {
+      "id": "20256",
+      "title": "Apartamento en primera linea de playa",
+      "original_status": "sold",
+      "old_count": 15,
+      "source": "https://fyhom.es/property/apartamento-en-primera-linea-de-playa/",
+      "original_gallery_count": 6,
+      "result": "verified",
+      "new_count": 6
+    },
+    {
+      "id": "20593",
+      "title": "Chalet independiente de obra nueva con piscina privada en Els poblets",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/chalet-independiente-piscina-privada-els-poblets/",
+      "original_gallery_count": 9,
+      "result": "verified",
+      "new_count": 9
+    },
+    {
+      "id": "20597",
+      "title": "Chalet pareado en Els Poblets con piscina privada",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/chalet-pareado-diseno-moderno-els-poblets/",
+      "original_gallery_count": 9,
+      "result": "verified",
+      "new_count": 9
+    },
+    {
+      "id": "20276",
+      "title": "Chalet Adosado a pocos minutos de la Playa",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/chalet-adosado-a-pocos-minutos-de-la-playa/",
+      "original_gallery_count": 9,
+      "result": "verified",
+      "new_count": 9
+    },
+    {
+      "id": "20301",
+      "title": "ESPACIOSA VILLA FAMILIAR",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/espaciosa-villa-familiar/",
+      "original_gallery_count": 19,
+      "result": "verified",
+      "new_count": 19
+    },
+    {
+      "id": "20678",
+      "title": "Terreno urbano en la Marina Alta con vistas despejadas",
+      "original_status": "available",
+      "old_count": 3,
+      "source": "https://fyhom.es/property/terreno-urbano-en-la-marina-alta-con-vistas-despejadas/",
+      "original_gallery_count": 3,
+      "result": "verified",
+      "new_count": 3
+    },
+    {
+      "id": "20736",
+      "title": "Adosado de lujo en La Nucía con gran parcela, piscina y terrazas privadas",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/adosado-de-lujo-en-la-nucia-con-gran-parcela-piscina-y-terrazas-privadas/",
+      "original_gallery_count": 13,
+      "result": "verified",
+      "new_count": 13
+    },
+    {
+      "id": "20697",
+      "title": "Adosado de obra nueva en El Verger con gran solárium y parcela privada",
+      "original_status": "available",
+      "old_count": 13,
+      "source": "https://fyhom.es/property/adosado-obra-nueva-el-verger-la-segaria/",
+      "original_gallery_count": 3,
+      "result": "verified",
+      "new_count": 3
+    },
+    {
+      "id": "21029",
+      "title": "Amplia casa tradicional con 3 viviendas independientes en Pego",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/amplia-casa-tradicional-con-3-viviendas-independientes-en-pego/",
+      "original_gallery_count": 22,
+      "result": "verified",
+      "new_count": 22
+    },
+    {
+      "id": "20831",
+      "title": "Apartamento de obra nueva en Pego con terraza soleada y piscina",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/apartamento-de-obra-nueva-en-pego-con-terraza-soleada-y-piscina/",
+      "original_gallery_count": 7,
+      "result": "verified",
+      "new_count": 7
+    },
+    {
+      "id": "20835",
+      "title": "Ático de obra nueva en Pego con terraza privada y espacio ampliable",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/atico-de-obra-nueva-en-pego-con-terraza-privada-y-espacio-ampliable/",
+      "original_gallery_count": 7,
+      "result": "verified",
+      "new_count": 7
+    },
+    {
+      "id": "20949",
+      "title": "Casa de pueblo tradicional con gran potencial para reformar en Pego",
+      "original_status": "sold",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/casa-de-pueblo-tradicional-con-gran-potencial-para-reformar-en-pego/",
+      "original_gallery_count": 11,
+      "result": "verified",
+      "new_count": 11
+    },
+    {
+      "id": "20758",
+      "title": "Chalet adosado de obra nueva en La Nucía con gran espacio extra y piscina privada",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/chalet-adosado-de-obra-nueva-en-la-nucia-con-gran-espacio-extra-y-piscina-privada/",
+      "original_gallery_count": 12,
+      "result": "verified",
+      "new_count": 12
+    },
+    {
+      "id": "20756",
+      "title": "Chalet adosado de obra nueva en La Nucía con solárium y vistas al mar",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/chalet-adosado-de-obra-nueva-en-la-nucia-con-solarium-y-vistas-al-mar/",
+      "original_gallery_count": 12,
+      "result": "verified",
+      "new_count": 12
+    },
+    {
+      "id": "21215",
+      "title": "Elegante Piso Completamente Reformado con Ascensor en el Centro de Dénia",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/elegante-piso-completamente-reformado-con-ascensor-en-el-centro-de-denia/",
+      "original_gallery_count": 20,
+      "result": "verified",
+      "new_count": 20
+    },
+    {
+      "id": "21128",
+      "title": "Encantadora Villa Mediterránea con Apartamento Independiente a 900 Metros de la Playa en Els Poblets",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/encantadora-villa-mediterranea-con-apartamento-independiente-a-900-metros-de-la-playa-en-els-poblets/",
+      "original_gallery_count": 38,
+      "result": "verified",
+      "new_count": 38
+    },
+    {
+      "id": "20994",
+      "title": "Espectacular ático dúplex con terraza panorámica, garaje y vistas al mar en Jávea",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/espectacular-atico-duplex-con-terraza-panoramica-garaje-y-vistas-al-mar-en-javea/",
+      "original_gallery_count": 10,
+      "result": "verified",
+      "new_count": 10
+    },
+    {
+      "id": "21169",
+      "title": "Exclusiva Villa de Alta Gama en Monte Corona (Beniarbeig)",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/exclusiva-villa-de-alta-gama-en-monte-corona-beniarbeig/",
+      "original_gallery_count": 27,
+      "result": "verified",
+      "new_count": 27
+    },
+    {
+      "id": "21056",
+      "title": "Exclusiva Villa de Autor con 2 Unidades Independientes y Licencia Turística en Jávea",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/exclusiva-villa-de-autor-con-2-unidades-independientes-y-licencia-turistica-en-javea/",
+      "original_gallery_count": 29,
+      "result": "verified",
+      "new_count": 29
+    },
+    {
+      "id": "20876",
+      "title": "Exclusiva Villa Reformada con Vistas Panorámicas a la Montaña en La Vall de Gallinera",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/exclusiva-villa-reformada-con-vistas-panoramicas-a-la-montana-en-la-vall-de-gallinera/",
+      "original_gallery_count": 50,
+      "result": "verified",
+      "new_count": 50
+    },
+    {
+      "id": "20965",
+      "title": "Exclusivo Bajo con Terraza, Garaje y Zonas Resort en Oliva Nova",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/exclusivo-bajo-con-terraza-garaje-y-zonas-resort-en-oliva-nova/",
+      "original_gallery_count": 25,
+      "result": "verified",
+      "new_count": 25
+    },
+    {
+      "id": "21097",
+      "title": "Exclusivo Chalet Pareado de Diseño Mediterráneo-Nórdico en Pego",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/exclusivo-chalet-pareado-de-diseno-mediterraneo-nordico-en-pego/",
+      "original_gallery_count": 28,
+      "result": "verified",
+      "new_count": 28
+    },
+    {
+      "id": "21006",
+      "title": "Magnífico dúplex de diseño inverso con terraza, garaje y trastero en Pego",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/magnifico-duplex-de-diseno-inverso-con-terraza-garaje-y-trastero-en-pego/",
+      "original_gallery_count": 21,
+      "result": "verified",
+      "new_count": 21
+    },
+    {
+      "id": "21191",
+      "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
+      "original_status": "available",
+      "old_count": 13,
+      "source": "https://fyhom.es/property/parcela-rustica-de-mas-de-10-000-m%c2%b2-a-solo-15-minutos-del-mar-costa-blanca-2/",
+      "original_gallery_count": 4,
+      "result": "verified",
+      "new_count": 4
+    },
+    {
+      "id": "21185",
+      "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
+      "original_status": "available",
+      "old_count": 13,
+      "source": "https://fyhom.es/property/parcela-rustica-de-mas-de-10-000-m%c2%b2-a-solo-15-minutos-del-mar-costa-blanca/",
+      "original_gallery_count": 4,
+      "result": "verified",
+      "new_count": 4
+    },
+    {
+      "id": "21261",
+      "title": "Talasa Caelus II: viviendas de obra nueva en El Verger",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/talasa-caelus-ii-viviendas-de-obra-nueva-en-el-verger/",
+      "original_gallery_count": 11,
+      "result": "verified",
+      "new_count": 11
+    },
+    {
+      "id": "21264",
+      "title": "Talasa Terra: viviendas de obra nueva en El Verger",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/talasa-terra-viviendas-de-obra-nueva-en-el-verger/",
+      "original_gallery_count": 12,
+      "result": "verified",
+      "new_count": 12
+    },
+    {
+      "id": "21243",
+      "title": "Viviendas de obra nueva en El Verger: descubre Talasa Caelus",
+      "original_status": "available",
+      "old_count": 16,
+      "source": "https://fyhom.es/property/viviendas-de-obra-nueva-en-el-verger-descubre-talasa-caelus/",
+      "original_gallery_count": 11,
+      "result": "verified",
+      "new_count": 11
+    },
+    {
+      "id": "20861",
+      "title": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
+      "original_status": "sold",
+      "old_count": 16,
+      "source": "https://fyhom.es/en/property/espectacular-vivienda-de-116m%C2%B2-en-pego-con-acabados-de-lujo/",
+      "original_gallery_count": 12,
+      "result": "verified",
+      "new_count": 12
+    }
+  ]
+}
