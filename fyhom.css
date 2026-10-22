@@ -59,3 +59,6 @@ body[data-fy-accent="copper"] .eyebrow,body[data-fy-accent="copper"] .fy-step,bo
 body[data-hero-align="center"] [data-page="home"] .hero .wrap{text-align:center;margin-left:auto;margin-right:auto}
 body[data-hero-align="center"] [data-page="home"] .hero .wrap>p{margin-left:auto;margin-right:auto}
 [data-page="home"] .section[hidden]{display:none!important}
+
+/* Never allow an inquiry CTA for property listings marked sold. */
+#modal-inquiry[hidden]{display:none!important}
