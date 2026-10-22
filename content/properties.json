@@ -1115,7 +1115,9 @@
         "/images/properties/imported/21006/14.jpg",
         "/images/properties/imported/21006/15.jpg",
         "/images/properties/imported/21006/16.jpg"
-      ]
+      ],
+      "title_de": "Modernes Duplex mit Terrasse, Garage und Abstellräumen in Pego",
+      "description_de": "Dieses moderne Duplex in Pego verteilt sich auf zwei Ebenen, die jeweils direkt per Aufzug erreichbar sind. Die obere Etage dient als Wohnbereich mit großzügigem Wohn- und Esszimmer, separater Küche, Gäste-WC und privater Terrasse. Unten liegen drei Schlafzimmer und zwei Badezimmer, eines davon direkt am Hauptschlafzimmer. Zur Wohnung gehören außerdem ein eigener Garagenstellplatz sowie Abstellflächen innerhalb und außerhalb der Wohnung. Durch die getrennten Wohn- und Schlafbereiche bietet das Objekt eine funktionale Aufteilung und viel Privatsphäre."
     },
     {
       "id": "21191",
@@ -1144,7 +1146,9 @@
         "/images/properties/imported/21191/12.jpg",
         "/images/properties/imported/21191/13.jpg"
       ],
-      "plot_area": 10000
+      "plot_area": 10000,
+      "title_de": "Rustikales Grundstück mit mehr als 10.000 m² bei Alcalalí",
+      "description_de": "Großzügiges rustikales Grundstück mit mehr als 10.000 m² in einer ruhigen Naturlandschaft der Costa Blanca, nahe Alcalalí. Die Lage bietet Privatsphäre, freie Ausblicke und viel Platz für individuelle Vorhaben. Laut ursprünglicher Objektbeschreibung befindet sich die Mittelmeerküste etwa 15 Fahrminuten entfernt. Eine mögliche Bebauung oder anderweitige Nutzung ist ausdrücklich von der geltenden Grundstücksklassifikation, den örtlichen Vorschriften und behördlichen Genehmigungen abhängig. Interessenten sollten diese Punkte vor dem Kauf fachlich prüfen lassen."
     },
     {
       "id": "21185",
@@ -1173,7 +1177,9 @@
         "/images/properties/imported/21185/12.jpg",
         "/images/properties/imported/21185/13.jpg"
       ],
-      "plot_area": 10000
+      "plot_area": 10000,
+      "title_de": "Rustikales Grundstück mit mehr als 10.000 m² an der Costa Blanca",
+      "description_de": "Weitläufiges rustikales Grundstück mit mehr als 10.000 m² in einer naturnahen, ruhigen Umgebung der Costa Blanca. Das Angebot richtet sich an Interessenten, die Wert auf Privatsphäre und viel Platz legen. Die Beschreibung nennt eine Entfernung zur Mittelmeerküste von ungefähr 15 Fahrminuten. Bitte beachten: Die Möglichkeiten zur Bebauung oder sonstigen Nutzung hängen von der konkreten Einstufung des Grundstücks, den geltenden Bebauungsvorschriften und erforderlichen behördlichen Genehmigungen ab."
     },
     {
       "id": "21261",
@@ -1205,7 +1211,9 @@
         "/images/properties/imported/21261/15.jpg",
         "/images/properties/imported/21261/16.jpg"
       ],
-      "new_build": true
+      "new_build": true,
+      "title_de": "Talasa Caelus II – Neubauwohnungen und Reihenhäuser in El Verger",
+      "description_de": "Das Wohnprojekt Talasa Caelus II in El Verger umfasst moderne Neubauwohnungen und Reihenhäuser mit unterschiedlichen Größen und Außenbereichen. Geplant sind Apartments mit einem bis drei Schlafzimmern sowie Reihenhäuser mit Garten und zusätzlichen Außenflächen. Balkone und Terrassen erweitern den Wohnraum. Zur Ausstattung werden unter anderem eine Klimatisierung über Luftkanäle, Warmwasserbereitung durch Aerothermie, Photovoltaik für den gemeinschaftlichen Eigenverbrauch, wärmegedämmte Fenster und vorbereitete Lademöglichkeiten für Elektroautos genannt. Angaben zur konkreten Wohneinheit und Verfügbarkeit sind individuell zu prüfen."
     },
     {
       "id": "21264",
@@ -1237,7 +1245,9 @@
         "/images/properties/imported/21264/15.jpg",
         "/images/properties/imported/21264/16.jpg"
       ],
-      "new_build": true
+      "new_build": true,
+      "title_de": "Talasa Terra – moderne Neubauwohnungen und Reihenhäuser in El Verger",
+      "description_de": "Talasa Terra ist ein Neubauprojekt in El Verger mit Apartments und Reihenhäusern in verschiedenen Aufteilungen. Das Angebot umfasst Wohnungen mit zwei oder drei Schlafzimmern und Reihenhäuser mit entsprechenden Grundrissen. Je nach Einheit sind Terrasse, Privatgarten oder Solarium vorgesehen. Zum Konzept gehören Gemeinschaftsflächen, Gartenbereiche, ein Pool und Fahrradstellplätze. Bewohner sollen Zugang zum strandnahen Freizeitbereich Puerto de Talasa erhalten. Die Wohnungen sind laut Beschreibung mit zeitgemäßer Klimatisierung, Aerothermie und weiteren Maßnahmen zur Energieeffizienz geplant."
     },
     {
       "id": "21243",
@@ -1269,7 +1279,9 @@
         "/images/properties/imported/21243/15.jpg",
         "/images/properties/imported/21243/16.jpg"
       ],
-      "new_build": true
+      "new_build": true,
+      "title_de": "Talasa Caelus – Neubauprojekt mit Gemeinschaftspool in El Verger",
+      "description_de": "Das Wohnprojekt Talasa Caelus in El Verger verbindet moderne Architektur mit unterschiedlich geschnittenen Neubauwohnungen und Außenflächen. Zum Angebot gehören Gartenbereiche, ein Gemeinschaftspool, ein Gesellschaftsraum sowie Freizeit- und Fahrradabstellflächen. Bewohner des Talasa Village haben laut Beschreibung Zugang zum Puerto de Talasa an der Playa de la Almadrava in Dénia, mit Pool, Duschen und weiteren Einrichtungen. Die Bauweise soll auf Komfort, Isolierung und Energieeffizienz ausgelegt sein. Konkrete Grundrisse und Verfügbarkeit sind je Wohneinheit zu klären."
     }
   ]
 }
