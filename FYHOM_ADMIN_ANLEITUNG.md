@@ -23,7 +23,8 @@ Unter **Immobilien → Immobilienübersicht** können Angebote verändert werden
 - **Website-Texte**: Seitentexte, Titelbilder, vorbereitete Farbvarianten und Sichtbarkeit einzelner Abschnitte bearbeiten.
 - **Teammitglieder**: Name, Foto, Sichtbarkeit, Berufsbezeichnung und Biografie in **DE, ES, EN, FR, NL, RU** bearbeiten.
 - **Zusätzliche Leistungen & Ideen**: weitere Servicekarten anlegen, bearbeiten oder verstecken.
-- Immobilienbeschreibungen lassen sich in den sechs Sprachen einzeln bearbeiten; automatisch importierte Beschreibungen wurden nicht pauschal in alle Sprachen übersetzt.
+- **Stand 22.10.2026: Alle 40 veröffentlichten Immobilien besitzen eigenständige Titel und Beschreibungen in DE, ES, EN, FR, NL und RU.** Die Texte in EN/FR/NL/RU sind redaktionell verdichtete fremdsprachige Beschreibungen auf Basis der bisherigen Objektdaten; sie müssen bei Änderungen des Objekts ebenfalls aktualisiert werden. Projektnamen (z. B. Blue Gardens Jávea) bleiben als Eigennamen erhalten.
+- **Neue Immobilien:** Im Admin für jeden der sechs Sprachcodes sowohl `title_...` als auch `description_...` ausfüllen, bevor der Status `available` oder `sold` gewählt wird. Die automatische Übersetzung später ergänzter Angebote ist noch nicht eingerichtet. Fehlende Felder erzeugen auf der Website einen sprachlich passenden Hinweis statt fälschlich deutschen oder spanischen Text anzuzeigen.
 - Änderungen an Seitenstruktur und freiem Layout erfordern weiterhin Codebearbeitung.
 
 ## Rechtstexte selbst bearbeiten
