@@ -20,7 +20,7 @@
       "id": "20032",
       "title": "Blaue Gärten Javea",
       "city": "Javea",
-      "type": "house",
+      "type": "apartment",
       "price": 359000,
       "beds": 3,
       "baths": 2,
@@ -45,7 +45,8 @@
         "/images/properties/imported/20032/16.jpg",
         "/images/properties/imported/20032/01.jpg"
       ],
-      "description_de": "Im Herzen der Costa Blanca erhebt sich Blue Gardens Jávea als eine Oase der Ruhe zwischen zwei Naturjuwelen: Das Mittelmeer und der majestätische Montgó, unbestreitbares Symbol des Ortes. Von den Terrassen aus genießt man spektakuläre Ausblicke auf die Umgebung: Im Osten das Blau des Meeres und die Brise, die von den Buchten Jáveas herüberweht. Im Westen die Silhouette des Montgó, die die Sonnenuntergänge mit einer beeindruckenden Schönheit umrahmt. Diese einzigartige Lage ermöglicht es, sowohl die Entspannung an der Küste als auch den Kontakt zur Natur zu genießen, mit zahlreichen Wanderwege, Aussichtspunkte und Grünflächen nur wenige Minuten von der Wohnanlage entfernt\n\nBlue Gardens Jávea ist viel mehr als nur ein Immobilienprojekt. Es ist ein Lifestyle-Statement, konzipiert für diejenigen, die Komfort mit Liebe zum Detail. Geschlossene Wohnanlage mit 3 Blöcken Erdgeschosse, mittlere Etagen und Maisonette-Penthouses Integration in die Umgebung, natürliches Licht und große Terrassen Hochwertige Oberflächen und zeitlose Ästhetik Entworfen für stilvolles Wohnen in einer ruhigen und exklusiven Umgebung, nur wenige Minuten vom Strand und der Innenstadt entfernt"
+      "description_de": "Im Herzen der Costa Blanca erhebt sich Blue Gardens Jávea als eine Oase der Ruhe zwischen zwei Naturjuwelen: Das Mittelmeer und der majestätische Montgó, unbestreitbares Symbol des Ortes. Von den Terrassen aus genießt man spektakuläre Ausblicke auf die Umgebung: Im Osten das Blau des Meeres und die Brise, die von den Buchten Jáveas herüberweht. Im Westen die Silhouette des Montgó, die die Sonnenuntergänge mit einer beeindruckenden Schönheit umrahmt. Diese einzigartige Lage ermöglicht es, sowohl die Entspannung an der Küste als auch den Kontakt zur Natur zu genießen, mit zahlreichen Wanderwege, Aussichtspunkte und Grünflächen nur wenige Minuten von der Wohnanlage entfernt\n\nBlue Gardens Jávea ist viel mehr als nur ein Immobilienprojekt. Es ist ein Lifestyle-Statement, konzipiert für diejenigen, die Komfort mit Liebe zum Detail. Geschlossene Wohnanlage mit 3 Blöcken Erdgeschosse, mittlere Etagen und Maisonette-Penthouses Integration in die Umgebung, natürliches Licht und große Terrassen Hochwertige Oberflächen und zeitlose Ästhetik Entworfen für stilvolles Wohnen in einer ruhigen und exklusiven Umgebung, nur wenige Minuten vom Strand und der Innenstadt entfernt",
+      "new_build": true
     },
     {
       "id": "19955",
@@ -144,7 +145,7 @@
       "id": "19845",
       "title": "Javea Centro – Av. del Rei Juan Carlos I",
       "city": "Javea",
-      "type": "house",
+      "type": "apartment",
       "price": 360000,
       "beds": 5,
       "baths": 2,
@@ -174,8 +175,8 @@
     {
       "id": "19839",
       "title": "Ladenlokal zu verkaufen in Rap-Straße 5",
-      "city": "Costa Blanca Norte",
-      "type": "house",
+      "city": "Dénia",
+      "type": "retail",
       "price": 390000,
       "beds": 0,
       "baths": 0,
@@ -205,8 +206,8 @@
     {
       "id": "20086",
       "title": "Orangengärten",
-      "city": "Costa Blanca Norte",
-      "type": "house",
+      "city": "Sagra",
+      "type": "townhouse",
       "price": 225000,
       "beds": 3,
       "baths": 2,
@@ -231,13 +232,14 @@
         "/images/properties/imported/20086/16.jpg",
         "/images/properties/imported/20086/01.jpg"
       ],
-      "description_de": "Die Anlage befindet sich ganz in der Nähe des Stadtzentrums von Sagra, einer ruhigen Ortschaft an der Costa Blanca, im Norden der Provinz Alicante. In einer völlig flachen, grünen Gegend, ohne Bebauung, zwischen Orangenplantagen und nur wenige Gehminuten vom Dorf entfernt. Das Land, das den Komplex umgibt, ist als rustikal eingestuft, daher ist nicht geplant, dass gebaut wird. Nur 12 km entfernt liegt Denia, ein Touristenzentrum der Costa Blanca, mit mehreren Kilometern Sandstränden und unzähligen Geschäfte, Läden, Restaurants und alle Arten von Dienstleistungen. Nur 8 km entfernt liegt Ondara, wo man Zugang zur Autobahn A-7 mit direkter Anbindung an Valencia und Alicante sowie deren jeweiligen Flughäfen. In Ondara, nur 10 Autominuten entfernt, befindet sich das größte Einkaufszentrum der Gegend"
+      "description_de": "Die Anlage befindet sich ganz in der Nähe des Stadtzentrums von Sagra, einer ruhigen Ortschaft an der Costa Blanca, im Norden der Provinz Alicante. In einer völlig flachen, grünen Gegend, ohne Bebauung, zwischen Orangenplantagen und nur wenige Gehminuten vom Dorf entfernt. Das Land, das den Komplex umgibt, ist als rustikal eingestuft, daher ist nicht geplant, dass gebaut wird. Nur 12 km entfernt liegt Denia, ein Touristenzentrum der Costa Blanca, mit mehreren Kilometern Sandstränden und unzähligen Geschäfte, Läden, Restaurants und alle Arten von Dienstleistungen. Nur 8 km entfernt liegt Ondara, wo man Zugang zur Autobahn A-7 mit direkter Anbindung an Valencia und Alicante sowie deren jeweiligen Flughäfen. In Ondara, nur 10 Autominuten entfernt, befindet sich das größte Einkaufszentrum der Gegend",
+      "new_build": true
     },
     {
       "id": "20018",
       "title": "Wohnung zum Verkauf in Denia, Marina Real III",
       "city": "Denia",
-      "type": "house",
+      "type": "apartment",
       "price": 365000,
       "beds": 2,
       "baths": 2,
@@ -262,12 +264,13 @@
         "/images/properties/imported/20018/16.jpg",
         "/images/properties/imported/20018/01.jpg"
       ],
-      "description_de": "Erleben Sie Komfort und Eleganz in dieser Neubauwohnung, gelegen in einer der exklusivsten und vielversprechendsten Gegenden von Dénia.\n\nNur 200 m vom Yachtclub und 600 m vom Strand entfernt, befindet sich die Wohnung im zweiten Stock und ist nach Süden ausgerichtet. Sie verfügt über 2 Schlafzimmer, 2 komplette Bäder und eine offene Küche, die mit dem Wohn-Esszimmer verbunden ist. Von dort gelangt man direkt auf einen privaten Balkon mit freiem Blick auf die Pools und den Gemeinschaftsgarten. Ebenso gehören ein Garagenplatz und ein Abstellraum dazu.\n\nResidencial Marina Real III bietet erstklassige Einrichtungen:\n\n- Zwei Pools umgeben von Grünflächen - Voll ausgestattetes Fitnessstudio - Gesellschaftsclub - Gepflegte und sichere Gemeinschaftsbereiche\n\nIn einer Umgebung mit hochwertigen Restaurants, Unterhaltungsmöglichkeiten und allen Dienstleistungen nur wenige Schritte entfernt. Nur 500 m vom Bus- und Straßenbahnhof, 800 m vom Balearia Fährterminal entfernt, gegenüber einem Supermarkt und mit der Natur ganz in der Nähe. Ein idealer Ort für diejenigen, die ein Gleichgewicht zwischen Ruhe und exzellenter Lage suchen. Zögern Sie nicht, kontaktieren Sie uns für einen Besichtigungstermin!"
+      "description_de": "Erleben Sie Komfort und Eleganz in dieser Neubauwohnung, gelegen in einer der exklusivsten und vielversprechendsten Gegenden von Dénia.\n\nNur 200 m vom Yachtclub und 600 m vom Strand entfernt, befindet sich die Wohnung im zweiten Stock und ist nach Süden ausgerichtet. Sie verfügt über 2 Schlafzimmer, 2 komplette Bäder und eine offene Küche, die mit dem Wohn-Esszimmer verbunden ist. Von dort gelangt man direkt auf einen privaten Balkon mit freiem Blick auf die Pools und den Gemeinschaftsgarten. Ebenso gehören ein Garagenplatz und ein Abstellraum dazu.\n\nResidencial Marina Real III bietet erstklassige Einrichtungen:\n\n- Zwei Pools umgeben von Grünflächen - Voll ausgestattetes Fitnessstudio - Gesellschaftsclub - Gepflegte und sichere Gemeinschaftsbereiche\n\nIn einer Umgebung mit hochwertigen Restaurants, Unterhaltungsmöglichkeiten und allen Dienstleistungen nur wenige Schritte entfernt. Nur 500 m vom Bus- und Straßenbahnhof, 800 m vom Balearia Fährterminal entfernt, gegenüber einem Supermarkt und mit der Natur ganz in der Nähe. Ein idealer Ort für diejenigen, die ein Gleichgewicht zwischen Ruhe und exzellenter Lage suchen. Zögern Sie nicht, kontaktieren Sie uns für einen Besichtigungstermin!",
+      "new_build": true
     },
     {
       "id": "20092",
       "title": "Zen Castellet von Murla",
-      "city": "Costa Blanca Norte",
+      "city": "Murla",
       "type": "house",
       "price": 169000,
       "beds": 2,
@@ -387,7 +390,7 @@
       "id": "20593",
       "title": "Chalet independiente de obra nueva con piscina privada en Els poblets",
       "city": "Els Poblets",
-      "type": "newbuild",
+      "type": "villa",
       "price": 475000,
       "beds": 3,
       "baths": 2,
@@ -412,7 +415,8 @@
         "/images/properties/imported/20593/16.jpg",
         "/images/properties/imported/20593/01.jpg",
         "/images/properties/imported/20593/02.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "20597",
@@ -443,7 +447,8 @@
         "/images/properties/imported/20597/16.jpg",
         "/images/properties/imported/20597/01.jpg",
         "/images/properties/imported/20597/02.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "20276",
@@ -511,7 +516,7 @@
       "id": "20678",
       "title": "Terreno urbano en la Marina Alta con vistas despejadas",
       "city": "Costa Blanca Norte",
-      "type": "house",
+      "type": "land",
       "price": 80000,
       "beds": 0,
       "baths": 0,
@@ -537,7 +542,7 @@
     {
       "id": "20736",
       "title": "Adosado de lujo en La Nucía con gran parcela, piscina y terrazas privadas",
-      "city": "Costa Blanca Norte",
+      "city": "La Nucía",
       "type": "townhouse",
       "price": 650000,
       "beds": 3,
@@ -569,7 +574,7 @@
       "id": "20697",
       "title": "Adosado de obra nueva en El Verger con gran solárium y parcela privada",
       "city": "El Verger",
-      "type": "newbuild",
+      "type": "townhouse",
       "price": 259000,
       "beds": 2,
       "baths": 2,
@@ -591,7 +596,8 @@
         "/images/properties/imported/20697/01.jpg",
         "/images/properties/imported/20697/02.jpg",
         "/images/properties/imported/20697/13.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "21029",
@@ -628,7 +634,7 @@
       "id": "20831",
       "title": "Apartamento de obra nueva en Pego con terraza soleada y piscina",
       "city": "Pego",
-      "type": "newbuild",
+      "type": "apartment",
       "price": 214680,
       "beds": 2,
       "baths": 0,
@@ -653,13 +659,14 @@
         "/images/properties/imported/20831/16.jpg",
         "/images/properties/imported/20831/01.jpg",
         "/images/properties/imported/20831/02.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "20835",
       "title": "Ático de obra nueva en Pego con terraza privada y espacio ampliable",
       "city": "Pego",
-      "type": "newbuild",
+      "type": "apartment",
       "price": 275300,
       "beds": 0,
       "baths": 0,
@@ -684,7 +691,8 @@
         "/images/properties/imported/20835/15.jpg",
         "/images/properties/imported/20835/16.jpg",
         "/images/properties/imported/20835/01.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "20949",
@@ -720,8 +728,8 @@
     {
       "id": "20758",
       "title": "Chalet adosado de obra nueva en La Nucía con gran espacio extra y piscina privada",
-      "city": "Costa Blanca Norte",
-      "type": "newbuild",
+      "city": "La Nucía",
+      "type": "townhouse",
       "price": 585000,
       "beds": 3,
       "baths": 3,
@@ -746,13 +754,14 @@
         "/images/properties/imported/20758/01.jpg",
         "/images/properties/imported/20758/02.jpg",
         "/images/properties/imported/20758/03.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "20756",
       "title": "Chalet adosado de obra nueva en La Nucía con solárium y vistas al mar",
-      "city": "Costa Blanca Norte",
-      "type": "newbuild",
+      "city": "La Nucía",
+      "type": "townhouse",
       "price": 660000,
       "beds": 3,
       "baths": 3,
@@ -777,7 +786,8 @@
         "/images/properties/imported/20756/15.jpg",
         "/images/properties/imported/20756/16.jpg",
         "/images/properties/imported/20756/11.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "21215",
@@ -814,7 +824,7 @@
       "id": "21128",
       "title": "Encantadora Villa Mediterránea con Apartamento Independiente a 900 Metros de la Playa en Els Poblets",
       "city": "Els Poblets",
-      "type": "apartment",
+      "type": "villa",
       "price": 495000,
       "beds": 3,
       "baths": 2,
@@ -969,7 +979,7 @@
       "id": "20965",
       "title": "Exclusivo Bajo con Terraza, Garaje y Zonas Resort en Oliva Nova",
       "city": "Oliva",
-      "type": "house",
+      "type": "apartment",
       "price": 360000,
       "beds": 2,
       "baths": 2,
@@ -1061,8 +1071,8 @@
     {
       "id": "21191",
       "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
-      "city": "Costa Blanca Norte",
-      "type": "house",
+      "city": "Alcalalí",
+      "type": "land",
       "price": 80000,
       "beds": 0,
       "baths": 0,
@@ -1084,13 +1094,14 @@
         "/images/properties/imported/21191/11.jpg",
         "/images/properties/imported/21191/12.jpg",
         "/images/properties/imported/21191/13.jpg"
-      ]
+      ],
+      "plot_area": 10000
     },
     {
       "id": "21185",
       "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
       "city": "Costa Blanca Norte",
-      "type": "house",
+      "type": "land",
       "price": 70000,
       "beds": 0,
       "baths": 0,
@@ -1112,7 +1123,8 @@
         "/images/properties/imported/21185/11.jpg",
         "/images/properties/imported/21185/12.jpg",
         "/images/properties/imported/21185/13.jpg"
-      ]
+      ],
+      "plot_area": 10000
     },
     {
       "id": "21261",
@@ -1143,7 +1155,8 @@
         "/images/properties/imported/21261/14.jpg",
         "/images/properties/imported/21261/15.jpg",
         "/images/properties/imported/21261/16.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "21264",
@@ -1174,7 +1187,8 @@
         "/images/properties/imported/21264/14.jpg",
         "/images/properties/imported/21264/15.jpg",
         "/images/properties/imported/21264/16.jpg"
-      ]
+      ],
+      "new_build": true
     },
     {
       "id": "21243",
@@ -1205,7 +1219,8 @@
         "/images/properties/imported/21243/14.jpg",
         "/images/properties/imported/21243/15.jpg",
         "/images/properties/imported/21243/16.jpg"
-      ]
+      ],
+      "new_build": true
     }
   ]
 }
