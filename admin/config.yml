@@ -12,6 +12,177 @@ media_folder: "images/properties"
 public_folder: "/images/properties"
 publish: true
 collections:
+  - name: "rechtstexte"
+    label: "Rechtstexte · Impressum / AGB / Datenschutz / Cookies"
+    files:
+      - label: "Deutsch – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_de"
+        file: "content/legal/de.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "de"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+      - label: "Español – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_es"
+        file: "content/legal/es.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "es"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+      - label: "English – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_en"
+        file: "content/legal/en.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "en"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+      - label: "Français – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_fr"
+        file: "content/legal/fr.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "fr"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+      - label: "Nederlands – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_nl"
+        file: "content/legal/nl.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "nl"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+      - label: "Русский – Impressum, AGB, Datenschutz & Cookies"
+        name: "legal_ru"
+        file: "content/legal/ru.json"
+        format: "json"
+        fields:
+          - {label: "Sprache (nicht ändern)", name: "lang", widget: "hidden", default: "ru"}
+          - {label: "Letzter Stand", name: "updated", widget: "string"}
+          - label: "Impressum und Allgemeine Nutzungsbedingungen"
+            name: "legal"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Datenschutzerklärung"
+            name: "privacy"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
+          - label: "Cookie-Richtlinie"
+            name: "cookies"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Überschrift", name: "title", widget: "string"}
+              - {label: "Absatztext", name: "body", widget: "text"}
   - name: "immobilien"
     label: "Immobilien"
     files:
