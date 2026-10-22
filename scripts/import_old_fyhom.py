@@ -60,14 +60,18 @@ def area(t):
     if not m:m=re.search(r"(\d{2,5})\s*m\s*[²2]",t,re.I)
     return int(m.group(1)) if m else 0
 def photos(soup):
+    """Images from the current property's official lightbox, never related listings."""
     out=[]
-    def add(v):
-        if not v:return
-        u=clean(str(v).split()[0])
-        if u and MEDIA.search(u) and "/wp-content/uploads/" in u and not SKIP.search(u) and u not in out:out.append(u)
-    for a in soup.select('a[href*="/wp-content/uploads/"]'):add(a.get("href"))
-    for img in soup.select("img"):add(img.get("data-src") or img.get("data-lazy-src") or img.get("src"))
-    for meta in soup.select('meta[property="og:image"]'):add(meta.get("content"))
+    els=soup.select(".lightbox-gallery #lightbox-slider-js img")
+    if not els:els=soup.select(".lightbox-gallery img")
+    if not els:els=soup.select(".property-banner .hs-gallery-v5-grid img")
+    for img in els:
+        for raw in (img.get("data-src"),img.get("data-lazy-src"),img.get("src")):
+            if not raw:continue
+            u=clean(str(raw).split()[0])
+            if u and MEDIA.search(u) and "/wp-content/uploads/" in u and not SKIP.search(u):
+                if u not in out:out.append(u)
+                break
     return out
 def description(soup):
     for selector in ("#property-description .block-content-wrap","#property-description",".property-description-wrap .block-content-wrap",".property-description-wrap",".property-description"):
