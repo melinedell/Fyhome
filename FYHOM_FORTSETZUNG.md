@@ -10,7 +10,7 @@ Die Benutzerin kann sagen: **„Wir machen mit der FYHOM-Website aus GitHub meli
 - E-Mail-Formularfunktion `functions/api/contact.js` benötigt noch Resend-Einrichtung (eigene Mail-Domain, Secret, Testversand). Bis dahin nur explizit manuelles Mailto als Fallback, keine Erfolgsmeldung ohne Zustellung.
 
 ## Immobilien
-- `content/properties.json` enthält nach dem erfolgreichen Fotoabgleich **40 importierte echte Objekte (36 available, 4 sold)**. In der letzten Datenprüfung war kein versteckter Testeintrag mehr vorhanden. Änderungen im Admin können diesen Status später verändern.
+- `content/properties.json` enthält nach dem erfolgreichen Fotoabgleich **40 importierte echte Objekte (35 available, 5 sold)**. In der letzten Datenprüfung war kein versteckter Testeintrag mehr vorhanden. Änderungen im Admin können diesen Status später verändern.
 - Die Startseite zeigt nur verfügbare Angebote. In `#properties` erscheinen die verkauften am Ende, mit einem dunklen champagnerfarbenen „Verkauft“-Schild und ohne Kaufanfrage.
 - Immobilienart, Ort, Preise und Fläche müssen bei einzelnen importierten Angeboten noch kontrolliert werden. Bei fehlendem Preis wird „Preis auf Anfrage“ angezeigt.
 - Jede Immobilie verfügt über individuelle Titel und Beschreibungstexte in **DE/ES/EN/FR/NL/RU**. Alle sechs Sprachfelder wurden auf Vollständigkeit geprüft. Keine automatische Wort-für-Wort-Ersetzung verwenden: `solárium` meint im Immobilienkontext oft eine **Sonnen-/Dachterrasse**, niemals ein deutsches Sonnenstudio. Für die Doppelhaushälfte `20597` wurde `title_de` bereits auf „Moderne Doppelhaushälfte mit privatem Pool und Sonnenterrasse in Els Poblets“ korrigiert, und entsprechend in den übrigen Sprachen.
@@ -36,3 +36,11 @@ Die Benutzerin kann sagen: **„Wir machen mit der FYHOM-Website aus GitHub meli
 4. Fehlende Grundstücks-/Flächen-/Preisangaben auf Grundlage bestätigter Objektinformationen ergänzen; keine Fantasiewerte.
 
 Dieser Status ist eine Dokumentation, kein automatischer Beleg über eine abgeschlossene Galerie-Action. Datum und neue Änderungen bitte gegen GitHub prüfen.
+
+## Sprachprüfung und Startseiten-Auswahl – 22. Oktober 2026
+- Startseite: höchstens drei verfügbare Angebote mit `featured: true`; aktuell 20593, 21169 und 21056. Verkaufte Objekte bleiben am Ende der Angebotsübersicht.
+- 19955 (Stadthaus Pego, 115.000 €) auf ausdrücklichen Wunsch der Benutzerin als `sold` geführt, obwohl sie die Quelle als reserviert beschreibt. Aktueller Datenstand: 35 verfügbar, 5 verkauft. Das rote VENDIDA-Band ist bei einigen Fotos fest im Bild enthalten; Änderungen am CSS entfernen es nicht. Keine Bilder künstlich bereinigt.
+- Sprachprüfung: alle 40 Angebote mit Titel und Beschreibung in DE/ES/EN/FR/NL/RU auf Vollständigkeit geprüft. 78 Sprachfelder bei 36 Objekten redaktionell bearbeitet, einschließlich typografischer Korrekturen im Spanischen. Korrigiert: abgebrochene deutsche Sätze, spanisches chalet als freistehendes Haus statt Chalet, Restaurantwohnung mit zwei Schlafzimmern, Flächenbegriffe bei 20593/20994/21097, unbestätigter Privatgarten im Titel von 20965 sowie Kaufaufforderungen bei verkauften Angeboten.
+- Formulare für Verkauf/Bewertung: Immobilientyp und Zustand jetzt in allen sechs Sprachen; stabile Optionswerte bleiben beim Sprachwechsel erhalten. Kontaktformular hat eigenen Nachricht-senden-Text. Galerie-/Menübeschriftungen und Abschnittsüberschriften sind lokalisiert; Browser-Seitentitel wird beim Sprachwechsel aktualisiert.
+- Technisch geprüft: JS-Syntax; 480 nichtleere Titel-/Beschreibungsfelder; identische Wörterbuchschlüssel; keine Änderung an Objekt-IDs, Bildern, Galerien, Preisen, Flächenfeldern, Ausstattung, Status oder Featured-Auswahl durch die Sprachprüfung. Formular-Sprachwechsel in allen sechs Sprachen auf der veröffentlichten Seite geprüft.
+- Dies ist eine redaktionelle und technische Prüfung, keine muttersprachliche Zertifizierung und keine neue Bestätigung der ursprünglichen Objektangaben oder juristische Freigabe.
