@@ -1,0 +1,788 @@
+{
+  "20678": {
+    "url": "https://fyhom.es/property/terreno-urbano-en-la-marina-alta-con-vistas-despejadas/",
+    "photos": [
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-f405058 elementor-widget__width-auto",
+          "div#.elementor-element elementor-element-8c26b5f e-con-full"
+        ]
+      },
+      {
+        "url": "foto-1-780x700.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "foto-2-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-2 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "foto-3-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-3 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "ChatGPT-Image-22-jun-2026-13_08_14.png",
+        "ancestor": [
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-1.tab-pane fade active",
+          "div#property-tab-content.tab-content horizontal-tab-content"
+        ]
+      },
+      {
+        "url": "ChatGPT-Image-22-jun-2026-13_08_14.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-1.tab-pane fade active"
+        ]
+      },
+      {
+        "url": "Talasa-Terra_Piscina-Diurna-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Salon-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Piscina_2-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "balcon-584x438.jpeg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.lightbox-logo",
+          "div#.d-flex align-items-center justify-content-between",
+          "div#.modal-header",
+          "div#.modal-content",
+          "div#.modal-dialog"
+        ]
+      },
+      {
+        "url": "foto-1.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "foto-2.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "foto-3.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "FYH_blanco_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-073240c elementor-widget",
+          "div#.elementor-element elementor-element-b37cf21 e-con-full"
+        ]
+      }
+    ],
+    "containerCounts": {
+      "a#.": 3,
+      "div#.favethemes-site-logo": 2,
+      "div#.elementor-widget-container": 2,
+      "a#.img-wrap-1 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01": 1,
+      "div#.hs-gallery-v5-grid": 3,
+      "a#.img-wrap-2 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02": 2,
+      "a#.img-wrap-3 houzez-trigger-popup-slider-js": 1,
+      "div#.col-lg-4": 2,
+      "div#.row g-4 align-items-center": 2,
+      "div#.floor-plan-wrap py-4": 1,
+      "a#.listing-featured-thumb hover-effect image-wrap": 4,
+      "div#.listing-thumb": 4,
+      "div#.listing-image-wrap": 4,
+      "div#.lightbox-logo": 1,
+      "div#.d-flex align-items-center justify-content-between": 1,
+      "div#.modal-header": 1,
+      "div#.": 3,
+      "div#lightbox-slider-js.lightbox-slider": 3,
+      "div#.lightbox-gallery": 3
+    },
+    "galleryContainers": {
+      ".lightbox-gallery": [
+        {
+          "tag": "div",
+          "images": 3,
+          "anchors": 0
+        }
+      ],
+      ".property-banner": [
+        {
+          "tag": "div",
+          "images": 3,
+          "anchors": 3
+        }
+      ]
+    },
+    "title": "Terreno urbano en la Marina Alta con vistas despejadas | FYHOM"
+  },
+  "20597": {
+    "url": "https://fyhom.es/property/chalet-pareado-diseno-moderno-els-poblets/",
+    "photos": [
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-f405058 elementor-widget__width-auto",
+          "div#.elementor-element elementor-element-8c26b5f e-con-full"
+        ]
+      },
+      {
+        "url": "exterior-chalet-pareado-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "habitacion-2-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-2 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "habitacion-3-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-3 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "habitacion-1-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-4 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "bano-foto-1-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-5 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "bano-foto-2-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 gallery-hidden",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner",
+          "div#.hs-gallery-v5-top-wrap property-top-wrap"
+        ]
+      },
+      {
+        "url": "cocina-salon--780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 gallery-hidden",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner",
+          "div#.hs-gallery-v5-top-wrap property-top-wrap"
+        ]
+      },
+      {
+        "url": "salon-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 gallery-hidden",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner",
+          "div#.hs-gallery-v5-top-wrap property-top-wrap"
+        ]
+      },
+      {
+        "url": "salon-foto-2-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 gallery-hidden",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner",
+          "div#.hs-gallery-v5-top-wrap property-top-wrap"
+        ]
+      },
+      {
+        "url": "Captura-de-pantalla-2026-06-12-120146.png",
+        "ancestor": [
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-1.tab-pane fade active",
+          "div#property-tab-content.tab-content horizontal-tab-content"
+        ]
+      },
+      {
+        "url": "Captura-de-pantalla-2026-06-12-120146.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-1.tab-pane fade active"
+        ]
+      },
+      {
+        "url": "Captura-de-pantalla-2026-06-12-120346.png",
+        "ancestor": [
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-2.tab-pane fade",
+          "div#property-tab-content.tab-content horizontal-tab-content"
+        ]
+      },
+      {
+        "url": "Captura-de-pantalla-2026-06-12-120346.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.",
+          "div#.col-lg-4",
+          "div#.row g-4 align-items-center",
+          "div#.floor-plan-wrap py-4",
+          "div#floor-luxury-2.tab-pane fade"
+        ]
+      },
+      {
+        "url": "Talasa-Terra_Piscina-Diurna-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Salon-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Piscina_2-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "balcon-584x438.jpeg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.lightbox-logo",
+          "div#.d-flex align-items-center justify-content-between",
+          "div#.modal-header",
+          "div#.modal-content",
+          "div#.modal-dialog"
+        ]
+      },
+      {
+        "url": "exterior-chalet-pareado.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "habitacion-2.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "habitacion-3.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "habitacion-1.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "bano-foto-1.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "bano-foto-2.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "cocina-salon-.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "salon.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "salon-foto-2.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "FYH_blanco_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-073240c elementor-widget",
+          "div#.elementor-element elementor-element-b37cf21 e-con-full"
+        ]
+      }
+    ],
+    "containerCounts": {
+      "a#.": 4,
+      "div#.favethemes-site-logo": 2,
+      "div#.elementor-widget-container": 2,
+      "a#.img-wrap-1 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01": 1,
+      "div#.hs-gallery-v5-grid": 9,
+      "a#.img-wrap-2 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02": 4,
+      "a#.img-wrap-3 houzez-trigger-popup-slider-js": 1,
+      "a#.img-wrap-4 houzez-trigger-popup-slider-js": 1,
+      "a#.img-wrap-5 houzez-trigger-popup-slider-js": 1,
+      "a#.img-wrap-1 gallery-hidden": 4,
+      "div#.hs-gallery-v5-grid-wrap": 4,
+      "div#.col-lg-4": 4,
+      "div#.row g-4 align-items-center": 4,
+      "div#.floor-plan-wrap py-4": 2,
+      "a#.listing-featured-thumb hover-effect image-wrap": 4,
+      "div#.listing-thumb": 4,
+      "div#.listing-image-wrap": 4,
+      "div#.lightbox-logo": 1,
+      "div#.d-flex align-items-center justify-content-between": 1,
+      "div#.modal-header": 1,
+      "div#.": 9,
+      "div#lightbox-slider-js.lightbox-slider": 9,
+      "div#.lightbox-gallery": 9
+    },
+    "galleryContainers": {
+      ".lightbox-gallery": [
+        {
+          "tag": "div",
+          "images": 9,
+          "anchors": 0
+        }
+      ],
+      ".property-banner": [
+        {
+          "tag": "div",
+          "images": 9,
+          "anchors": 9
+        }
+      ]
+    },
+    "title": "Chalet pareado en Els Poblets con piscina privada - Fyhom Real Estate"
+  },
+  "21191": {
+    "url": "https://fyhom.es/property/parcela-rustica-de-mas-de-10-000-m%c2%b2-a-solo-15-minutos-del-mar-costa-blanca-2/",
+    "photos": [
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-f405058 elementor-widget__width-auto",
+          "div#.elementor-element elementor-element-8c26b5f e-con-full"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_anrxtwanrxtwanrx-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-1 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_st8jlost8jlost8j-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-2 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_pmk2w5pmk2w5pmk2-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-3 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_uliashuliashulia-780x780.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "a#.img-wrap-4 houzez-trigger-popup-slider-js",
+          "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02",
+          "div#.hs-gallery-v5-grid",
+          "div#.hs-gallery-v5-grid-wrap",
+          "div#.property-banner"
+        ]
+      },
+      {
+        "url": "Talasa-Terra_Piscina-Diurna-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Salon-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "Talasa-Caelus_Piscina_2-584x438.jpg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "balcon-584x438.jpeg",
+        "ancestor": [
+          "img#.img-fluid wp-post-image",
+          "a#.listing-featured-thumb hover-effect image-wrap",
+          "div#.listing-thumb",
+          "div#.listing-image-wrap",
+          "div#.item-header",
+          "div#.d-flex flex-md-row flex-column"
+        ]
+      },
+      {
+        "url": "FYH_oro_horizontal.png",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.lightbox-logo",
+          "div#.d-flex align-items-center justify-content-between",
+          "div#.modal-header",
+          "div#.modal-content",
+          "div#.modal-dialog"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_anrxtwanrxtwanrx.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_st8jlost8jlost8j.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_pmk2w5pmk2w5pmk2-scaled.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "Gemini_Generated_Image_uliashuliashulia-scaled.jpeg",
+        "ancestor": [
+          "img#.img-fluid",
+          "div#.",
+          "div#lightbox-slider-js.lightbox-slider",
+          "div#.lightbox-gallery",
+          "div#.lightbox-gallery-wrap",
+          "div#.modal-body clearfix"
+        ]
+      },
+      {
+        "url": "FYH_blanco_horizontal.png",
+        "ancestor": [
+          "img#.image-logo elementor-animation-",
+          "a#.",
+          "div#.favethemes-site-logo",
+          "div#.elementor-widget-container",
+          "div#.elementor-element elementor-element-073240c elementor-widget",
+          "div#.elementor-element elementor-element-b37cf21 e-con-full"
+        ]
+      }
+    ],
+    "containerCounts": {
+      "a#.": 2,
+      "div#.favethemes-site-logo": 2,
+      "div#.elementor-widget-container": 2,
+      "a#.img-wrap-1 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-01": 1,
+      "div#.hs-gallery-v5-grid": 4,
+      "a#.img-wrap-2 houzez-trigger-popup-slider-js": 1,
+      "div#.hs-gallery-v5-grid-item hs-gallery-v5-grid-item-02": 3,
+      "a#.img-wrap-3 houzez-trigger-popup-slider-js": 1,
+      "a#.img-wrap-4 houzez-trigger-popup-slider-js": 1,
+      "a#.listing-featured-thumb hover-effect image-wrap": 4,
+      "div#.listing-thumb": 4,
+      "div#.listing-image-wrap": 4,
+      "div#.lightbox-logo": 1,
+      "div#.d-flex align-items-center justify-content-between": 1,
+      "div#.modal-header": 1,
+      "div#.": 4,
+      "div#lightbox-slider-js.lightbox-slider": 4,
+      "div#.lightbox-gallery": 4
+    },
+    "galleryContainers": {
+      ".lightbox-gallery": [
+        {
+          "tag": "div",
+          "images": 4,
+          "anchors": 0
+        }
+      ],
+      ".property-banner": [
+        {
+          "tag": "div",
+          "images": 4,
+          "anchors": 4
+        }
+      ]
+    },
+    "title": "Parcela Rústica de más de 10.000 m² a 15 min del Mar | FYHOM"
+  }
+}
