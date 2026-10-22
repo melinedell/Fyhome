@@ -32,7 +32,9 @@
       "title_es": "Blue Gardens Jávea – Residencial de obra nueva",
       "title": "Blaue Gärten Javea",
       "type": "apartment",
-      "id": "20032"
+      "id": "20032",
+      "title_en": "Blue Gardens Jávea – New-build residences",
+      "description_en": "Blue Gardens Jávea is a new residential development between the Mediterranean Sea and Montgó mountain. It offers contemporary apartments, ground-floor homes and duplex penthouses with generous terraces, natural light and modern finishes. The location provides access to the beaches, coves and amenities of Jávea."
     },
     {
       "baths": 2,
@@ -65,7 +67,9 @@
       "title_es": "Casa espaciosa en el centro de Pego",
       "title": "Haus im Zentrum von Pego",
       "type": "house",
-      "id": "19955"
+      "id": "19955",
+      "title_en": "Spacious town house in the centre of Pego",
+      "description_en": "A spacious house in central Pego with approximately 270 m² arranged over four levels. Part of the property has been renovated, while other areas still require work. Its flexible layout offers potential for a large family or a rental project, subject to any necessary approvals."
     },
     {
       "baths": 4,
@@ -98,7 +102,9 @@
       "title_es": "Villa independiente con gran parcela en Ondara",
       "title": "Haus oder Chalet zu verkaufen in Ondara",
       "type": "villa",
-      "id": "20134"
+      "id": "20134",
+      "title_en": "Detached villa with a large plot in Ondara",
+      "description_en": "A detached villa in Ondara on a level plot of approximately 12,500 m², offering privacy and spacious outdoor areas. The original listing describes two independent, single-storey living units with separate bedrooms and bathrooms. The layout may suit an extended family or guests; details of the property and its availability should be confirmed."
     },
     {
       "baths": 1,
@@ -131,7 +137,9 @@
       "title_es": "Chalet independiente con dos viviendas en Tossal Gross, Oliva",
       "title": "Freistehendes Einfamilienhaus zu verkaufen in der Urbanisation Tossal Gross, 43",
       "type": "house",
-      "id": "19769"
+      "id": "19769",
+      "title_en": "Detached chalet with two homes in Tossal Gross, Oliva",
+      "description_en": "A detached chalet in the Tossal Gross residential area of Oliva, comprising two independent living units. Each has its own entrance and living facilities, offering flexible accommodation for a larger family or visiting guests. Outdoor areas and parking add to the property’s appeal. Rental use is subject to any applicable permissions."
     },
     {
       "baths": 2,
@@ -164,7 +172,9 @@
       "title_es": "Amplio piso en Jávea Centro – Avenida del Rey Juan Carlos I",
       "title": "Javea Centro – Av. del Rei Juan Carlos I",
       "type": "apartment",
-      "id": "19845"
+      "id": "19845",
+      "title_en": "Spacious apartment in central Jávea with sea views",
+      "description_en": "Renovated apartment on Avenida Rey Juan Carlos I in Jávea, with approximately 178 m², five bedrooms and two bathrooms. Its balcony enjoys views towards the sea and Montgó. The apartment is on the fourth floor; according to the original listing, the building did not yet have a lift, although installation was being considered."
     },
     {
       "baths": 0,
@@ -197,7 +207,9 @@
       "title_es": "Local comercial con restaurante y vivienda en Calle Rap, Dénia",
       "title": "Ladenlokal zu verkaufen in Rap-Straße 5",
       "type": "retail",
-      "id": "19839"
+      "id": "19839",
+      "title_en": "Commercial restaurant premises with apartment in Dénia",
+      "description_en": "Commercial property in Calle Rap, Dénia, approximately 200 metres from the beach. The original listing describes a fitted restaurant space ready for business use together with a two-bedroom apartment upstairs. Operating licences, equipment and the exact permitted uses must be verified before purchase."
     },
     {
       "baths": 2,
@@ -231,7 +243,9 @@
       "title_es": "Orange Gardens – Casas adosadas de obra nueva en Sagra",
       "title": "Orangengärten",
       "type": "townhouse",
-      "id": "20086"
+      "id": "20086",
+      "title_en": "Orange Gardens – New-build townhouses in Sagra",
+      "description_en": "Orange Gardens is a residential development close to the centre of Sagra, surrounded by orange groves and natural scenery. The project comprises contemporary townhouse-style homes with outdoor space. Dénia is approximately 12 km away and Ondara around 8 km away, giving access to beaches, shops and regional transport links."
     },
     {
       "baths": 2,
@@ -265,7 +279,9 @@
       "title_es": "Apartamento en Residencial Marina Real III, Dénia",
       "title": "Wohnung zum Verkauf in Denia, Marina Real III",
       "type": "apartment",
-      "id": "20018"
+      "id": "20018",
+      "title_en": "Apartment at Marina Real III, Dénia",
+      "description_en": "Modern new-build apartment in the Marina Real III development in Dénia, around 200 metres from the marina and 600 metres from the beach. Situated on the second floor and facing south, it has two bedrooms, two bathrooms, an open-plan kitchen and living room, and a balcony overlooking the communal gardens and pools. Parking and a storage room are included according to the listing."
     },
     {
       "baths": 2,
@@ -294,7 +310,9 @@
       "title_es": "Zen Castellet de Murla – Viviendas en entorno natural",
       "title": "Zen Castellet von Murla",
       "type": "house",
-      "id": "20092"
+      "id": "20092",
+      "title_en": "Zen Castellet de Murla – Homes in a natural setting",
+      "description_en": "Zen Castellet de Murla is a residential project in a tranquil village setting surrounded by green hills and mountains. Scenic walking routes and open landscapes are among the attractions of the location. This property is marked as sold and is shown only as a reference."
     },
     {
       "baths": 0,
@@ -327,7 +345,9 @@
       "status": "available",
       "title": "Casa de pueblo auténtica con terrazas y vistas al Montgó en El Verger",
       "type": "house",
-      "id": "20372"
+      "id": "20372",
+      "title_en": "Traditional village house with terraces in El Verger",
+      "description_en": "Characterful village house dating from 1887 in central El Verger, with approximately 226 m² of built area over several floors. It has four bedrooms, one bathroom, a living and dining room with fireplace, separate kitchen, courtyard and several terraces. The roof terrace overlooks Montgó and the Segària mountains. The house requires renovation and offers scope for personalisation."
     },
     {
       "baths": 0,
@@ -360,7 +380,9 @@
       "status": "available",
       "title": "Apartamento en primera línea de playa en Denia – Les Marines",
       "type": "apartment",
-      "id": "20655"
+      "id": "20655",
+      "title_en": "Beachfront apartment in Dénia – Les Marines",
+      "description_en": "Bright apartment in Residencial Villa Romana, Phase II, by L’Estanyó beach in Dénia–Les Marines. Approximately 89 m² of built area accommodates three bedrooms and two bathrooms. There is a covered terrace, a further open terrace, private parking and a storage room. The development offers shared swimming pools and direct beach access."
     },
     {
       "baths": 0,
@@ -392,7 +414,9 @@
       "status": "sold",
       "title": "Apartamento en primera linea de playa",
       "type": "apartment",
-      "id": "20256"
+      "id": "20256",
+      "title_en": "Seafront apartment at Playa de la Almadrava",
+      "description_en": "Apartment close to the Mediterranean in Els Poblets, at Playa de la Almadrava. Highlights include a private terrace with sea views, bright living spaces and a quiet location near restaurants and services. This property has been sold and is no longer available for purchase."
     },
     {
       "baths": 2,
@@ -426,7 +450,9 @@
       "status": "available",
       "title": "Chalet independiente de obra nueva con piscina privada en Els poblets",
       "type": "villa",
-      "id": "20593"
+      "id": "20593",
+      "title_en": "New-build villa with private pool in Els Poblets",
+      "description_en": "Modern detached single-storey villa in Els Poblets, with approximately 98 m² of living space on a private plot of around 381 m². It features three bedrooms, two bathrooms, a fitted kitchen, private pool, garden, solarium and parking. The original description mentions energy rating A and integrated climate control."
     },
     {
       "baths": 2,
@@ -460,7 +486,9 @@
       "status": "available",
       "title": "Chalet pareado en Els Poblets con piscina privada",
       "type": "townhouse",
-      "id": "20597"
+      "id": "20597",
+      "title_en": "Modern semi-detached home with pool in Els Poblets",
+      "description_en": "Contemporary semi-detached property within a new development in Els Poblets. Approximately 88 m² of built area on one level includes three bedrooms and two bathrooms. The plot of around 239 m² offers a garden, covered terrace, private pool and pergola-shaded solarium. The listing also mentions air conditioning, solar panels and energy rating A."
     },
     {
       "baths": 2,
@@ -493,7 +521,9 @@
       "status": "available",
       "title": "Chalet Adosado a pocos minutos de la Playa",
       "type": "townhouse",
-      "id": "20276"
+      "id": "20276",
+      "title_en": "Mediterranean townhouse with terraces in El Verger",
+      "description_en": "Cosy townhouse in a peaceful residential neighbourhood of El Verger, a short journey from the beach. It has approximately 80 m² of built area, a bright living and dining room with open kitchen, bedrooms and a bathroom. Private terraces, a courtyard, covered outdoor space, air conditioning and a fitted kitchen complete the home."
     },
     {
       "baths": 2,
@@ -526,7 +556,9 @@
       "status": "available",
       "title": "ESPACIOSA VILLA FAMILIAR",
       "type": "villa",
-      "id": "20301"
+      "id": "20301",
+      "title_en": "Spacious detached family villa with potential",
+      "description_en": "Detached two-storey villa in a quiet setting, with a large living and dining area with fireplace, separate kitchen, bright rooms and terraces overlooking the surroundings. Generous covered space on the lower level could potentially serve as a garage, workshop, storage or hobby area. The garden and outdoor areas offer scope for improvement and personalisation."
     },
     {
       "baths": 0,
@@ -555,7 +587,9 @@
       "status": "available",
       "title": "Terreno urbano en la Marina Alta con vistas despejadas",
       "type": "land",
-      "id": "20678"
+      "id": "20678",
+      "title_en": "Building plot with valley and mountain views in Marina Alta",
+      "description_en": "Level, sunny plot in Marina Alta with open views across the valley and surrounding mountains. According to the original listing it is urban land, with road access and services nearby, and is bordered by traditional stone walls. Planning rights, utility connections and building permissions must be checked with the relevant authorities."
     },
     {
       "baths": 3,
@@ -588,7 +622,9 @@
       "status": "available",
       "title": "Adosado de lujo en La Nucía con gran parcela, piscina y terrazas privadas",
       "type": "townhouse",
-      "id": "20736"
+      "id": "20736",
+      "title_en": "Luxury corner townhouse with pool in La Nucía",
+      "description_en": "High-quality corner townhouse in the Vila Natura development in La Nucía, with a spacious private plot and sea views. The ground floor includes a modern kitchen, bedroom, bathroom and bright living area opening onto the garden. Upstairs are further bedrooms and terraces. A private swimming pool, solarium and generous outdoor space complete the property."
     },
     {
       "baths": 2,
@@ -620,7 +656,9 @@
       "status": "available",
       "title": "Adosado de obra nueva en El Verger con gran solárium y parcela privada",
       "type": "townhouse",
-      "id": "20697"
+      "id": "20697",
+      "title_en": "New-build townhouse with large solarium in El Verger",
+      "description_en": "Modern single-storey townhouse at Residencial La Segaria III in El Verger. The home offers approximately 62 m² of built area with two bedrooms and two bathrooms, on a plot of around 111 m². Covered and open terraces and a private solarium of approximately 62 m² extend the living space. The development has a communal pool and landscaped areas."
     },
     {
       "baths": 3,
@@ -653,7 +691,9 @@
       "status": "available",
       "title": "Amplia casa tradicional con 3 viviendas independientes en Pego",
       "type": "house",
-      "id": "21029"
+      "id": "21029",
+      "title_en": "Traditional town house with three living units in Pego",
+      "description_en": "Distinctive town house in central Pego with approximately 225 m² of built space divided into three largely independent living units. In total it offers five bedrooms, three bathrooms, several kitchens and living spaces, plus terraces and storage. Its layout may suit an extended family or rental project, subject to checking the permitted use and legal status of each unit."
     },
     {
       "baths": 1,
@@ -687,7 +727,9 @@
       "status": "available",
       "title": "Apartamento de obra nueva en Pego con terraza soleada y piscina",
       "type": "apartment",
-      "id": "20831"
+      "id": "20831",
+      "title_en": "New-build apartment with terrace and pool in Pego",
+      "description_en": "Contemporary apartment in the small VISTALMAR development on Passeig del Clot in Pego. It features an open-plan living and dining area, two double bedrooms, one bathroom and a private terrace of around 16–17 m². The development has a communal pool, landscaped grounds and a lift. The listing includes a private parking space and storage room."
     },
     {
       "baths": 0,
@@ -721,7 +763,9 @@
       "status": "available",
       "title": "Ático de obra nueva en Pego con terraza privada y espacio ampliable",
       "type": "apartment",
-      "id": "20835"
+      "id": "20835",
+      "title_en": "New-build penthouse with two terraces in Pego",
+      "description_en": "Bright penthouse in the VISTALMAR development on Passeig del Clot in Pego. The main floor has a living and dining area with modern kitchen, one bedroom, one bathroom and a terrace. Above is a flexible space of approximately 30 m² with another terrace; additional rooms may be possible subject to the relevant permissions. Residents enjoy a communal pool and lift, with parking and storage included according to the listing."
     },
     {
       "baths": 0,
@@ -754,7 +798,9 @@
       "status": "sold",
       "title": "Casa de pueblo tradicional con gran potencial para reformar en Pego",
       "type": "house",
-      "id": "20949"
+      "id": "20949",
+      "title_en": "Traditional town house with renovation potential in Pego",
+      "description_en": "Traditional three-storey town house in central Pego with approximately 176 m² of built area. It includes four bedrooms, a living and dining room with fireplace, kitchen, bathroom, courtyard and roof terrace with mountain views. The east-facing property would benefit from extensive renovation. This property is sold and is shown only as a reference."
     },
     {
       "baths": 3,
@@ -788,7 +834,9 @@
       "status": "available",
       "title": "Chalet adosado de obra nueva en La Nucía con gran espacio extra y piscina privada",
       "type": "townhouse",
-      "id": "20758"
+      "id": "20758",
+      "title_en": "New-build townhouse with basement and pool in La Nucía",
+      "description_en": "Modern townhouse in Residencial Vila Natura, La Nucía, with three bedrooms and three bathrooms. The home offers bright open living spaces, a contemporary kitchen, private terraces and a generous, versatile basement suitable for different potential uses. The plot of approximately 334 m² includes a garden and private swimming pool."
     },
     {
       "baths": 3,
@@ -822,7 +870,9 @@
       "status": "available",
       "title": "Chalet adosado de obra nueva en La Nucía con solárium y vistas al mar",
       "type": "townhouse",
-      "id": "20756"
+      "id": "20756",
+      "title_en": "New-build townhouse with sea views in La Nucía",
+      "description_en": "Modern townhouse at Vila Natura in La Nucía with three bedrooms and multiple outdoor spaces. The ground floor opens to the garden from the bright living and dining area. Upstairs are further bedrooms and terraces. A private pool sits within a plot of around 381 m², while the roof solarium offers sea and coastal views."
     },
     {
       "baths": 3,
@@ -855,7 +905,9 @@
       "status": "available",
       "title": "Elegante Piso Completamente Reformado con Ascensor en el Centro de Dénia",
       "type": "apartment",
-      "id": "21215"
+      "id": "21215",
+      "title_en": "Fully renovated apartment with lift in central Dénia",
+      "description_en": "Tastefully renovated apartment in central Dénia, near the port, restaurants and shops. The building has a lift and convenient access. Inside are an open-plan living and dining area with modern kitchen, three bedrooms, two bathrooms and an additional guest toilet. A private balcony provides outdoor space."
     },
     {
       "baths": 2,
@@ -888,7 +940,9 @@
       "status": "available",
       "title": "Encantadora Villa Mediterránea con Apartamento Independiente a 900 Metros de la Playa en Els Poblets",
       "type": "villa",
-      "id": "21128"
+      "id": "21128",
+      "title_en": "Mediterranean villa with guest apartment in Els Poblets",
+      "description_en": "Detached Mediterranean villa in a quiet part of Els Poblets, approximately 900 metres from the sea. The property occupies two levels and includes a separate guest apartment upstairs. Outdoor features include a private swimming pool, sun terrace, barbecue area and garden. Solar panels are mentioned in the listing, with shops and restaurants within walking distance."
     },
     {
       "baths": 3,
@@ -921,7 +975,9 @@
       "status": "available",
       "title": "Espectacular ático dúplex con terraza panorámica, garaje y vistas al mar en Jávea",
       "type": "apartment",
-      "id": "20994"
+      "id": "20994",
+      "title_en": "Spacious duplex penthouse with sea views in Jávea",
+      "description_en": "Generous duplex penthouse on Calle Azorín in central Jávea, with approximately 192 m² of living space over two levels. It includes three bedrooms, three bathrooms, a large living and dining room, separate kitchen and an east-facing terrace with sea views. A private garage space, storage room, lift and air conditioning are listed as additional features."
     },
     {
       "baths": 2,
@@ -954,7 +1010,9 @@
       "status": "available",
       "title": "Exclusiva Villa de Alta Gama en Monte Corona (Beniarbeig)",
       "type": "villa",
-      "id": "21169"
+      "id": "21169",
+      "title_en": "High-quality villa with private pool in Beniarbeig",
+      "description_en": "Contemporary detached villa in Monte Corona, near Beniarbeig, around 15–20 minutes from Dénia and its beaches. Approximately 150 m² accommodates three bedrooms, two bathrooms and an open-plan living space with kitchen. The private plot offers a pool, sun terrace and outdoor areas. Underfloor heating, photovoltaic panels and air conditioning are mentioned in the listing."
     },
     {
       "baths": 0,
@@ -987,7 +1045,9 @@
       "status": "available",
       "title": "Exclusiva Villa de Autor con 2 Unidades Independientes y Licencia Turística en Jávea",
       "type": "villa",
-      "id": "21056"
+      "id": "21056",
+      "title_en": "Exclusive design villa with two residences in Jávea",
+      "description_en": "Exceptional villa in the Costa Nova/Ambolo area of Jávea, offering approximately 300 m² of built area on a plot of around 812 m². Renovated in 2026 according to the listing, it comprises two separate residences with a total of six bedrooms and four bathrooms. Facilities include a pool, jacuzzi, terraces, underfloor heating, solar installation and smart-home systems. Any holiday rental licence must be independently verified."
     },
     {
       "baths": 3,
@@ -1020,7 +1080,9 @@
       "status": "available",
       "title": "Exclusiva Villa Reformada con Vistas Panorámicas a la Montaña en La Vall de Gallinera",
       "type": "villa",
-      "id": "20876"
+      "id": "20876",
+      "title_en": "Renovated villa with panoramic views in Vall de Gallinera",
+      "description_en": "Detached villa in the natural surroundings of Vall de Gallinera, extensively renovated in 2023 according to the listing. It offers approximately 221 m² on a plot of around 735 m², with bright living spaces, an open kitchen and a separate lower-floor apartment. Terraces exceeding 100 m², a barbecue area, garden and parking provide generous outdoor space; an area for a future pool is envisaged."
     },
     {
       "baths": 2,
@@ -1053,7 +1115,9 @@
       "status": "available",
       "title": "Exclusivo Bajo con Terraza, Garaje y Zonas Resort en Oliva Nova",
       "type": "apartment",
-      "id": "20965"
+      "id": "20965",
+      "title_en": "Garden apartment with resort facilities in Oliva Nova",
+      "description_en": "Well-maintained ground-floor apartment in Oliva Nova, with around 127 m² of built area and approximately 111 m² of usable space. It includes two bedrooms, two bathrooms and a bright living and dining area opening onto a private terrace. The complex offers a communal pool, sauna and gardens. Garage parking, storage and air conditioning are also mentioned."
     },
     {
       "baths": 3,
@@ -1086,7 +1150,9 @@
       "status": "available",
       "title": "Exclusivo Chalet Pareado de Diseño Mediterráneo-Nórdico en Pego",
       "type": "townhouse",
-      "id": "21097"
+      "id": "21097",
+      "title_en": "Mediterranean-Scandinavian semi-detached home in Pego",
+      "description_en": "Distinctively designed semi-detached house in a quiet residential area of Pego on Calle Sant Miquel. The property offers approximately 195 m² over three levels and combines Mediterranean materials with Scandinavian styling. It has an open-plan living and kitchen area, four bedrooms including a main suite, and three bathrooms, together with a garden, terrace and balcony."
     },
     {
       "baths": 3,
@@ -1119,7 +1185,9 @@
       "status": "available",
       "title": "Magnífico dúplex de diseño inverso con terraza, garaje y trastero en Pego",
       "type": "apartment",
-      "id": "21006"
+      "id": "21006",
+      "title_en": "Modern duplex with terrace and garage in Pego",
+      "description_en": "Modern duplex apartment in Pego with two levels, each directly accessible by lift. The upper level has a spacious living and dining room, separate kitchen, guest toilet and private terrace. Below are three bedrooms and two bathrooms, including an en-suite. The apartment also has a private garage space and additional storage."
     },
     {
       "baths": 0,
@@ -1150,7 +1218,9 @@
       "status": "available",
       "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
       "type": "land",
-      "id": "21191"
+      "id": "21191",
+      "title_en": "Rustic plot of over 10,000 m² near Alcalalí",
+      "description_en": "Spacious rustic plot of more than 10,000 m² in peaceful countryside near Alcalalí on the Costa Blanca. The location provides privacy, open views and room for different potential uses. The original listing places the Mediterranean coast around 15 minutes away by car. Building rights, land classification and any permissions must be independently confirmed."
     },
     {
       "baths": 0,
@@ -1181,7 +1251,9 @@
       "status": "available",
       "title": "Parcela Rústica de más de 10.000 m² a solo 15 Minutos del Mar – Costa Blanca",
       "type": "land",
-      "id": "21185"
+      "id": "21185",
+      "title_en": "Rustic plot of over 10,000 m² on the Costa Blanca",
+      "description_en": "Extensive rustic plot exceeding 10,000 m² in a quiet, natural setting on the Costa Blanca. It offers privacy and ample outdoor space, with the coast described as approximately 15 minutes away by car. Any proposed building or other use is subject to the property's precise land classification, planning rules and necessary approvals."
     },
     {
       "baths": 0,
@@ -1215,7 +1287,9 @@
       "status": "available",
       "title": "Talasa Caelus II: viviendas de obra nueva en El Verger",
       "type": "newbuild",
-      "id": "21261"
+      "id": "21261",
+      "title_en": "Talasa Caelus II – New-build homes in El Verger",
+      "description_en": "Talasa Caelus II is a residential development in El Verger featuring contemporary apartments and townhouses with varied layouts. Plans include apartments with one to three bedrooms as well as townhouses with gardens and other outdoor areas. Proposed features include aerothermal hot water, climate control, photovoltaic systems for communal use and preparation for electric-vehicle charging. Details and availability depend on the individual unit."
     },
     {
       "baths": 0,
@@ -1249,7 +1323,9 @@
       "status": "available",
       "title": "Talasa Terra: viviendas de obra nueva en El Verger",
       "type": "newbuild",
-      "id": "21264"
+      "id": "21264",
+      "title_en": "Talasa Terra – New-build apartments and townhouses",
+      "description_en": "Talasa Terra is a new residential project in El Verger comprising apartments and townhouses with different layouts. Depending on the unit, private outdoor spaces may include a terrace, garden or solarium. Planned communal amenities include gardens, a pool and bicycle storage. Residents are also expected to have access to the Puerto de Talasa beachfront leisure area, subject to the development's conditions."
     },
     {
       "baths": 2,
@@ -1283,7 +1359,9 @@
       "status": "available",
       "title": "Viviendas de obra nueva en El Verger: descubre Talasa Caelus",
       "type": "newbuild",
-      "id": "21243"
+      "id": "21243",
+      "title_en": "Talasa Caelus – New-build development with pool",
+      "description_en": "Talasa Caelus is a modern residential development in El Verger, offering apartments with different layouts and outdoor spaces. Planned communal amenities include gardens, a swimming pool, social facilities and bicycle storage. The developer describes access to the Puerto de Talasa leisure area at Playa de la Almadrava in Dénia. Final specifications and unit availability require confirmation."
     },
     {
       "baths": 2,
@@ -1318,7 +1396,9 @@
       "title_es": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
       "title": "Espectacular vivienda de 116m² en Pego con acabados de lujo",
       "type": "apartment",
-      "id": "20861"
+      "id": "20861",
+      "title_en": "Renovated 116 m² apartment in Pego",
+      "description_en": "Fully renovated apartment of approximately 116 m² in central Pego. It features a bright open-plan living and dining room with a modern fitted kitchen, two bedrooms and two bathrooms according to the original listing. Contemporary finishes and practical living spaces are key features. This property has been sold and is no longer available for purchase."
     }
   ]
 }
