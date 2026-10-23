@@ -44,3 +44,17 @@ Dieser Status ist eine Dokumentation, kein automatischer Beleg über eine abgesc
 - Formulare für Verkauf/Bewertung: Immobilientyp und Zustand jetzt in allen sechs Sprachen; stabile Optionswerte bleiben beim Sprachwechsel erhalten. Kontaktformular hat eigenen Nachricht-senden-Text. Galerie-/Menübeschriftungen und Abschnittsüberschriften sind lokalisiert; Browser-Seitentitel wird beim Sprachwechsel aktualisiert.
 - Technisch geprüft: JS-Syntax; 480 nichtleere Titel-/Beschreibungsfelder; identische Wörterbuchschlüssel; keine Änderung an Objekt-IDs, Bildern, Galerien, Preisen, Flächenfeldern, Ausstattung, Status oder Featured-Auswahl durch die Sprachprüfung. Formular-Sprachwechsel in allen sechs Sprachen auf der veröffentlichten Seite geprüft.
 - Dies ist eine redaktionelle und technische Prüfung, keine muttersprachliche Zertifizierung und keine neue Bestätigung der ursprünglichen Objektangaben oder juristische Freigabe.
+
+## Vollständige Textbearbeitung im Admin – 23. Oktober 2026
+
+- Das Admin-Center enthält unter **Website-Texte** jetzt zwei getrennte Bereiche:
+  - **Design, Bilder und Startseitenbereiche**
+  - **Alle Website-Texte in 6 Sprachen**
+- In der vollständigen Textverwaltung sind 202 sichtbare Textbausteine einzeln aufklappbar. Deutsch, Spanisch, Englisch, Französisch, Niederländisch und Russisch stehen jeweils gemeinsam in einem Eintrag.
+- Bearbeitbar sind damit unter anderem Navigation, Startseite, Immobilienübersicht, Suchauftrag, Formulare, Verkaufen, Bewertung, Über uns, Service, Kontakt, rechtliche Oberflächentexte und Bedienhinweise.
+- Immobilien-Titel und -Beschreibungen bleiben unter **Immobilien**, Teamtexte unter **Teammitglieder**, zusätzliche Leistungen unter **Zusätzliche Leistungen & Ideen** und vollständige Rechtstexte unter **Rechtstexte**.
+- Neue Inhaltsdatei: `content/site-texts.json`. Sie wird von `fyhom-app.js` geladen und überschreibt die eingebauten Standardübersetzungen.
+- Die französische Navigation wurde von **Biens** auf **Biens immobiliers** geändert.
+- Auch die Rückmeldungen des Kontaktformulars sind nun in allen sechs Sprachen editierbar.
+- Live-Prüfung: Cloudflare-Deployment `4fd0e8485e9659306f429fb309719d4da2d6a925` erfolgreich; französische Live-Navigation zeigt **BIENS IMMOBILIERS**.
+
